@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1001",
+    "codscanner": "25185091285",
+    "descriart": "ACEITE ELAION 1.5 LTS",
+    "precio": 32000.25,
+    "preciosiniva": 27000,
+    "precioxcantidad": 27500
+  },
+  {
+    "id": "1002",
+    "codscanner": "25185091285",
+    "descriart": "Diesel Premium",
+    "precio": 1.35,
+    "preciosiniva": 1.15,
+    "precioxcantidad": 1.3
+  },
+  {
+    "id": "1003",
+    "codscanner": "25185091285",
+    "descriart": "Gasolina Premium",
+    "precio": 1.45,
+    "preciosiniva": 1.25,
+    "precioxcantidad": 1.4
+  }
+]
