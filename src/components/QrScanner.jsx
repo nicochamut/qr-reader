@@ -2,7 +2,6 @@ import React, { useEffect, useRef } from "react";
 import { Html5Qrcode } from "html5-qrcode";
 
 const QrScanner = ({ onScanSuccess, onClose }) => {
-  const scannerRef = useRef(null);
   const html5QrCodeRef = useRef(null);
 
   useEffect(() => {
@@ -11,11 +10,10 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
     html5QrCodeRef.current = new Html5Qrcode(qrRegionId);
 
     Html5Qrcode.getCameras().then((devices) => {
-      if (devices && devices.length) {
+      if (devices.length) {
         const rearCamera =
-          devices.find((device) =>
-            device.label.toLowerCase().includes("back")
-          ) || devices[0];
+          devices.find((d) => d.label.toLowerCase().includes("back")) ||
+          devices[0];
         html5QrCodeRef.current
           .start(
             rearCamera.id,
@@ -26,11 +24,9 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
                 html5QrCodeRef.current.clear();
               });
             },
-            (errorMessage) => {
-              // Opcional: console.log(errorMessage);
-            }
+            (error) => {}
           )
-          .catch((err) => console.error("Error al iniciar la cámara", err));
+          .catch((err) => console.error("Error al iniciar QR", err));
       }
     });
 
@@ -42,33 +38,9 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
   }, [onScanSuccess]);
 
   return (
-    <div
-      style={{ display: "flex", flexDirection: "column", alignItems: "center" }}
-    >
-      <div
-        id="qr-reader"
-        style={{
-          width: "100%",
-          maxWidth: "400px",
-          borderRadius: "20px",
-          overflow: "hidden",
-          boxShadow: "0 4px 12px rgba(0,0,0,0.3)",
-        }}
-      />
-      <button
-        onClick={onClose}
-        style={{
-          marginTop: "1rem",
-          padding: "0.5rem 1rem",
-          borderRadius: "15px",
-          background: "#ff5f57",
-          color: "white",
-          border: "none",
-          fontWeight: "bold",
-        }}
-      >
-        Cancelar
-      </button>
+    <div>
+      <div id="qr-reader" style={{ width: "100%", maxWidth: "400px" }} />
+      <button onClick={onClose}>Cancelar</button>
     </div>
   );
 };

@@ -23,16 +23,21 @@ const ProductDetails = ({ producto }) => {
   } = producto;
 
   const handleScanSuccess = (text) => {
-    // Podés redirigir o buscar un producto por ID
-    window.location.href = `/producto/${text}`;
+    try {
+      const url = new URL(text);
+      const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
+      const cliente = pathParts[2];
+      const id = pathParts[3];
+      window.location.href = `/producto/${cliente}/${id}`;
+    } catch (err) {
+      alert("Código QR inválido");
+    }
   };
 
   if (escanear) {
     return (
-      <div
-        style={{ padding: "1rem", minHeight: "100vh", background: "#f4f4f4" }}
-      >
-        <h2 style={{ textAlign: "center" }}>Escaneá un nuevo producto</h2>
+      <div style={{ padding: "1rem" }}>
+        <h2>Escaneá un nuevo producto</h2>
         <QrScanner
           onScanSuccess={handleScanSuccess}
           onClose={() => setEscanear(false)}
