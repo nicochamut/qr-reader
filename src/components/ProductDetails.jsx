@@ -28,7 +28,7 @@ const ProductDetails = ({ producto }) => {
       const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
       const cliente = pathParts[2];
       const id = pathParts[3];
-      window.location.href = `/producto/${cliente}/${id}`;
+      window.location.href = `/apies/${cliente}/${id}`;
     } catch (err) {
       alert("Código QR inválido");
     }
