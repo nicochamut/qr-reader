@@ -26,12 +26,17 @@ const ProductDetails = ({ producto }) => {
     // Podés redirigir o buscar un producto por ID
     window.location.href = `/producto/${text}`;
   };
+
   if (escanear) {
     return (
-      <div style={{ padding: "1rem", minHeight: "100vh" }}>
+      <div
+        style={{ padding: "1rem", minHeight: "100vh", background: "#f4f4f4" }}
+      >
         <h2 style={{ textAlign: "center" }}>Escaneá un nuevo producto</h2>
-        <QrScanner onScanSuccess={handleScanSuccess} />
-        <Volver onClick={() => setEscanear(false)}>Cancelar</Volver>
+        <QrScanner
+          onScanSuccess={handleScanSuccess}
+          onClose={() => setEscanear(false)}
+        />
       </div>
     );
   }
