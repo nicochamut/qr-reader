@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+const beep = useRef(new Audio("/sounds/beep.mp3"));
 import styled from "styled-components";
 import ypflogo from "../assets/ypflogo.png";
 import pumalogo from "../assets/pumalogo.png";
@@ -22,14 +22,18 @@ const ProductDetails = ({ producto }) => {
     precioxcantidad,
   } = producto;
 
-  const beep = new Audio("/sounds/beep.mp3");
-
   const handleScanSuccess = (text) => {
     try {
       const url = new URL(text);
       const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
       const cliente = pathParts[2];
       const id = pathParts[3];
+
+      beep.current.currentTime = 0; // Reiniciar si ya estaba sonando
+      beep.current
+        .play()
+        .catch((e) => console.warn("No se pudo reproducir el sonido", e));
+
       window.location.href = `/apies/${cliente}/${id}`;
     } catch (err) {
       alert("Código QR inválido");
@@ -37,7 +41,6 @@ const ProductDetails = ({ producto }) => {
   };
 
   if (escanear) {
-    beep.play();
     return (
       <div style={{ padding: "1rem" }}>
         <h2>Escaneá un nuevo producto</h2>
