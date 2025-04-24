@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-const beep = useRef(new Audio("/sounds/beep.mp3"));
+
 import styled from "styled-components";
 import ypflogo from "../assets/ypflogo.png";
 import pumalogo from "../assets/pumalogo.png";
@@ -28,8 +28,6 @@ const ProductDetails = ({ producto }) => {
       const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
       const cliente = pathParts[2];
       const id = pathParts[3];
-
-      beep.play();
 
       window.location.href = `/apies/${cliente}/${id}`;
     } catch (err) {
