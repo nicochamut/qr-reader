@@ -22,12 +22,15 @@ const ProductDetails = ({ producto }) => {
     precioxcantidad,
   } = producto;
 
+  const beep = new Audio("/sounds/beep.mp3");
+
   const handleScanSuccess = (text) => {
     try {
       const url = new URL(text);
       const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
       const cliente = pathParts[2];
       const id = pathParts[3];
+      beep.play();
       window.location.href = `/apies/${cliente}/${id}`;
     } catch (err) {
       alert("Código QR inválido");
