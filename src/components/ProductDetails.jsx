@@ -29,10 +29,7 @@ const ProductDetails = ({ producto }) => {
       const cliente = pathParts[2];
       const id = pathParts[3];
 
-      beep.current.currentTime = 0; // Reiniciar si ya estaba sonando
-      beep.current
-        .play()
-        .catch((e) => console.warn("No se pudo reproducir el sonido", e));
+      beep.play();
 
       window.location.href = `/apies/${cliente}/${id}`;
     } catch (err) {
