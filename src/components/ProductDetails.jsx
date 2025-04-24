@@ -31,13 +31,13 @@ const ProductDetails = ({ producto }) => {
       const cliente = pathParts[2];
       const id = pathParts[3];
       window.location.href = `/apies/${cliente}/${id}`;
-      beep.play();
     } catch (err) {
       alert("Código QR inválido");
     }
   };
 
   if (escanear) {
+    beep.play();
     return (
       <div style={{ padding: "1rem" }}>
         <h2>Escaneá un nuevo producto</h2>
