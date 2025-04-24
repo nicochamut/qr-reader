@@ -30,8 +30,8 @@ const ProductDetails = ({ producto }) => {
       const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
       const cliente = pathParts[2];
       const id = pathParts[3];
-      beep.play();
       window.location.href = `/apies/${cliente}/${id}`;
+      beep.play();
     } catch (err) {
       alert("Código QR inválido");
     }
