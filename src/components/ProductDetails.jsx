@@ -81,11 +81,31 @@ const ProductDetails = ({ producto }) => {
       <Razon $bandera={bandera}>{razon_social}</Razon>
       <Main $bandera={bandera}>
         <Card>
-          <CodScanner>{cod_articulo}</CodScanner>
+          <CodScanner>
+            <span>{cod_articulo}</span>
+            <span>{ean}</span>
+          </CodScanner>
           <Descripcion>{articulo}</Descripcion>
           <Transparencia>
-            <span>s/imp: ${precio_neto}</span>
-            <span>1lt: ${precio_x_unidad}</span>
+            <div>
+              <span>Precio neto:</span>
+              <span>${precio_neto}</span>
+            </div>
+            <div>
+              <span>Imp. interntos: </span>
+              <span>${impuestos}</span>
+            </div>
+            <div>
+              <span>Iva: </span>
+              <span>${iva}</span>
+            </div>
+            <div>
+              <span>Precio por unidad:</span>
+              <span>
+                {unidad}
+                {unidad_medida} ${precio_x_unidad}
+              </span>
+            </div>
           </Transparencia>
           <Precio>
             $
@@ -96,7 +116,11 @@ const ProductDetails = ({ producto }) => {
         </Card>
 
         <QRSection>
-          <QRImage src={qrlogo} alt="QR code" />
+          <QRImage
+            src={qrlogo}
+            alt="QR code"
+            onClick={() => setEscanear(true)}
+          />
           <Volver onClick={() => setEscanear(true)}>
             <img src={retry} /> Volver a escanear
           </Volver>
@@ -144,8 +168,8 @@ const Main = styled.div`
 `;
 
 const Logo = styled.img`
-  padding-left: 1rem;
-  width: 2.5rem;
+  padding-left: 0.1rem;
+  width: 2.2rem;
 `;
 
 const Header = styled.div`
@@ -171,7 +195,8 @@ const BanderaTag = styled.div`
   border-radius: 1rem;
 
   img {
-    width: 5rem;
+    width: 4rem;
+    border-radius: 5px;
   }
 `;
 
@@ -189,8 +214,11 @@ const Card = styled.div`
 
 const CodScanner = styled.p`
   font-size: 0.9rem;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #d5d5d5;
   padding-bottom: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 `;
 
 const Descripcion = styled.h2`
@@ -201,10 +229,17 @@ const Descripcion = styled.h2`
 
 const Transparencia = styled.div`
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  flex-direction: column;
   font-size: 0.9rem;
-  border-bottom: 1px solid #ccc;
+
   padding-bottom: 6px;
+
+  div {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.5px solid #d5d5d5;
+  }
 `;
 
 const Precio = styled.div`
@@ -245,7 +280,7 @@ const Volver = styled.div`
 `;
 
 const Footer = styled.div`
-  margin-top: 6rem;
+  margin-top: 4rem;
 
   font-size: 0.75rem;
   color: #333;
