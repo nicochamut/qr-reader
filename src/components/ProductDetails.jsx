@@ -13,13 +13,27 @@ import QrScanner from "./QrScanner";
 const ProductDetails = ({ producto }) => {
   const [escanear, setEscanear] = useState(false);
   const {
-    precio,
-    preciosiniva,
-    bandera,
-    codscanner,
-    descriart,
-    razon,
-    precioxcantidad,
+    BANDERA,
+    RAZON_SOCIAL,
+    COD_LISTA_PRECIO,
+    LISTA,
+    COD_RUBRO,
+    RUBRO,
+    EAN,
+    COD_ARTICULO,
+    ARTICULO,
+    PRECIO_X_UNIDAD,
+    VOLUMEN_X_UNIDAD,
+    PRECIO_NETO,
+    IMPUESTOS,
+    IVA,
+    PRECIO,
+    UNIDAD,
+    UNIDAD_MEDIDA,
+    UBICACION,
+    PRECIO_DOLAR,
+    COTIZ_DOLAR,
+    FECHA_COTIZ_DOLAR,
   } = producto;
 
   const handleScanSuccess = (text) => {
@@ -29,7 +43,7 @@ const ProductDetails = ({ producto }) => {
       const cliente = pathParts[2];
       const id = pathParts[3];
 
-      window.location.href = `/apies/${cliente}/${id}`;
+      window.location.href = `/apies/${cliente}/${id}}`;
     } catch (err) {
       alert("Código QR inválido");
     }
@@ -48,15 +62,15 @@ const ProductDetails = ({ producto }) => {
   }
 
   return (
-    <Wrapper bandera={bandera}>
+    <Wrapper BANDERA={BANDERA}>
       <Header>
         <Logo src={oleumlogo} alt="Grupo Oleum SRL" />
         <BanderaTag>
           <img
             src={
-              bandera === "ypf"
+              BANDERA === "YPF"
                 ? ypflogo
-                : bandera === "shell"
+                : BANDERA === "shell"
                 ? logoshell
                 : fulllogo
             }
@@ -64,18 +78,18 @@ const ProductDetails = ({ producto }) => {
         </BanderaTag>
       </Header>
 
-      <Razon bandera={bandera}>{razon}</Razon>
-      <Main bandera={bandera}>
+      <Razon BANDERA={BANDERA}>{RAZON_SOCIAL}</Razon>
+      <Main BANDERA={BANDERA}>
         <Card>
-          <CodScanner>{codscanner}</CodScanner>
-          <Descripcion>{descriart}</Descripcion>
+          <CodScanner>{COD_ARTICULO}</CodScanner>
+          <Descripcion>{ARTICULO}</Descripcion>
           <Transparencia>
-            <span>s/imp: ${preciosiniva}</span>
-            <span>1lt: ${precioxcantidad}</span>
+            <span>s/imp: ${PRECIO_NETO}</span>
+            <span>1lt: ${PRECIO_X_UNIDAD}</span>
           </Transparencia>
           <Precio>
             $
-            {precio.toLocaleString("es-AR", {
+            {PRECIO.toLocaleString("es-AR", {
               minimumFractionDigits: 2,
             })}
           </Precio>
@@ -101,12 +115,12 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: ${({ bandera }) =>
-    bandera === "puma"
+  background: ${({ BANDERA }) =>
+    BANDERA === "puma"
       ? "#007649"
-      : bandera === "ypf"
+      : BANDERA === "ypf"
       ? "#0265BD"
-      : bandera === "shell"
+      : BANDERA === "shell"
       ? "#FECB00"
       : "#979797"};
 `;
@@ -121,10 +135,10 @@ const Main = styled.div`
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
-  border-top: ${({ bandera }) =>
-    bandera === "shell"
+  border-top: ${({ BANDERA }) =>
+    BANDERA === "shell"
       ? "10px solid red"
-      : bandera === "ypf"
+      : BANDERA === "YPF"
       ? "10px solid black"
       : "10px solid white"};
 `;
@@ -143,7 +157,7 @@ const Header = styled.div`
 
 const Razon = styled.h2`
   text-align: center;
-  color: ${({ bandera }) => (bandera === "shell" ? "#000000" : "#ffff")};
+  color: ${({ BANDERA }) => (BANDERA === "shell" ? "#000000" : "#ffff")};
   font-size: 2rem;
   margin-top: 0.7rem;
   font-weight: 600;

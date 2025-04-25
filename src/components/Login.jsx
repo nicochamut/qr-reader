@@ -16,13 +16,14 @@ const Container = styled.div`
     position: absolute;
     bottom: 6rem;
     left: 10rem;
+
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    font-size: 2rem;
+    font-size: 1.2rem;
     font-family: "Montserrat";
-    color: white;
+    color: #919191;
     img {
       width: 15rem;
     }
@@ -30,11 +31,9 @@ const Container = styled.div`
 `;
 
 const Card = styled.div`
-  background: white;
-
   padding: 2rem;
-  border-radius: 0.5rem;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   width: 100%;
   max-width: 30rem;
   height: 22rem;
@@ -43,13 +42,23 @@ const Card = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background: linear-gradient(to left, #00557f, #00324d);
+  form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 100%;
+  }
 `;
 
 const Title = styled.h1`
-  font-size: 2.2rem;
+  font-size: 2.3rem;
+  font-weight: 600;
   margin-bottom: 2rem;
   padding-bottom: -20px;
-
+  color: white;
   width: 15rem;
   text-align: center;
   height: 3.5rem;
@@ -60,20 +69,28 @@ const Input = styled.input`
   width: 90%;
   padding: 0.75rem;
   margin-bottom: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 0.25rem;
+  border: 1px solid #5e5c5c;
+  border-radius: 1rem;
   font-size: 1.5rem;
+
+  color: #000000;
+  border-radius: 8px;
 `;
 
 const Button = styled.button`
-  width: 100%;
+  width: 80%;
   padding: 0.75rem;
-  background-color: #2c9cd7;
+  background-color: #3bb2f6;
   color: white;
   border: none;
   border-radius: 0.25rem;
   font-size: 1.2rem;
   cursor: pointer;
+  margin-top: 0.5rem;
+
+  &&:hover {
+    background: #2495d3;
+  }
 `;
 
 const Error = styled.p`

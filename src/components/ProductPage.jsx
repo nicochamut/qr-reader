@@ -31,10 +31,12 @@ function ProductPage() {
       .then((data) => {
         // Se asume que el JSON es un array de productos.
         // Se busca el producto cuyo id coincida con el productId de la URL.
+
         const productoEncontrado = data.find(
-          (item) => String(item.id) === productId
+          (item) => String(item.COD_ARTICULO) === productId
         );
         setProducto(productoEncontrado);
+        console.log(productoEncontrado);
       })
       .catch((err) => {
         console.error(err);
@@ -49,7 +51,6 @@ function ProductPage() {
   if (cargando) return <div>Cargando...</div>;
   if (error) return <div>Error: {error}</div>;
   if (!producto) return <div>Producto no encontrado.</div>;
-  console.log(producto);
 
   return (
     <ProductPageSt>
