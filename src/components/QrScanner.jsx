@@ -1,5 +1,35 @@
 import React, { useEffect, useRef } from "react";
 import { Html5Qrcode } from "html5-qrcode";
+import styled from "styled-components";
+
+const ScannerWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f5f5f5;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+`;
+
+const QrContainer = styled.div`
+  width: 100%;
+  max-width: 400px;
+  border: 2px dashed #4caf50;
+  border-radius: 8px;
+  overflow: hidden;
+`;
+
+const CancelButton = styled.button`
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+`;
 
 const QrScanner = ({ onScanSuccess, onClose }) => {
   const html5QrCodeRef = useRef(null);
@@ -24,7 +54,7 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
                 html5QrCodeRef.current.clear();
               });
             },
-            (error) => {}
+            () => {}
           )
           .catch((err) => console.error("Error al iniciar QR", err));
       }
@@ -38,10 +68,10 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
   }, [onScanSuccess]);
 
   return (
-    <div>
-      <div id="qr-reader" style={{ width: "100%", maxWidth: "400px" }} />
-      <button onClick={onClose}>Cancelar</button>
-    </div>
+    <ScannerWrapper>
+      <QrContainer id="qr-reader" />
+      <CancelButton onClick={onClose}>Cancelar</CancelButton>
+    </ScannerWrapper>
   );
 };
 
