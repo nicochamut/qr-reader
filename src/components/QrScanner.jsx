@@ -6,17 +6,18 @@ const ScannerWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: #f5f5f5;
+  background: #717171;
   padding: 1rem;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: white;
 `;
 
 const QrContainer = styled.div`
   width: 100%;
   max-width: 400px;
-  border: 2px dashed #4caf50;
-  border-radius: 8px;
+  border: 2px solid #4c98af;
+  border-radius: 20px;
   overflow: hidden;
 `;
 
