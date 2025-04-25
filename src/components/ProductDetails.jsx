@@ -254,15 +254,15 @@ const QRSection = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 2rem;
+  margin-top: 1rem;
   gap: 0.1rem;
 `;
 
 const QRImage = styled.img`
-  width: 8rem;
+  width: 6rem;
   margin-bottom: -5px;
   object-fit: contain;
-  border-radius: 20px;
+  border-radius: 12px;
   background: #ffffff;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.379);
 `;
@@ -272,8 +272,8 @@ const Volver = styled.div`
   background: linear-gradient(to bottom, #07ab72, #69e46d);
   padding: 0.5rem 1rem;
   color: white;
-  border-radius: 20px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.379);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.244);
   font-weight: 600;
   display: flex;
   justify-content: center;
@@ -281,7 +281,7 @@ const Volver = styled.div`
 `;
 
 const Footer = styled.div`
-  margin-top: 2rem;
+  margin-top: 1rem;
 
   font-size: 0.75rem;
   color: #333;
