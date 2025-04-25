@@ -135,10 +135,11 @@ const ProductDetails = ({ producto }) => {
 
 const Wrapper = styled.div`
   width: 100%;
-  min-height: 100vh;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
   background: ${({ $bandera }) =>
     $bandera === "puma"
       ? "#007649"
