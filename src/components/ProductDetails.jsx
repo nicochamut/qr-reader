@@ -43,7 +43,7 @@ const ProductDetails = ({ producto }) => {
       const cliente = pathParts[2];
       const id = pathParts[3];
 
-      window.location.href = `/apies/${cliente}/${id}}`;
+      window.location.href = `/apies/${cliente}/${id}`;
     } catch (err) {
       alert("Código QR inválido");
     }
