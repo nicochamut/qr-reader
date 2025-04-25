@@ -183,7 +183,7 @@ const Header = styled.div`
 const Razon = styled.h2`
   text-align: center;
   color: ${({ $bandera }) => ($bandera === "shell" ? "#000000" : "#ffff")};
-  font-size: 2rem;
+  font-size: 1.7rem;
   margin-top: 0.7rem;
   font-weight: 600;
   font-family: "Montserrat", sans-serif;
@@ -203,7 +203,7 @@ const BanderaTag = styled.div`
 
 const Card = styled.div`
   background: white;
-  margin-top: 1.2rem;
+  margin-top: 0;
   padding: 1.5rem 1.2rem;
   width: 90%;
   border-radius: 15px;
