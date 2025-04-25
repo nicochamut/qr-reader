@@ -33,7 +33,7 @@ function ProductPage() {
         // Se busca el producto cuyo id coincida con el productId de la URL.
 
         const productoEncontrado = data.find(
-          (item) => String(item.COD_ARTICULO) === productId
+          (item) => String(item.cod_articulo) === productId
         );
         setProducto(productoEncontrado);
         console.log(productoEncontrado);

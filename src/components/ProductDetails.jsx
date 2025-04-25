@@ -13,27 +13,27 @@ import QrScanner from "./QrScanner";
 const ProductDetails = ({ producto }) => {
   const [escanear, setEscanear] = useState(false);
   const {
-    BANDERA,
-    RAZON_SOCIAL,
-    COD_LISTA_PRECIO,
-    LISTA,
-    COD_RUBRO,
-    RUBRO,
-    EAN,
-    COD_ARTICULO,
-    ARTICULO,
-    PRECIO_X_UNIDAD,
-    VOLUMEN_X_UNIDAD,
-    PRECIO_NETO,
-    IMPUESTOS,
-    IVA,
-    PRECIO,
-    UNIDAD,
-    UNIDAD_MEDIDA,
-    UBICACION,
-    PRECIO_DOLAR,
-    COTIZ_DOLAR,
-    FECHA_COTIZ_DOLAR,
+    bandera,
+    razon_social,
+    cod_lista_precio,
+    lista,
+    cod_rubro,
+    rubro,
+    ean,
+    cod_articulo,
+    articulo,
+    precio_x_unidad,
+    volumen_x_unidad,
+    precio_neto,
+    impuestos,
+    iva,
+    precio,
+    unidad,
+    unidad_medida,
+    ubicacion,
+    precio_dolar,
+    cotiz_dolar,
+    fecha_cotiz_dolar,
   } = producto;
 
   const handleScanSuccess = (text) => {
@@ -48,7 +48,7 @@ const ProductDetails = ({ producto }) => {
       alert("Código QR inválido");
     }
   };
-
+  console.log(bandera);
   if (escanear) {
     return (
       <div style={{ padding: "1rem" }}>
@@ -62,15 +62,15 @@ const ProductDetails = ({ producto }) => {
   }
 
   return (
-    <Wrapper BANDERA={BANDERA}>
+    <Wrapper $bandera={bandera}>
       <Header>
         <Logo src={oleumlogo} alt="Grupo Oleum SRL" />
         <BanderaTag>
           <img
             src={
-              BANDERA === "YPF"
+              bandera === "YPF"
                 ? ypflogo
-                : BANDERA === "shell"
+                : bandera === "shell"
                 ? logoshell
                 : fulllogo
             }
@@ -78,18 +78,18 @@ const ProductDetails = ({ producto }) => {
         </BanderaTag>
       </Header>
 
-      <Razon BANDERA={BANDERA}>{RAZON_SOCIAL}</Razon>
-      <Main BANDERA={BANDERA}>
+      <Razon $bandera={bandera}>{razon_social}</Razon>
+      <Main $bandera={bandera}>
         <Card>
-          <CodScanner>{COD_ARTICULO}</CodScanner>
-          <Descripcion>{ARTICULO}</Descripcion>
+          <CodScanner>{cod_articulo}</CodScanner>
+          <Descripcion>{articulo}</Descripcion>
           <Transparencia>
-            <span>s/imp: ${PRECIO_NETO}</span>
-            <span>1lt: ${PRECIO_X_UNIDAD}</span>
+            <span>s/imp: ${precio_neto}</span>
+            <span>1lt: ${precio_x_unidad}</span>
           </Transparencia>
           <Precio>
             $
-            {PRECIO.toLocaleString("es-AR", {
+            {precio.toLocaleString("es-AR", {
               minimumFractionDigits: 2,
             })}
           </Precio>
@@ -115,12 +115,12 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: ${({ BANDERA }) =>
-    BANDERA === "puma"
+  background: ${({ $bandera }) =>
+    $bandera === "puma"
       ? "#007649"
-      : BANDERA === "ypf"
+      : $bandera === "YPF"
       ? "#0265BD"
-      : BANDERA === "shell"
+      : $bandera === "shell"
       ? "#FECB00"
       : "#979797"};
 `;
@@ -135,10 +135,10 @@ const Main = styled.div`
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
-  border-top: ${({ BANDERA }) =>
-    BANDERA === "shell"
+  border-top: ${({ $bandera }) =>
+    $bandera === "shell"
       ? "10px solid red"
-      : BANDERA === "YPF"
+      : $bandera === "YPF"
       ? "10px solid black"
       : "10px solid white"};
 `;
@@ -157,7 +157,7 @@ const Header = styled.div`
 
 const Razon = styled.h2`
   text-align: center;
-  color: ${({ BANDERA }) => (BANDERA === "shell" ? "#000000" : "#ffff")};
+  color: ${({ $bandera }) => ($bandera === "shell" ? "#000000" : "#ffff")};
   font-size: 2rem;
   margin-top: 0.7rem;
   font-weight: 600;

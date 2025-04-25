@@ -31,7 +31,7 @@ const PDFPageRenderer = ({ productos, cliente, onRenderComplete }) => {
     >
       {productos.map((producto) => (
         <div
-          key={producto.COD_ARTICULO}
+          key={producto.cod_articulo}
           style={{
             border: "1px solid #ccc",
             borderRadius: "10px",
@@ -44,7 +44,7 @@ const PDFPageRenderer = ({ productos, cliente, onRenderComplete }) => {
             {producto.ARTICULO}
           </div>
           <QRCode
-            value={`https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.COD_ARTICULO}`}
+            value={`https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.cod_articulo}`}
             size={100}
             bgColor="#ffffff"
             fgColor="#000000"

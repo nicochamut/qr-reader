@@ -149,7 +149,7 @@ const AdminPanel = () => {
   }, [cliente]);
 
   const productosFiltrados = productos.filter((p) =>
-    rubro === "" ? true : p.RUBRO?.toLowerCase().includes(rubro.toLowerCase())
+    rubro === "" ? true : p.rubro?.toLowerCase().includes(rubro.toLowerCase())
   );
 
   const totalPaginas = Math.ceil(productosFiltrados.length / itemsPorPagina);
@@ -171,7 +171,7 @@ const AdminPanel = () => {
       const producto = productosFiltrados[i];
 
       try {
-        const url = `https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.COD_ARTICULO}`;
+        const url = `https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.cod_articulo}`;
         const dataUrl = await QRGenerator.toDataURL(url, {
           errorCorrectionLevel: "H",
           type: "image/png",
@@ -185,7 +185,7 @@ const AdminPanel = () => {
 
         // 🔺 Nombre del producto (centrado arriba)
         doc.setFontSize(10);
-        const titulo = producto.ARTICULO.slice(0, 35);
+        const titulo = producto.articulo.slice(0, 35);
         const tituloWidth = doc.getTextWidth(titulo);
         doc.text(titulo, x + 25 - tituloWidth / 2, y - 4);
 
@@ -194,7 +194,7 @@ const AdminPanel = () => {
 
         // 🔻 Código del artículo (centrado abajo)
         doc.setFontSize(9);
-        const codigo = producto.COD_ARTICULO.toString();
+        const codigo = producto.cod_articulo.toString();
         const codWidth = doc.getTextWidth(codigo);
         doc.text(codigo, x + 25 - codWidth / 2, y + 58);
 
@@ -249,16 +249,16 @@ const AdminPanel = () => {
 
       <QRGrid>
         {productosPaginados.map((producto) => (
-          <QRCard key={producto.COD_ARTICULO}>
-            <h3>{producto.ARTICULO}</h3>
+          <QRCard key={producto.cod_articulo}>
+            <h3>{producto.articulo}</h3>
             <QRCode
-              value={`https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.COD_ARTICULO}`}
+              value={`https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.cod_articulo}`}
               size={170}
               bgColor="#ffffff"
               fgColor="#000000"
             />
             <p style={{ fontSize: "0.75rem", marginTop: "0.5rem" }}>
-              {producto.COD_ARTICULO}
+              {producto.cod_articulo}
             </p>
           </QRCard>
         ))}
