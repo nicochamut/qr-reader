@@ -92,7 +92,7 @@ const ProductDetails = ({ producto }) => {
               <span>${precio_neto}</span>
             </div>
             <div>
-              <span>Imp. interntos: </span>
+              <span>Imp. internos: </span>
               <span>${impuestos}</span>
             </div>
             <div>
