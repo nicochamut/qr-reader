@@ -286,7 +286,7 @@ const Footer = styled.div`
   font-size: 0.65rem;
   color: #333;
   text-align: center;
-
+  opacity: 0;
   span {
     font-weight: bold;
   }

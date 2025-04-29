@@ -324,8 +324,8 @@ const AdminPanel = () => {
     }
 
     const doc = new jsPDF();
-    let x = 15;
-    let y = 25;
+    let x = 12; // 🔥 buen margen
+    let y = 20;
     let count = 0;
 
     for (let i = 0; i < itemsParaImprimir.length; i++) {
@@ -341,30 +341,46 @@ const AdminPanel = () => {
           color: { dark: "#000000", light: "#ffffff" },
         });
 
+        // QR
+        const qrSize = 50;
+        doc.addImage(dataUrl, "PNG", x, y, qrSize, qrSize);
+
+        // Título arriba
         doc.setFontSize(10);
-        const titulo = producto.articulo.slice(0, 35);
-        const tituloWidth = doc.getTextWidth(titulo);
-        doc.text(titulo, x + 25 - tituloWidth / 2, y - 4);
+        const titulo = producto.articulo;
+        const maxWidth = 50;
+        const splitTitulo = doc.splitTextToSize(titulo, maxWidth);
 
-        doc.addImage(dataUrl, "PNG", x, y, 50, 50);
+        splitTitulo.forEach((line, index) => {
+          const lineWidth = doc.getTextWidth(line);
+          doc.text(
+            line,
+            x + qrSize / 2 - lineWidth / 2,
+            y - (splitTitulo.length - index) * 4
+          );
+        });
 
+        // Código abajo
         doc.setFontSize(9);
         const codigo = producto.cod_articulo.toString();
         const codWidth = doc.getTextWidth(codigo);
-        doc.text(codigo, x + 25 - codWidth / 2, y + 58);
+        doc.text(codigo, x + qrSize / 2 - codWidth / 2, y + qrSize + 6);
 
+        // Avanzar
         count++;
-        x += 65;
+        x += 65; // 🔥 65mm horizontalmente por QR + espacio
 
         if (count % 3 === 0) {
-          x = 15;
-          y += 75;
+          // 🔥 salto de fila cada 3 QRs
+          x = 12;
+          y += 80; // 🔥 90mm por fila
         }
 
-        if (y + 75 > 280 || i === itemsParaImprimir.length - 1) {
+        // Si la hoja se llena, nueva página
+        if (y + 90 > 280 || i === itemsParaImprimir.length - 1) {
           if (i !== itemsParaImprimir.length - 1) {
             doc.addPage();
-            x = 15;
+            x = 20;
             y = 25;
           }
         }
