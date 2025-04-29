@@ -35,14 +35,14 @@ const Card = styled.div`
   border-radius: 16px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   width: 100%;
-  max-width: 30rem;
-  height: 22rem;
+  max-width: 35rem;
+  height: 25rem;
   z-index: 100;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: linear-gradient(to left, #00557f, #00324d);
+  background: linear-gradient(to left, #3d687e, #00324d);
   form {
     display: flex;
     justify-content: center;

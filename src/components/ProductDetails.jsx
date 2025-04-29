@@ -283,7 +283,7 @@ const Volver = styled.div`
 const Footer = styled.div`
   margin-top: 1.5rem;
 
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   color: #333;
   text-align: center;
 
