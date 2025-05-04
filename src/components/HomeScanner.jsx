@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
+import { useNavigate } from "react-router-dom";
 import QrScanner from "./QrScanner";
 import oleumlogo from "../assets/oleumlogo.png";
 
@@ -9,7 +10,7 @@ const HomeContainer = styled.div`
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: hsla(198, 99%, 43%, 1);
+  background: linear-gradient(to bottom, #23514e 0%, #4a7f6c 70%, #d1d1d1 100%);
   color: white;
   font-family: "Montserrat", sans-serif;
 
@@ -19,7 +20,6 @@ const HomeContainer = styled.div`
     left: 20px;
     width: 30px;
   }
-  background: linear-gradient(to bottom, #23514e 0%, #4a7f6c 70%, #d1d1d1 100%);
 `;
 
 const ScanButton = styled.button`
@@ -31,16 +31,10 @@ const ScanButton = styled.button`
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
-  font-family: "poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   &:hover {
     background-color: #0056b3;
   }
-`;
-
-const ResultText = styled.p`
-  margin-top: 20px;
-  font-size: 18px;
-  color: #333;
 `;
 
 const Footer = styled.footer`
@@ -52,15 +46,27 @@ const Footer = styled.footer`
 
 const HomeScanner = () => {
   const [isScannerActive, setIsScannerActive] = useState(false);
-  const [scannedText, setScannedText] = useState("");
+  const navigate = useNavigate();
 
   const handleScanClick = () => {
     setIsScannerActive(true);
   };
 
   const handleScanSuccess = (text) => {
-    setScannedText(text);
-    setIsScannerActive(false); // Cierra el escáner después de un escaneo exitoso
+    try {
+      const url = new URL(text);
+      const pathParts = url.pathname.split("/"); // ['', 'apies', '{cliente}', '{id}']
+      const cliente = pathParts[2];
+      const id = pathParts[3];
+
+      if (cliente && id) {
+        navigate(`/apies/${cliente}/${id}`);
+      } else {
+        alert("QR inválido");
+      }
+    } catch (err) {
+      alert("Código QR inválido");
+    }
   };
 
   const handleCloseScanner = () => {
@@ -70,17 +76,19 @@ const HomeScanner = () => {
   return (
     <HomeContainer>
       <img src={oleumlogo} alt="Logo" />
-      <h1>Bienvenido!</h1>
+      <h1>¡Bienvenido!</h1>
+
       {!isScannerActive && (
         <ScanButton onClick={handleScanClick}>Scanner de QRs</ScanButton>
       )}
+
       {isScannerActive && (
         <QrScanner
           onScanSuccess={handleScanSuccess}
           onClose={handleCloseScanner}
         />
       )}
-      {scannedText && <ResultText>Scanned Text: {scannedText}</ResultText>}
+
       <Footer>Developed by @Fibotec</Footer>
     </HomeContainer>
   );
