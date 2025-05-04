@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { useNavigate } from "react-router-dom";
 import QrScanner from "./QrScanner";
 import oleumlogo from "../assets/oleumlogo.png";
 
@@ -46,7 +45,6 @@ const Footer = styled.footer`
 
 const HomeScanner = () => {
   const [isScannerActive, setIsScannerActive] = useState(false);
-  const navigate = useNavigate();
 
   const handleScanClick = () => {
     setIsScannerActive(true);
@@ -60,7 +58,8 @@ const HomeScanner = () => {
       const id = pathParts[3];
 
       if (cliente && id) {
-        navigate(`/apies/${cliente}/${id}`);
+        // Redirección clásica como en ProductDetails
+        window.location.href = `/apies/${cliente}/${id}`;
       } else {
         alert("QR inválido");
       }
