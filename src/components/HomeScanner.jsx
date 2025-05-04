@@ -8,7 +8,7 @@ const HomeContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 90vh;
   background: linear-gradient(to bottom, #23514e 0%, #4a7f6c 70%, #d1d1d1 100%);
   color: white;
   font-family: "Montserrat", sans-serif;
