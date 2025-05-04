@@ -16,7 +16,7 @@ const ScannerWrapper = styled.div`
 const QrContainer = styled.div`
   width: 100%;
   max-width: 350px;
-  width: 350px;
+  width: 18rem;
   border: 2px solid #4c98af;
   border-radius: 20px;
   overflow: hidden;
