@@ -84,10 +84,6 @@ const LogoutButton = styled.button`
   }
 `;
 
-const FilterSection = styled.div`
-  margin-bottom: 1.5rem;
-`;
-
 const Input = styled.input`
   border: 1px solid #ccc;
   padding: 0.5rem;
@@ -228,6 +224,27 @@ const RubrosCard = styled.div`
   }
 `;
 
+const ToggleContainer = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  color: white;
+  position: absolute;
+  left: 6.5rem;
+
+  label {
+    margin-left: 0.5rem;
+    font-size: 1rem;
+  }
+
+  input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+`;
+
 const Pagination = styled.div`
   text-align: center;
   margin-top: 2rem;
@@ -250,6 +267,7 @@ const Pagination = styled.div`
 const AdminPanel = () => {
   const { cliente } = useParams();
   const navigate = useNavigate();
+  const [listaPrecioSeleccionada, setListaPrecioSeleccionada] = useState(1);
   const [user, setUser] = useState(null);
   const [productos, setProductos] = useState([]);
   const [vista, setVista] = useState("rubros"); // "rubros" o "productos"
@@ -282,13 +300,22 @@ const AdminPanel = () => {
     fetchProductos();
   }, [cliente]);
 
-  const productosPorRubro = productos.filter(
-    (p) => p.rubro?.toLowerCase() === rubroSeleccionado?.toLowerCase()
-  );
+  const productosPorRubro = productos
+    .filter((p) => p.rubro?.toLowerCase() === rubroSeleccionado?.toLowerCase())
+    .filter((p) => {
+      if (listaPrecioSeleccionada) {
+        return p.cod_lista_precio === listaPrecioSeleccionada;
+      }
+      return true;
+    });
 
   const rubrosUnicos = [...new Set(productos.map((p) => p.rubro))].filter(
     Boolean
   );
+
+  const listasDePrecioUnicas = [
+    ...new Set(productos.map((p) => p.cod_lista_precio)),
+  ].filter(Boolean);
 
   const toggleSeleccionado = (id) => {
     setSeleccionados((prev) =>
@@ -404,6 +431,30 @@ const AdminPanel = () => {
           Cerrar sesión
         </LogoutButton>
       </Header>
+      <ToggleContainer>
+        <div style={{ textAlign: "center", marginBottom: "1rem" }}>
+          <label style={{ color: "white", marginRight: "0.5rem" }}>
+            ID lista de precio:
+          </label>
+          <select
+            value={listaPrecioSeleccionada}
+            onChange={(e) => setListaPrecioSeleccionada(e.target.value)}
+            style={{
+              padding: "0.5rem",
+              borderRadius: "8px",
+              fontSize: "1rem",
+              backgroundColor: "#f5f5f5",
+            }}
+          >
+            <option value="">Todas</option>
+            {listasDePrecioUnicas.map((lista) => (
+              <option key={lista} value={lista}>
+                {lista}
+              </option>
+            ))}
+          </select>
+        </div>
+      </ToggleContainer>
 
       {vista === "rubros" && (
         <div style={{ marginBottom: "1rem", textAlign: "center" }}>
