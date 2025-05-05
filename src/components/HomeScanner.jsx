@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import QrScanner from "./QrScanner";
 import oleumlogo from "../assets/oleumlogo.png";
+import backghome from "../assets/backghome.png";
 
 const HomeContainer = styled.div`
   display: flex;
@@ -9,7 +10,9 @@ const HomeContainer = styled.div`
   align-items: center;
   justify-content: center;
   height: 90vh;
-  background: linear-gradient(to bottom, #23514e 0%, #4a7f6c 70%, #d1d1d1 100%);
+  background: linear-gradient(120deg, #23514e 0%, #4a7f6c 70%, #d1d1d1 100%);
+  background-image: url(${(props) => props.backghome});
+  background-size: cover;
   color: white;
   font-family: "Montserrat", sans-serif;
   width: 100%;
@@ -17,7 +20,7 @@ const HomeContainer = styled.div`
   img {
     position: absolute;
     top: 20px;
-    left: 20px;
+    right: 20px;
     width: 30px;
   }
 `;
@@ -40,7 +43,7 @@ const ScanButton = styled.button`
 const Footer = styled.footer`
   position: absolute;
   bottom: 3rem;
-  color: #1b1b1b;
+  color: #ffffff;
   font-size: 12px;
 `;
 
@@ -74,7 +77,7 @@ const HomeScanner = () => {
   };
 
   return (
-    <HomeContainer>
+    <HomeContainer backghome={backghome}>
       <img src={oleumlogo} alt="Logo" />
       <h1>¡Bienvenido!</h1>
 
