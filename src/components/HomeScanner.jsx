@@ -88,8 +88,7 @@ const HomeScanner = () => {
       <img src={oleumlogo} alt="Logo" />
       <h1>¡Bienvenido!</h1>
       <p>
-        Para ver los precios, presiona el botón y otorgá permiso para acceder a
-        la cámara.
+        Para ver los precios, tocá el botón y permití el acceso a la cámara.
       </p>
 
       {!isScannerActive && (

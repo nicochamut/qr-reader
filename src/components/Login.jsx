@@ -14,18 +14,18 @@ const Container = styled.div`
   background: linear-gradient(45deg, #0b0b0b, #3d3d3d);
   .company {
     position: absolute;
-    bottom: 6rem;
-    left: 10rem;
+    bottom: 2rem;
+    left: 4rem;
 
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    font-size: 1.2rem;
-    font-family: "Montserrat";
+    font-size: 0.8rem;
+    font-family: "montserrat", sans-serif;
     color: #919191;
     img {
-      width: 15rem;
+      width: 4rem;
     }
   }
 `;
@@ -35,8 +35,8 @@ const Card = styled.div`
   border-radius: 16px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   width: 100%;
-  max-width: 35rem;
-  height: 25rem;
+  max-width: 30rem;
+  height: 18rem;
   z-index: 100;
   display: flex;
   justify-content: center;
@@ -66,12 +66,12 @@ const Title = styled.h1`
 `;
 
 const Input = styled.input`
-  width: 90%;
+  width: 80%;
   padding: 0.75rem;
   margin-bottom: 1rem;
   border: 1px solid #5e5c5c;
   border-radius: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 
   color: #000000;
   border-radius: 8px;
@@ -87,7 +87,8 @@ const Button = styled.button`
   font-size: 1.2rem;
   cursor: pointer;
   margin-top: 0.5rem;
-
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
   &&:hover {
     background: #2495d3;
   }

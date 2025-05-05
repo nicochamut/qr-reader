@@ -71,8 +71,8 @@ const Title = styled.h1`
 const LogoutButton = styled.button`
   font-size: 1.2rem;
   position: absolute;
-  right: 2rem;
-  top: 4rem;
+  right: 1rem;
+  top: 1.5rem;
   color: red;
   border: none;
   cursor: pointer;
@@ -267,7 +267,7 @@ const Pagination = styled.div`
 const AdminPanel = () => {
   const { cliente } = useParams();
   const navigate = useNavigate();
-  const [listaPrecioSeleccionada, setListaPrecioSeleccionada] = useState(1);
+  const [listaPrecioSeleccionada, setListaPrecioSeleccionada] = useState("1");
   const [user, setUser] = useState(null);
   const [productos, setProductos] = useState([]);
   const [vista, setVista] = useState("rubros"); // "rubros" o "productos"
