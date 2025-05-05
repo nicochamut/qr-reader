@@ -16,6 +16,13 @@ const HomeContainer = styled.div`
   color: white;
   font-family: "Montserrat", sans-serif;
   width: 100%;
+  p {
+    font-size: 12px;
+    text-align: center;
+    margin: 0 20px;
+    color: #fee2d6;
+    margin-bottom: 1.5rem;
+  }
 
   img {
     position: absolute;
@@ -80,6 +87,10 @@ const HomeScanner = () => {
     <HomeContainer backghome={backghome}>
       <img src={oleumlogo} alt="Logo" />
       <h1>¡Bienvenido!</h1>
+      <p>
+        Para ver los precios, presiona el botón y otorgá permiso para acceder a
+        la cámara.
+      </p>
 
       {!isScannerActive && (
         <ScanButton onClick={handleScanClick}>Scanner de QRs</ScanButton>
