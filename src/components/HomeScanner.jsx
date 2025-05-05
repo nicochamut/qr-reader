@@ -20,7 +20,7 @@ const HomeContainer = styled.div`
     font-size: 12px;
     text-align: center;
     margin: 0 20px;
-    color: #fee2d6;
+    color: #fdfdfd;
     margin-bottom: 1.5rem;
   }
 
