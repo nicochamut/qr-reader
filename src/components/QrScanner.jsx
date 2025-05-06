@@ -60,15 +60,6 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
               const cliente = pathParts[2];
               const producto_id = pathParts[3];
 
-              scanRegister({
-                cliente,
-                producto_id,
-                descripcion: "", // Si podés obtenerla después mejor
-                rubro: "",
-                user_agent: navigator.userAgent,
-                ip: "", // Podés obtenerla más adelante si querés
-              });
-
               html5QrCodeRef.current.stop().then(() => {
                 html5QrCodeRef.current.clear();
               });
