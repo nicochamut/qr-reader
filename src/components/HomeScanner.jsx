@@ -59,21 +59,6 @@ const HomeScanner = () => {
   const [isScannerActive, setIsScannerActive] = useState(false);
   const [productos, setProductos] = useState([]);
 
-  useEffect(() => {
-    const pathParts = window.location.pathname.split("/");
-    const cliente = pathParts[2];
-    const jsonPath = `/apies/${cliente}/products.json`;
-    console.log("Cargando productos desde:", jsonPath);
-
-    fetch(jsonPath)
-      .then((res) => res.json())
-      .then((data) => {
-        console.log("Productos cargados:", data);
-        setProductos(data);
-      })
-      .catch((err) => console.error("Error cargando productoss:", err));
-  }, []);
-
   const handleScanClick = () => {
     setIsScannerActive(true);
   };
@@ -81,7 +66,6 @@ const HomeScanner = () => {
   const handleScanSuccess = (text) => {
     try {
       console.log("QR leído:", text);
-
       const url = new URL(text);
       const pathParts = url.pathname.split("/");
       const cliente = pathParts[2];
@@ -90,31 +74,42 @@ const HomeScanner = () => {
       console.log("Cliente:", cliente);
       console.log("Producto ID extraído del QR:", producto_id);
 
-      const producto = productos.find(
-        (p) => String(p.cod_articulo) === String(producto_id)
-      );
+      fetch(`/apies/${cliente}/products.json`)
+        .then((res) => {
+          if (!res.ok) throw new Error("Archivo no encontrado");
+          return res.json();
+        })
+        .then((productos) => {
+          console.log("Lista completa de productos:", productos);
 
-      if (!producto) {
-        console.error("Producto no encontrado en products.json");
-        console.log("Lista completa de productos:", productos);
-        alert("Producto no encontrado");
-        return;
-      }
+          const producto = productos.find(
+            (p) => p.cod_articulo === producto_id
+          );
 
-      // Registrar escaneo en Supabase
-      scanRegister({
-        cliente,
-        producto_id,
-        descripcion: producto.articulo,
-        rubro: producto.rubro || "",
-        user_agent: navigator.userAgent,
-        ip: "",
-      });
+          if (!producto) {
+            console.error("❌ Producto no encontrado en products.json");
+            alert("Producto no encontrado");
+            return;
+          }
 
-      // Redirigir al detalle del producto
-      window.location.href = `/apies/${cliente}/${producto_id}`;
+          console.log("✅ Producto encontrado:", producto);
+
+          scanRegister({
+            cliente,
+            producto_id,
+            descripcion: producto.articulo,
+            rubro: producto.rubro || "",
+            user_agent: navigator.userAgent,
+            ip: "",
+          });
+
+          window.location.href = `/apies/${cliente}/${producto_id}`;
+        })
+        .catch((err) => {
+          console.error("❌ Error cargando productos:", err);
+          alert("Hubo un problema cargando la lista de productos.");
+        });
     } catch (err) {
-      console.error("Error al procesar QR:", err);
       alert("Código QR inválido");
     }
   };
