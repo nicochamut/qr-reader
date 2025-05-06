@@ -71,7 +71,7 @@ const HomeScanner = () => {
         console.log("Productos cargados:", data);
         setProductos(data);
       })
-      .catch((err) => console.error("Error cargando productos:", err));
+      .catch((err) => console.error("Error cargando productoss:", err));
   }, []);
 
   const handleScanClick = () => {
