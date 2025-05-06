@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { Html5Qrcode } from "html5-qrcode";
 import styled from "styled-components";
+import { scanRegister } from "../utils/scanRegister";
 
 const ScannerWrapper = styled.div`
   display: flex;
@@ -52,6 +53,22 @@ const QrScanner = ({ onScanSuccess, onClose }) => {
             config,
             (decodedText) => {
               onScanSuccess(decodedText);
+
+              // Suponiendo que el cliente está codificado en la URL y el producto también
+              const url = new URL(decodedText);
+              const pathParts = url.pathname.split("/"); // ['','apies','orlando','1234']
+              const cliente = pathParts[2];
+              const producto_id = pathParts[3];
+
+              scanRegister({
+                cliente,
+                producto_id,
+                descripcion: "", // Si podés obtenerla después mejor
+                rubro: "",
+                user_agent: navigator.userAgent,
+                ip: "", // Podés obtenerla más adelante si querés
+              });
+
               html5QrCodeRef.current.stop().then(() => {
                 html5QrCodeRef.current.clear();
               });
