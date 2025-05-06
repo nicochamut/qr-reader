@@ -62,10 +62,15 @@ const HomeScanner = () => {
   useEffect(() => {
     const pathParts = window.location.pathname.split("/");
     const cliente = pathParts[2];
+    const jsonPath = `/apies/${cliente}/products.json`;
+    console.log("Cargando productos desde:", jsonPath);
 
-    fetch(`/apies/${cliente}/products.json`)
+    fetch(jsonPath)
       .then((res) => res.json())
-      .then((data) => setProductos(data))
+      .then((data) => {
+        console.log("Productos cargados:", data);
+        setProductos(data);
+      })
       .catch((err) => console.error("Error cargando productos:", err));
   }, []);
 
