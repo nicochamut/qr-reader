@@ -9,6 +9,7 @@ import oleumlogo from "../assets/oleumlogo.png";
 import qrlogo from "../assets/qrlogo.png";
 import retry from "../assets/retry.png";
 import QrScanner from "./QrScanner";
+import { scanRegister } from "../utils/scanRegister";
 
 const ProductDetails = ({ producto }) => {
   const [escanear, setEscanear] = useState(false);
@@ -38,16 +39,53 @@ const ProductDetails = ({ producto }) => {
 
   const handleScanSuccess = (text) => {
     try {
+      console.log("QR leído:", text);
       const url = new URL(text);
-      const pathParts = url.pathname.split("/"); // ['', 'apies', 'laurencena', '1001']
+      const pathParts = url.pathname.split("/"); // ['', 'apies', '{cliente}', '{id}']
       const cliente = pathParts[2];
-      const id = pathParts[3];
+      const producto_id = pathParts[3];
 
-      window.location.href = `/apies/${cliente}/${id}`;
+      console.log("Cliente:", cliente);
+      console.log("Producto ID extraído del QR:", producto_id);
+
+      fetch(`/apies/${cliente}/products.json`)
+        .then((res) => {
+          if (!res.ok) throw new Error("Archivo no encontrado");
+          return res.json();
+        })
+        .then((productos) => {
+          const producto = productos.find(
+            (p) => p.cod_articulo === producto_id
+          );
+
+          if (!producto) {
+            console.error("❌ Producto no encontrado");
+            alert("Producto no encontrado");
+            return;
+          }
+
+          console.log("✅ Producto encontrado:", producto);
+
+          scanRegister({
+            cliente,
+            producto_id,
+            descripcion: producto.articulo,
+            rubro: producto.rubro || "",
+            user_agent: navigator.userAgent,
+            ip: "",
+          });
+
+          window.location.href = `/apies/${cliente}/${producto_id}`;
+        })
+        .catch((err) => {
+          console.error("❌ Error cargando productos:", err);
+          alert("Hubo un problema cargando la lista de productos.");
+        });
     } catch (err) {
       alert("Código QR inválido");
     }
   };
+
   console.log(bandera);
   if (escanear) {
     return (
