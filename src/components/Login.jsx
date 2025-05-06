@@ -118,20 +118,16 @@ const Login = () => {
         password
       );
       const uid = userCredential.user.uid;
-      console.log("Login correcto. UID:", uid);
 
       const docRef = doc(db, "usuarios", uid);
-      console.log("Buscando documento en Firestore con ID:", uid);
 
       const docSnap = await getDoc(docRef);
 
       if (docSnap.exists()) {
         const data = docSnap.data();
-        console.log("Documento Firestore encontrado:", data);
 
         const estacion = data.estacion;
         if (estacion) {
-          console.log("Estación encontrada:", estacion);
           navigate(`/admin/${estacion}`);
         } else {
           console.warn("El documento no contiene el campo 'estacion'");
