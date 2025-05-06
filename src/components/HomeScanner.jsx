@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import QrScanner from "./QrScanner";
 import oleumlogo from "../assets/oleumlogo.png";
 import backghome from "../assets/backghome.png";
+import { scanRegister } from "../utils/scanRegister";
 
 const HomeContainer = styled.div`
   display: flex;
@@ -56,6 +57,17 @@ const Footer = styled.footer`
 
 const HomeScanner = () => {
   const [isScannerActive, setIsScannerActive] = useState(false);
+  const [productos, setProductos] = useState([]);
+
+  useEffect(() => {
+    const pathParts = window.location.pathname.split("/");
+    const cliente = pathParts[2];
+
+    fetch(`/apies/${cliente}/products.json`)
+      .then((res) => res.json())
+      .then((data) => setProductos(data))
+      .catch((err) => console.error("Error cargando productos:", err));
+  }, []);
 
   const handleScanClick = () => {
     setIsScannerActive(true);
@@ -64,16 +76,27 @@ const HomeScanner = () => {
   const handleScanSuccess = (text) => {
     try {
       const url = new URL(text);
-      const pathParts = url.pathname.split("/"); // ['', 'apies', '{cliente}', '{id}']
+      const pathParts = url.pathname.split("/");
       const cliente = pathParts[2];
-      const id = pathParts[3];
+      const producto_id = pathParts[3];
 
-      if (cliente && id) {
-        // Redirección clásica como en ProductDetails
-        window.location.href = `/apies/${cliente}/${id}`;
-      } else {
-        alert("QR inválido");
+      const producto = productos.find((p) => p.cod_articulo === producto_id);
+
+      if (!producto) {
+        alert("Producto no encontrado");
+        return;
       }
+
+      scanRegister({
+        cliente,
+        producto_id,
+        descripcion: producto.articulo,
+        rubro: producto.rubro || "",
+        user_agent: navigator.userAgent,
+        ip: "",
+      });
+
+      window.location.href = `/apies/${cliente}/${producto_id}`;
     } catch (err) {
       alert("Código QR inválido");
     }
