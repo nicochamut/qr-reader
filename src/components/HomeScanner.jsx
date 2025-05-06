@@ -75,18 +75,28 @@ const HomeScanner = () => {
 
   const handleScanSuccess = (text) => {
     try {
+      console.log("QR leído:", text);
+
       const url = new URL(text);
       const pathParts = url.pathname.split("/");
       const cliente = pathParts[2];
       const producto_id = pathParts[3];
 
-      const producto = productos.find((p) => p.cod_articulo === producto_id);
+      console.log("Cliente:", cliente);
+      console.log("Producto ID extraído del QR:", producto_id);
+
+      const producto = productos.find(
+        (p) => String(p.cod_articulo) === String(producto_id)
+      );
 
       if (!producto) {
+        console.error("Producto no encontrado en products.json");
+        console.log("Lista completa de productos:", productos);
         alert("Producto no encontrado");
         return;
       }
 
+      // Registrar escaneo en Supabase
       scanRegister({
         cliente,
         producto_id,
@@ -96,8 +106,10 @@ const HomeScanner = () => {
         ip: "",
       });
 
+      // Redirigir al detalle del producto
       window.location.href = `/apies/${cliente}/${producto_id}`;
     } catch (err) {
+      console.error("Error al procesar QR:", err);
       alert("Código QR inválido");
     }
   };
