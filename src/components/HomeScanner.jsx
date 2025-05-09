@@ -159,12 +159,7 @@ const HomeScanner = () => {
           <img
             src={instagramlogo}
             alt="Instagram"
-            style={{
-              width: "14px",
-              height: "14px",
-              verticalAlign: "middle",
-              marginRight: "4px",
-            }}
+            style={{ width: "14px", height: "14px" }}
           />
           Fibotec
         </a>
