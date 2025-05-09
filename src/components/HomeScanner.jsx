@@ -26,7 +26,7 @@ const HomeContainer = styled.div`
     margin-bottom: 1.5rem;
   }
 
-  img {
+  .oleumlogo {
     position: absolute;
     top: 20px;
     right: 20px;
@@ -52,14 +52,15 @@ const ScanButton = styled.button`
 const Footer = styled.footer`
   position: absolute;
   bottom: 3rem;
-  color: #ffffff;
+  color: #000000;
   font-size: 12px;
+  text-align: center;
+  width: 100%;
 
   a {
     display: inline-flex;
     align-items: center;
-    gap: 4px;
-
+    gap: 6px;
     color: inherit;
     text-decoration: none;
     font-weight: bold;
@@ -72,7 +73,8 @@ const Footer = styled.footer`
     img {
       width: 14px;
       height: 14px;
-      display: inline-block;
+      align-self: center;
+      margin-right: -4px;
     }
   }
 `;
@@ -142,7 +144,7 @@ const HomeScanner = () => {
 
   return (
     <HomeContainer backghome={backghome}>
-      <img src={oleumlogo} alt="Logo" />
+      <img src={oleumlogo} alt="Logo" className="oleumlogo" />
       <h1>¡Bienvenido!</h1>
       <p>
         Para ver los precios, tocá el botón y permití el acceso a la cámara.
@@ -159,15 +161,23 @@ const HomeScanner = () => {
         />
       )}
       <Footer>
-        Developed by{" "}
-        <a
-          href="https://www.instagram.com/fibotec.io/"
-          target="_blank"
-          rel="noopener noreferrer"
+        <span
+          style={{ display: "inline-flex", alignItems: "center", gap: "4px" }}
         >
-          <img src={instagramlogo} alt="Instagram" />
-          Fibotec
-        </a>
+          Developed by{" "}
+          <a
+            href="https://www.instagram.com/fibotec.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={instagramlogo}
+              alt="Instagram"
+              style={{ width: 14, height: 14 }}
+            />
+            Fibotec
+          </a>
+        </span>
       </Footer>
     </HomeContainer>
   );
