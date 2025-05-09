@@ -4,6 +4,7 @@ import QrScanner from "./QrScanner";
 import oleumlogo from "../assets/oleumlogo.png";
 import backghome from "../assets/backghome.png";
 import { scanRegister } from "../utils/scanRegister";
+import instagramlogo from "../assets/instagram.png";
 
 const HomeContainer = styled.div`
   display: flex;
@@ -53,6 +54,17 @@ const Footer = styled.footer`
   bottom: 3rem;
   color: #ffffff;
   font-size: 12px;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+    transition: opacity 0.3s ease;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
 `;
 
 const HomeScanner = () => {
@@ -137,7 +149,26 @@ const HomeScanner = () => {
         />
       )}
 
-      <Footer>Developed by @Fibotec</Footer>
+      <Footer>
+        Developed by{" "}
+        <a
+          href="https://www.instagram.com/fibotec.io/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={instagramlogo}
+            alt="Instagram"
+            style={{
+              width: "14px",
+              height: "14px",
+              verticalAlign: "middle",
+              marginRight: "4px",
+            }}
+          />
+          Fibotec
+        </a>
+      </Footer>
     </HomeContainer>
   );
 };
