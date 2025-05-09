@@ -1,11 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import styled from "styled-components";
-import ypflogo from "../assets/ypflogo.png";
-import oleumlogo from "../assets/oleumlogo.png";
-import fulllogo from "../assets/fulllogo.webp";
+
 import ProductDetails from "./ProductDetails";
-import NavBar from "./NavBar";
 
 function ProductPage() {
   // Se extraen los parámetros de la URL: cliente (por ejemplo "ORLANDO") y productId.

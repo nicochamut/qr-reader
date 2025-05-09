@@ -35,18 +35,15 @@ const ProductDetails = ({ producto }) => {
     precio_dolar,
     cotiz_dolar,
     fecha_cotiz_dolar,
+    fecha_ult_act,
   } = producto;
 
   const handleScanSuccess = (text) => {
     try {
-      console.log("QR leído:", text);
       const url = new URL(text);
       const pathParts = url.pathname.split("/"); // ['', 'apies', '{cliente}', '{id}']
       const cliente = pathParts[2];
       const producto_id = pathParts[3];
-
-      console.log("Cliente:", cliente);
-      console.log("Producto ID extraído del QR:", producto_id);
 
       fetch(`/apies/${cliente}/products.json`)
         .then((res) => {
@@ -59,12 +56,9 @@ const ProductDetails = ({ producto }) => {
           );
 
           if (!producto) {
-            console.error("❌ Producto no encontrado");
             alert("Producto no encontrado");
             return;
           }
-
-          console.log("✅ Producto encontrado:", producto);
 
           scanRegister({
             cliente,
@@ -86,7 +80,6 @@ const ProductDetails = ({ producto }) => {
     }
   };
 
-  console.log(bandera);
   if (escanear) {
     return (
       <div style={{ padding: "1rem" }}>
@@ -151,6 +144,7 @@ const ProductDetails = ({ producto }) => {
               minimumFractionDigits: 2,
             })}
           </Precio>
+          <p className="fechaUltAct">últ act: {fecha_ult_act}</p>
         </Card>
 
         <QRSection>
@@ -249,6 +243,19 @@ const Card = styled.div`
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  position: relative;
+
+  .fechaUltAct {
+    font-size: 0.5rem;
+    text-align: center;
+    color: #333;
+    opacity: 0.5;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+  }
 `;
 
 const CodScanner = styled.p`
