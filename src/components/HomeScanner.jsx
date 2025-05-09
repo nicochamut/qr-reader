@@ -56,6 +56,10 @@ const Footer = styled.footer`
   font-size: 12px;
 
   a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+
     color: inherit;
     text-decoration: none;
     font-weight: bold;
@@ -63,6 +67,11 @@ const Footer = styled.footer`
 
     &:hover {
       opacity: 0.7;
+    }
+
+    img {
+      width: 14px;
+      height: 14px;
     }
   }
 `;
@@ -148,7 +157,6 @@ const HomeScanner = () => {
           onClose={handleCloseScanner}
         />
       )}
-
       <Footer>
         Developed by{" "}
         <a
@@ -156,11 +164,7 @@ const HomeScanner = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img
-            src={instagramlogo}
-            alt="Instagram"
-            style={{ width: "14px", height: "14px" }}
-          />
+          <img src={instagramlogo} alt="Instagram" />
           Fibotec
         </a>
       </Footer>
