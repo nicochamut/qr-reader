@@ -52,7 +52,7 @@ const ScanButton = styled.button`
 const Footer = styled.footer`
   position: absolute;
   bottom: 3rem;
-  color: #ffffff;
+  color:rgb(156, 156, 156);
   font-size: 12px;
   text-align: center;
   width: 100%;
