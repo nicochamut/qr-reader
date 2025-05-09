@@ -56,7 +56,7 @@ const Footer = styled.footer`
   font-size: 12px;
   text-align: center;
   width: 100%;
-
+  opacity: 0.5
   a {
     display: inline-flex;
     align-items: center;
