@@ -111,7 +111,7 @@ const ListManager = () => {
   useEffect(() => {
     const fetchProductos = async () => {
       try {
-        const response = await fetch(`/public/apies/${estacion}/products.json`);
+        const response = await fetch(`/apies/${estacion}/products.json`);
         const data = await response.json();
         setProductos(data);
       } catch (error) {
