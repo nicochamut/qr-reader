@@ -5,6 +5,9 @@ import autoTable from "jspdf-autotable";
 import styled from "styled-components";
 import { useNavigate } from "react-router-dom";
 
+import ExcelJS from "exceljs";
+import { saveAs } from "file-saver";
+
 const Container = styled.div`
   padding: 2rem;
   background: linear-gradient(45deg, #616161, #3d3d3d);
@@ -136,21 +139,21 @@ const ListManager = () => {
 
     const head = [
       [
-        "Código",
+        "EAN",
         "Producto",
-        "Precio Neto",
+        "Precio S/imp. Nacionales",
         "Imp. Internos",
-        "IVA",
+
         "Precio x/u",
         "Final",
       ],
     ];
     const body = lista.map((p) => [
-      p.cod_articulo,
+      p.ean,
       p.articulo,
       `$${p.precio_neto}`,
       `$${p.impuestos}`,
-      `$${p.iva}`,
+
       `${p.unidad || ""}${p.unidad_medida || ""} $${p.precio_x_unidad || "0"}`,
       `$${p.precio}`,
     ]);
@@ -163,6 +166,73 @@ const ListManager = () => {
     });
 
     doc.save(`lista_precios_${estacion}.pdf`);
+  };
+
+  const exportarXLSX = async () => {
+    const workbook = new ExcelJS.Workbook();
+    const worksheet = workbook.addWorksheet("Lista de precios");
+
+    // Definir columnas
+    worksheet.columns = [
+      { header: "EAN", key: "ean", width: 20 },
+      { header: "Producto", key: "producto", width: 40 },
+      { header: "Precio S/imp. Nacionales", key: "precio_neto", width: 25 },
+      { header: "Imp. Internos", key: "impuestos", width: 20 },
+      { header: "Precio x/u", key: "precio_unidad", width: 20 },
+      { header: "Final", key: "precio_final", width: 15 },
+    ];
+
+    // Estilo del encabezado
+    worksheet.getRow(1).eachCell((cell) => {
+      cell.font = { bold: true, color: { argb: "FFFFFFFF" }, size: 12 };
+      cell.fill = {
+        type: "pattern",
+        pattern: "solid",
+        fgColor: { argb: "FF3D3D3D" }, // gris oscuro
+      };
+      cell.alignment = { vertical: "middle", horizontal: "center" };
+      cell.border = {
+        top: { style: "thin" },
+        bottom: { style: "thin" },
+      };
+    });
+
+    // Agregar filas con formato
+    lista.forEach((p, i) => {
+      const row = worksheet.addRow({
+        ean: p.ean || "0",
+        producto: p.articulo || "",
+        precio_neto: `$${parseFloat(p.precio_neto).toFixed(2)}`,
+        impuestos: `$${parseFloat(p.impuestos).toFixed(2)}`,
+        precio_unidad: `${p.unidad || "1"}${
+          p.unidad_medida || "un"
+        } $${parseFloat(p.precio_x_unidad || 0).toFixed(2)}`,
+        precio_final: `$${parseFloat(p.precio).toFixed(2)}`,
+      });
+
+      // Alternar color de fondo para filas
+      row.eachCell((cell) => {
+        cell.fill = {
+          type: "pattern",
+          pattern: "solid",
+          fgColor: {
+            argb: i % 2 === 0 ? "FFFFFFFF" : "FFF3F3F3", // blanco y gris claro alternado
+          },
+        };
+        cell.alignment = { horizontal: "center", vertical: "middle" };
+        cell.font = { size: 11 };
+        cell.border = {
+          bottom: { style: "thin", color: { argb: "FFCCCCCC" } },
+        };
+      });
+    });
+
+    // Descargar archivo
+    const buffer = await workbook.xlsx.writeBuffer();
+    const blob = new Blob([buffer], {
+      type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    });
+    saveAs(blob, `lista_precios_${estacion}.xlsx`);
   };
 
   const productosFiltrados = productos.filter(
@@ -244,7 +314,16 @@ const ListManager = () => {
               </li>
             ))}
           </ul>
-          <ExportButton onClick={exportarPDF}>Exportar PDF</ExportButton>
+
+          <ExportButton onClick={exportarPDF} style={{ marginRight: "1rem" }}>
+            Exportar PDF
+          </ExportButton>
+          <ExportButton
+            onClick={exportarXLSX}
+            style={{ backgroundColor: "#f59e0b" }}
+          >
+            Exportar Excel
+          </ExportButton>
         </>
       )}
     </Container>
