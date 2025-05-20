@@ -204,7 +204,7 @@ const ListManager = () => {
         producto: p.articulo || "",
         precio_neto: `$${parseFloat(p.precio_neto).toFixed(2)}`,
         impuestos: `$${parseFloat(p.impuestos).toFixed(2)}`,
-        precio_unidad: `${p.unidad || "1"}${
+        precio_unidad: `${p.precio_x_unidad || "1"}${
           p.unidad_medida || "un"
         } $${parseFloat(p.precio_x_unidad || 0).toFixed(2)}`,
         precio_final: `$${parseFloat(p.precio).toFixed(2)}`,
