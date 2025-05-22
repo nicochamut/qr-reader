@@ -101,7 +101,7 @@ const ProductDetails = ({ producto }) => {
             src={
               bandera === "YPF"
                 ? ypflogo
-                : bandera === "shell"
+                : bandera == "shell"
                 ? logoshell
                 : fulllogo
             }
@@ -177,7 +177,7 @@ const Wrapper = styled.div`
       ? "#007649"
       : $bandera === "YPF"
       ? "#0265BD"
-      : $bandera === "shell"
+      : $bandera == "shell"
       ? "#FECB00"
       : "#979797"};
 `;
@@ -193,7 +193,7 @@ const Main = styled.div`
   align-items: center;
   flex-direction: column;
   border-top: ${({ $bandera }) =>
-    $bandera === "shell"
+    $bandera == "shell"
       ? "10px solid red"
       : $bandera === "YPF"
       ? "10px solid black"
@@ -214,7 +214,7 @@ const Header = styled.div`
 
 const Razon = styled.h2`
   text-align: center;
-  color: ${({ $bandera }) => ($bandera === "shell" ? "#000000" : "#ffff")};
+  color: ${({ $bandera }) => ($bandera == "shell" ? "#000000" : "#ffff")};
   font-size: 1.7rem;
   margin-top: 0.7rem;
   font-weight: 600;
