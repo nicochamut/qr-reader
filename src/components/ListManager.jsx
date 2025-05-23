@@ -114,20 +114,22 @@ const ListManager = () => {
         const response = await fetch(`/apies/${estacion}/products.json`);
         const data = await response.json();
         setProductos(data);
+
+        const listas = JSON.parse(localStorage.getItem("listasPredefinidas")) || {};
+        setListasGuardadas(listas);
+
+        const nombres = Object.keys(listas);
+        if (nombres.length > 0) {
+          const codigosGuardados = listas[nombres[0]].map((p) => p.cod_articulo);
+          const listaActualizada = data.filter((p) => codigosGuardados.includes(p.cod_articulo));
+          setLista(listaActualizada);
+          setNombreLista(nombres[0]);
+        }
       } catch (error) {
         console.error("Error al cargar productos:", error);
       }
     };
     fetchProductos();
-
-    const listas = JSON.parse(localStorage.getItem("listasPredefinidas")) || {};
-    setListasGuardadas(listas);
-
-    // Cargar automáticamente la primera lista guardada
-    const nombres = Object.keys(listas);
-    if (nombres.length > 0) {
-      setLista(listas[nombres[0]]);
-    }
   }, [estacion]);
 
   const agregarALista = (producto) => {
@@ -146,7 +148,8 @@ const ListManager = () => {
 
   const guardarEdicionLista = (nuevaLista) => {
     if (!nombreLista || !(nombreLista in listasGuardadas)) return;
-    const actualizadas = { ...listasGuardadas, [nombreLista]: nuevaLista };
+    const codigos = nuevaLista.map((p) => ({ cod_articulo: p.cod_articulo }));
+    const actualizadas = { ...listasGuardadas, [nombreLista]: codigos };
     setListasGuardadas(actualizadas);
     localStorage.setItem("listasPredefinidas", JSON.stringify(actualizadas));
   };
@@ -209,15 +212,17 @@ const ListManager = () => {
 
   const guardarLista = () => {
     if (!nombreLista.trim()) return;
-    const nuevasListas = { ...listasGuardadas, [nombreLista]: lista };
+    const codigos = lista.map((p) => ({ cod_articulo: p.cod_articulo }));
+    const nuevasListas = { ...listasGuardadas, [nombreLista]: codigos };
     setListasGuardadas(nuevasListas);
     localStorage.setItem("listasPredefinidas", JSON.stringify(nuevasListas));
   };
 
   const cargarLista = (nombre) => {
-    const listaSeleccionada = listasGuardadas[nombre];
-    if (listaSeleccionada) {
-      setLista(listaSeleccionada);
+    const codigos = listasGuardadas[nombre]?.map((p) => p.cod_articulo);
+    if (codigos) {
+      const productosFiltrados = productos.filter((p) => codigos.includes(p.cod_articulo));
+      setLista(productosFiltrados);
       setNombreLista(nombre);
     }
   };
