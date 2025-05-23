@@ -113,7 +113,11 @@ const ListManager = () => {
       try {
         const response = await fetch(`/apies/${estacion}/products.json`);
         const data = await response.json();
-        setProductos(data);
+
+        const productosFiltrados = data.filter(
+          (p) => String(p.cod_lista_precio) === "1"
+        );
+        setProductos(productosFiltrados);
 
         const listas = JSON.parse(localStorage.getItem("listasPredefinidas")) || {};
         setListasGuardadas(listas);
@@ -121,7 +125,9 @@ const ListManager = () => {
         const nombres = Object.keys(listas);
         if (nombres.length > 0) {
           const codigosGuardados = listas[nombres[0]].map((p) => p.cod_articulo);
-          const listaActualizada = data.filter((p) => codigosGuardados.includes(p.cod_articulo));
+          const listaActualizada = productosFiltrados.filter((p) =>
+            codigosGuardados.includes(p.cod_articulo)
+          );
           setLista(listaActualizada);
           setNombreLista(nombres[0]);
         }
@@ -129,11 +135,12 @@ const ListManager = () => {
         console.error("Error al cargar productos:", error);
       }
     };
+
     fetchProductos();
   }, [estacion]);
 
-  const agregarALista = (producto) => {
-    if (!lista.find((p) => p.cod_articulo === producto.cod_articulo)) {
+ const agregarALista = (producto) => {
+    if (!lista.find((p) => p.cod_articulo === producto.cod_articulo && p.ean === producto.ean)) {
       const nuevaLista = [...lista, producto];
       setLista(nuevaLista);
       guardarEdicionLista(nuevaLista);
@@ -238,7 +245,12 @@ const ListManager = () => {
     }
   };
 
-  const productosFiltrados = productos.filter((producto) => producto.articulo?.toLowerCase().includes(busqueda.toLowerCase()));
+ const productosFiltrados = productos
+    .filter((producto) => producto.articulo?.toLowerCase().includes(busqueda.toLowerCase()))
+    .filter((item, index, self) =>
+      index === self.findIndex((p) => `${p.cod_articulo}-${p.ean}` === `${item.cod_articulo}-${item.ean}`)
+    );
+
   const totalPaginas = Math.ceil(productosFiltrados.length / porPagina);
   const inicio = (pagina - 1) * porPagina;
   const productosPaginados = productosFiltrados.slice(inicio, inicio + porPagina);
@@ -254,7 +266,7 @@ const ListManager = () => {
 
       <ProductList>
         {productosPaginados.map((producto) => (
-          <ProductCard key={producto.cod_articulo}>
+          <ProductCard key={`${producto.cod_articulo}-${producto.ean || producto.descripcion || producto.id}`}>
             <h3>{producto.articulo}</h3>
             <p>Precio final: ${producto.precio}</p>
             <AddButton onClick={() => agregarALista(producto)}>Agregar</AddButton>
@@ -273,7 +285,7 @@ const ListManager = () => {
         <>
           <ul>
             {lista.map((p) => (
-              <li key={p.cod_articulo} className="flex justify-between items-center border p-2 rounded bg-white text-black mb-2">
+              <li key={`${p.cod_articulo}-${p.ean || p.descripcion || p.id}`} className="flex justify-between items-center border p-2 rounded bg-white text-black mb-2">
                 <span>{p.cod_articulo} - {p.articulo} - ${p.precio}</span>
                 <RemoveButton onClick={() => quitarDeLista(p.cod_articulo)}>Quitar</RemoveButton>
               </li>
