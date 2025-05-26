@@ -34,22 +34,22 @@ const Container = styled.div`
   min-height: 100vh;
 
   .search {
-    font-family: "Poppins", sans-serif; /* Fuente moderna */
-    font-size: 1rem; /* Tamaño legible */
-    font-weight: 400; /* Grosor cómodo */
-    color: #ffffff; /* Color del texto */
-    background-color: #2c2c2c; /* Fondo oscuro moderno */
-    padding: 0.75rem 1rem; /* Espaciado interno */
-    border: none; /* Sin borde feo por defecto */
-    border-radius: 0.5rem; /* Bordes redondeados */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.813); /* Sombra suave */
-    outline: none; /* Saca el borde azul feo al hacer focus */
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: #2c2c2c;
+    padding: 0.75rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.813);
+    outline: none;
     transition: all 0.3s ease;
     width: 40rem;
   }
 
   .search::placeholder {
-    color: #aaaaaa; /* Placeholder más sutil */
+    color: #aaaaaa;
   }
 `;
 
@@ -223,6 +223,31 @@ const RubrosCard = styled.div`
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
   }
 `;
+
+const descargarQRRubroPDF = async () => {
+  try {
+    const url = `https://www.oleumprecios.com/apies/${cliente}/rubros/${encodeURIComponent(
+      rubroSeleccionado
+    )}`;
+    const dataUrl = await QRGenerator.toDataURL(url, {
+      errorCorrectionLevel: "H",
+      type: "image/png",
+      width: 200,
+      margin: 1,
+      color: { dark: "#000000", light: "#ffffff" },
+    });
+
+    const doc = new jsPDF();
+    doc.setFontSize(16);
+    doc.text(`Rubro: ${rubroSeleccionado}`, 20, 30);
+
+    doc.addImage(dataUrl, "PNG", 50, 50, 100, 100);
+
+    doc.save(`qr_rubro_${rubroSeleccionado}.pdf`);
+  } catch (err) {
+    console.error("Error al generar PDF del QR del rubro:", err);
+  }
+};
 
 const ToggleContainer = styled.div`
   display: flex;
@@ -486,6 +511,7 @@ const QRManager = () => {
           <h2 style={{ color: "white", marginLeft: "5rem", fontSize: "2rem" }}>
             Selecciona un Rubro
           </h2>
+
           <QRGrid>
             {rubrosFiltrados.map((rubro) => (
               <RubrosCard
@@ -511,6 +537,41 @@ const QRManager = () => {
 
           <h2 style={{ color: "white" }}>{rubroSeleccionado}</h2>
 
+          {/* QR general del rubro y botón para descargarlo */}
+          <div style={{ textAlign: "center", marginBottom: "2rem" }}>
+            <h3 style={{ color: "white", marginBottom: "1rem" }}>
+              QR del Rubro
+            </h3>
+            <div
+              style={{
+                display: "inline-block",
+                background: "#fff",
+                padding: "1rem",
+                borderRadius: "1rem",
+                boxShadow: "0 4px 10px rgba(0,0,0,0.3)",
+              }}
+            >
+              <QRCode
+                value={`https://oleumprecios.com/apies/${cliente}/rubros/${encodeURIComponent(
+                  rubroSeleccionado
+                )}`}
+                size={160}
+                bgColor="#ffffff"
+                fgColor="#000000"
+              />
+            </div>
+
+            <div style={{ marginTop: "1rem" }}>
+              <GenerateButton
+                onClick={() => descargarQRRubroPDF()}
+                style={{ backgroundColor: "#16a34a" }}
+              >
+                Descargar PDF del QR Rubro
+              </GenerateButton>
+            </div>
+          </div>
+
+          {/* Botones de selección/deselección */}
           <div style={{ marginBottom: "1rem", textAlign: "center" }}>
             <GenerateButton onClick={seleccionarTodosDelRubro}>
               Seleccionar todos
@@ -532,15 +593,16 @@ const QRManager = () => {
             </p>
           </div>
 
+          {/* Lista de QRs de productos */}
           <QRGrid>
             {productosPorRubro.map((producto, index) => (
               <QRCard
                 key={`${producto.cod_articulo}_${index}`}
-                onClick={() => toggleSeleccionado(producto.cod_articulo)} // 🎯 ahora la card escucha el click
+                onClick={() => toggleSeleccionado(producto.cod_articulo)}
               >
                 <label
                   className="checkbox-container"
-                  onClick={(e) => e.stopPropagation()} // 🎯 para que NO dispare doble cuando clickeás el checkbox
+                  onClick={(e) => e.stopPropagation()}
                 >
                   <input
                     type="checkbox"
@@ -552,7 +614,7 @@ const QRManager = () => {
 
                 <h3>{producto.articulo}</h3>
                 <QRCode
-                  value={`https://qr-reader-blue.vercel.app/apies/${cliente}/${producto.cod_articulo}`}
+                  value={`https://oleumprecios.com/apies/${cliente}/${producto.cod_articulo}`}
                   size={170}
                   bgColor="#ffffff"
                   fgColor="#000000"

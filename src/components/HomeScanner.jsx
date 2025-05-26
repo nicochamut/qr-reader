@@ -11,7 +11,7 @@ const HomeContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 90vh;
+  height: 100dvh;
   background: linear-gradient(120deg, #23514e 0%, #4a7f6c 70%, #d1d1d1 100%);
   background-image: url(${(props) => props.backghome});
   background-size: cover;
@@ -52,7 +52,7 @@ const ScanButton = styled.button`
 const Footer = styled.footer`
   position: absolute;
   bottom: 3rem;
-  color:rgb(156, 156, 156);
+  color: rgb(156, 156, 156);
   font-size: 12px;
   text-align: center;
   width: 100%;
