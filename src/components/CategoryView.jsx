@@ -58,10 +58,17 @@ const Transparencia = styled.div`
     margin: 0.25rem 0;
   }
   span:first-child {
-    color: #ccc;
+    color: #b8b8b8;
   }
   span:last-child {
-    color: #fff;
+    color: #c1c1c1;
+  }
+  .final-price {
+    span {
+      font-weight: bold;
+      font-size: 1rem;
+      color: #ffffff;
+    }
   }
 `;
 
@@ -156,6 +163,10 @@ const CategoryView = () => {
                       {p.unidad}
                       {p.unidad_medida} ${p.precio_x_unidad}
                     </span>
+                  </div>
+                  <div className="final-price">
+                    <span>Precio final:</span>
+                    <span>${p.precio}</span>
                   </div>
                 </Transparencia>
               </ProductCard>
