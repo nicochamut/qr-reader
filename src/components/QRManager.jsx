@@ -130,6 +130,7 @@ const QRCard = styled.div`
   border-radius: 16px;
   background: #fff;
   min-height: 7rem;
+  width: 19rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -224,31 +225,6 @@ const RubrosCard = styled.div`
   }
 `;
 
-const descargarQRRubroPDF = async () => {
-  try {
-    const url = `https://www.oleumprecios.com/apies/${cliente}/rubros/${encodeURIComponent(
-      rubroSeleccionado
-    )}`;
-    const dataUrl = await QRGenerator.toDataURL(url, {
-      errorCorrectionLevel: "H",
-      type: "image/png",
-      width: 200,
-      margin: 1,
-      color: { dark: "#000000", light: "#ffffff" },
-    });
-
-    const doc = new jsPDF();
-    doc.setFontSize(16);
-    doc.text(`Rubro: ${rubroSeleccionado}`, 20, 30);
-
-    doc.addImage(dataUrl, "PNG", 50, 50, 100, 100);
-
-    doc.save(`qr_rubro_${rubroSeleccionado}.pdf`);
-  } catch (err) {
-    console.error("Error al generar PDF del QR del rubro:", err);
-  }
-};
-
 const ToggleContainer = styled.div`
   display: flex;
   align-items: center;
@@ -291,7 +267,7 @@ const Pagination = styled.div`
 
 const QRManager = () => {
   const { cliente } = useParams();
-  console.log("Cliente:", cliente);
+
   const navigate = useNavigate();
   const [listaPrecioSeleccionada, setListaPrecioSeleccionada] = useState("1");
   const [user, setUser] = useState(null);
@@ -325,6 +301,31 @@ const QRManager = () => {
     };
     fetchProductos();
   }, [cliente]);
+
+  const descargarQRRubroPDF = async () => {
+    try {
+      const url = `https://www.oleumprecios.com/apies/${cliente}/rubros/${encodeURIComponent(
+        rubroSeleccionado
+      )}`;
+      const dataUrl = await QRGenerator.toDataURL(url, {
+        errorCorrectionLevel: "H",
+        type: "image/png",
+        width: 200,
+        margin: 1,
+        color: { dark: "#000000", light: "#ffffff" },
+      });
+
+      const doc = new jsPDF();
+      doc.setFontSize(16);
+      doc.text(`Rubro: ${rubroSeleccionado}`, 20, 30);
+
+      doc.addImage(dataUrl, "PNG", 50, 50, 100, 100);
+
+      doc.save(`qr_rubro_${rubroSeleccionado}.pdf`);
+    } catch (err) {
+      console.error("Error al generar PDF del QR del rubro:", err);
+    }
+  };
 
   const productosPorRubro = productos
     .filter((p) => p.rubro?.toLowerCase() === rubroSeleccionado?.toLowerCase())
