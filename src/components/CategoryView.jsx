@@ -146,7 +146,7 @@ const CategoryView = () => {
                 <Descripcion>{p.articulo}</Descripcion>
                 <Transparencia>
                   <div>
-                    <span>Precio sin impuestos nacionales:</span>
+                    <span>Precio sin imp. nacionales:</span>
                     <span>${p.precio_neto}</span>
                   </div>
                   <div>
