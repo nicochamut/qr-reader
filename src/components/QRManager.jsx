@@ -316,10 +316,21 @@ const QRManager = () => {
       });
 
       const doc = new jsPDF();
-      doc.setFontSize(16);
-      doc.text(`Rubro: ${rubroSeleccionado}`, 20, 30);
 
-      doc.addImage(dataUrl, "PNG", 50, 50, 100, 100);
+      // 🔥 Ajustamos tamaño de fuente
+      doc.setFontSize(16);
+
+      // 🔥 Centramos el título "Rubro: ..."
+      const textoTitulo = `Rubro: ${rubroSeleccionado}`;
+      const textWidth = doc.getTextWidth(textoTitulo);
+      const pageWidth = doc.internal.pageSize.getWidth();
+      const centerX = (pageWidth - textWidth) / 2;
+      doc.text(textoTitulo, centerX, 30);
+
+      // 🔥 Centramos el QR debajo del texto
+      const qrWidth = 100;
+      const qrX = (pageWidth - qrWidth) / 2;
+      doc.addImage(dataUrl, "PNG", qrX, 50, qrWidth, qrWidth);
 
       doc.save(`qr_rubro_${rubroSeleccionado}.pdf`);
     } catch (err) {
