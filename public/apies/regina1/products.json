@@ -11,9 +11,9 @@
     "articulo": "NAFTA SUPER XXI",
     "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
-    "precio_neto": 875.28,
-    "impuestos": 223.91,
-    "iva": 183.81,
+    "precio_neto": 875.12,
+    "impuestos": 224.11,
+    "iva": 183.78,
     "precio": 1283,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -21,7 +21,7 @@
     "precio_dolar": 1283,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-02",
-    "fecha_ult_act": "2025-06-02 10:33:21"
+    "fecha_ult_act": "2025-06-02 11:29:19"
   },
   {
     "bandera": "YPF",
@@ -35,17 +35,17 @@
     "articulo": "INFINIA",
     "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
-    "precio_neto": 1036.81,
-    "impuestos": 226.45,
-    "iva": 217.73,
+    "precio_neto": 1036.62,
+    "impuestos": 226.69,
+    "iva": 217.69,
     "precio": 1481,
     "unidad": 1,
     "unidad_medida": "Un",
-    "ubicacion": "\u0000",
+    "ubicacion": "",
     "precio_dolar": 1481,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-02",
-    "fecha_ult_act": "2025-06-02 10:33:21"
+    "fecha_ult_act": "2025-06-02 11:29:37"
   },
   {
     "bandera": "YPF",
@@ -59,17 +59,17 @@
     "articulo": "INFINIA DIESEL",
     "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
-    "precio_neto": 1045.02,
-    "impuestos": 173.52,
-    "iva": 219.45,
+    "precio_neto": 1044.84,
+    "impuestos": 173.75,
+    "iva": 219.42,
     "precio": 1438,
     "unidad": 1,
     "unidad_medida": "Un",
-    "ubicacion": "\u0000",
+    "ubicacion": "",
     "precio_dolar": 1438,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-02",
-    "fecha_ult_act": "2025-06-02 10:33:21"
+    "fecha_ult_act": "2025-06-02 11:29:59"
   },
   {
     "bandera": "YPF",
