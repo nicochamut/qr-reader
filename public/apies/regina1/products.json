@@ -83,17 +83,17 @@
     "articulo": "D DIESEL 500",
     "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
-    "precio_neto": 915.98,
-    "impuestos": 175.67,
-    "iva": 192.36,
+    "precio_neto": 915.81,
+    "impuestos": 175.86,
+    "iva": 192.32,
     "precio": 1284,
     "unidad": 1,
     "unidad_medida": "Un",
-    "ubicacion": "\u0000",
+    "ubicacion": "",
     "precio_dolar": 1284,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-02",
-    "fecha_ult_act": "2025-06-02 10:33:21"
+    "fecha_ult_act": "2025-06-02 11:30:17"
   },
   {
     "bandera": "YPF",
