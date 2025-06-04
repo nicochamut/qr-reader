@@ -13929,19 +13929,19 @@
     "ean": "7790040135741",
     "cod_articulo": "2388",
     "articulo": "Gall Cereal Mix Avena/Pasas 207 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 11835.75,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 2024.79,
     "impuestos": 0,
     "iva": 425.21,
     "precio": 2450,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 207,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 2450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -16641,7 +16641,7 @@
     "ean": "0",
     "cod_articulo": "2561",
     "articulo": "Combo Ensalada Caesar + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -16653,7 +16653,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -16665,7 +16665,7 @@
     "ean": "0",
     "cod_articulo": "2565",
     "articulo": "Combo Ensalada Chef Prem + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -16677,7 +16677,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -16701,7 +16701,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -16725,7 +16725,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -16749,7 +16749,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -16773,7 +16773,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -16797,7 +16797,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -16821,7 +16821,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -16833,7 +16833,7 @@
     "ean": "0",
     "cod_articulo": "2633",
     "articulo": "Ensalada Pollo Semi + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10500,
     "volumen_x_unidad": "Un",
     "precio_neto": 8652.88,
     "impuestos": 30.02,
@@ -16845,7 +16845,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -17289,7 +17289,7 @@
     "ean": "0",
     "cod_articulo": "12277",
     "articulo": "Combo ensalada veggie prem + Aquarius",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -17301,7 +17301,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -17421,7 +17421,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -17433,7 +17433,7 @@
     "ean": "0",
     "cod_articulo": "348",
     "articulo": "Plato Lasagna + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9107.42,
     "impuestos": 30.02,
@@ -17445,7 +17445,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -17469,7 +17469,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -17481,7 +17481,7 @@
     "ean": "0",
     "cod_articulo": "1589",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 8983.46,
     "impuestos": 30.02,
@@ -17493,7 +17493,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17505,7 +17505,7 @@
     "ean": "0",
     "cod_articulo": "1595",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 9008.26,
     "impuestos": 0,
@@ -17517,7 +17517,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17529,7 +17529,7 @@
     "ean": "0",
     "cod_articulo": "1597",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 8974.08,
     "impuestos": 41.37,
@@ -17541,7 +17541,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17553,7 +17553,7 @@
     "ean": "0",
     "cod_articulo": "1617",
     "articulo": "Combo Empanadas Carne STACC 2 Un + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7123.95,
     "impuestos": 30.02,
@@ -17565,7 +17565,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17577,7 +17577,7 @@
     "ean": "0",
     "cod_articulo": "1619",
     "articulo": "Combo Empanadas Carne STACC 2 Un + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7148.76,
     "impuestos": 0,
@@ -17589,7 +17589,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17673,7 +17673,7 @@
     "ean": "0",
     "cod_articulo": "2125",
     "articulo": "Plato de Risotto Calabaza + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -17685,7 +17685,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17697,7 +17697,7 @@
     "ean": "0",
     "cod_articulo": "2127",
     "articulo": "Plato de Risotto Calabaza + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8560.85,
     "impuestos": 41.37,
@@ -17709,7 +17709,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17721,7 +17721,7 @@
     "ean": "0",
     "cod_articulo": "2128",
     "articulo": "Plato de Risotto Calabaza + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -17733,7 +17733,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -17769,7 +17769,7 @@
     "ean": "0",
     "cod_articulo": "3691",
     "articulo": "Plato Milanesa napolitana c papas rusticas + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9107.42,
     "impuestos": 30.02,
@@ -17781,7 +17781,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -17805,7 +17805,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -17841,7 +17841,7 @@
     "ean": "0",
     "cod_articulo": "4435",
     "articulo": "Plato Milanesa napolitana c papas rustica + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9132.23,
     "impuestos": 0,
@@ -17853,7 +17853,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -17877,7 +17877,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -17913,7 +17913,7 @@
     "ean": "0",
     "cod_articulo": "4721",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8818.17,
     "impuestos": 30.02,
@@ -17925,7 +17925,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -17937,7 +17937,7 @@
     "ean": "0",
     "cod_articulo": "4868",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8808.79,
     "impuestos": 41.37,
@@ -17949,7 +17949,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18009,7 +18009,7 @@
     "ean": "0",
     "cod_articulo": "9209",
     "articulo": "Combo Crepe Verdura STACC 2 Un + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 8983.46,
     "impuestos": 30.02,
@@ -18021,7 +18021,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:39"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -18057,7 +18057,7 @@
     "ean": "0",
     "cod_articulo": "9211",
     "articulo": "Combo Empanadas Verdura STACC 2 Un + Agua 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7123.95,
     "impuestos": 30.02,
@@ -18069,7 +18069,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:40"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -18081,7 +18081,7 @@
     "ean": "0",
     "cod_articulo": "9212",
     "articulo": "Combo Empanadas Verdura STACC 2 Un + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7111.44,
     "impuestos": 45.16,
@@ -18093,7 +18093,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:40"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -18105,7 +18105,7 @@
     "ean": "0",
     "cod_articulo": "9216",
     "articulo": "Combo Empanadas Verdura STACC 2 Un + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7123.95,
     "impuestos": 30.02,
@@ -18117,7 +18117,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:40"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -18225,7 +18225,7 @@
     "ean": "0",
     "cod_articulo": "11061",
     "articulo": "Plato Albondigas Portuguesas C/Arroz + Gaseosa",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9094.91,
     "impuestos": 45.16,
@@ -18237,7 +18237,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:40"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18273,7 +18273,7 @@
     "ean": "0",
     "cod_articulo": "11063",
     "articulo": "Plato de Albondigas Portuguesas C/Arroz+ agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9107.42,
     "impuestos": 30.02,
@@ -18285,7 +18285,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:40"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18393,7 +18393,7 @@
     "ean": "0",
     "cod_articulo": "11076",
     "articulo": "Plato de Pollo Relleno de Jamon y Queso con Carrot Souffle + gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11500,
     "volumen_x_unidad": "Un",
     "precio_neto": 9469.95,
     "impuestos": 41.37,
@@ -18405,7 +18405,7 @@
     "precio_dolar": 11500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18441,7 +18441,7 @@
     "ean": "0",
     "cod_articulo": "11078",
     "articulo": "Plato de Pollo Relleno de Jamon y Queso con Carrot Souffle + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11500,
     "volumen_x_unidad": "Un",
     "precio_neto": 9504.13,
     "impuestos": 0,
@@ -18453,7 +18453,7 @@
     "precio_dolar": 11500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18465,7 +18465,7 @@
     "ean": "0",
     "cod_articulo": "11161",
     "articulo": "Plato de Lasagna veggie con Salsa Mixta  + gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9098.04,
     "impuestos": 41.37,
@@ -18477,7 +18477,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18561,7 +18561,7 @@
     "ean": "0",
     "cod_articulo": "11893",
     "articulo": "Combo Plato pollo con milojas de verdura + gaseosa",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10800,
     "volumen_x_unidad": "Un",
     "precio_neto": 8888.3,
     "impuestos": 45.16,
@@ -18573,7 +18573,7 @@
     "precio_dolar": 10800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18585,7 +18585,7 @@
     "ean": "0",
     "cod_articulo": "11894",
     "articulo": "Combo Plato pollo con milojas de verdura + Aquarius",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10800,
     "volumen_x_unidad": "Un",
     "precio_neto": 8925.62,
     "impuestos": 0,
@@ -18597,7 +18597,7 @@
     "precio_dolar": 10800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -18873,7 +18873,7 @@
     "ean": "0",
     "cod_articulo": "2555",
     "articulo": "Combo Croque Monsieur Blanco + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6504.12,
     "impuestos": 30.02,
@@ -18885,7 +18885,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -18897,7 +18897,7 @@
     "ean": "0",
     "cod_articulo": "2558",
     "articulo": "Combo Croque Monsieur Negro + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6504.12,
     "impuestos": 30.02,
@@ -18909,7 +18909,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -18921,7 +18921,7 @@
     "ean": "0",
     "cod_articulo": "2567",
     "articulo": "Combo Pebete Jamon y Queso + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6800,
     "volumen_x_unidad": "Un",
     "precio_neto": 5595.03,
     "impuestos": 30.02,
@@ -18933,7 +18933,7 @@
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -18945,7 +18945,7 @@
     "ean": "0",
     "cod_articulo": "2569",
     "articulo": "Combo Pebete Top Crudo + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8500,
     "volumen_x_unidad": "Un",
     "precio_neto": 6999.99,
     "impuestos": 30.02,
@@ -18957,7 +18957,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -18969,7 +18969,7 @@
     "ean": "0",
     "cod_articulo": "2571",
     "articulo": "Combo Pebete Top J y Q + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6090.9,
     "impuestos": 30.02,
@@ -18981,7 +18981,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -18993,7 +18993,7 @@
     "ean": "0",
     "cod_articulo": "2574",
     "articulo": "Combo Triple Blanco J y Q + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6132.22,
     "impuestos": 30.02,
@@ -19005,7 +19005,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19017,7 +19017,7 @@
     "ean": "0",
     "cod_articulo": "2576",
     "articulo": "Combo Triple C y Q + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7950,
     "volumen_x_unidad": "Un",
     "precio_neto": 6545.44,
     "impuestos": 30.02,
@@ -19029,7 +19029,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19041,7 +19041,7 @@
     "ean": "0",
     "cod_articulo": "2578",
     "articulo": "Combo Triple Negro J y Q + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6132.22,
     "impuestos": 30.02,
@@ -19053,7 +19053,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19077,7 +19077,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19101,7 +19101,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19125,7 +19125,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19149,7 +19149,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19173,7 +19173,7 @@
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19197,7 +19197,7 @@
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19221,7 +19221,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19233,7 +19233,7 @@
     "ean": "0",
     "cod_articulo": "2612",
     "articulo": "Combo Pebete Top Crudo + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8500,
     "volumen_x_unidad": "Un",
     "precio_neto": 7024.79,
     "impuestos": 0,
@@ -19245,7 +19245,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19257,7 +19257,7 @@
     "ean": "0",
     "cod_articulo": "2614",
     "articulo": "Combo Pebete Top J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6081.52,
     "impuestos": 41.37,
@@ -19269,7 +19269,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19293,7 +19293,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19317,7 +19317,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19341,7 +19341,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19365,7 +19365,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19389,7 +19389,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19413,7 +19413,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19437,7 +19437,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19449,7 +19449,7 @@
     "ean": "0",
     "cod_articulo": "3599",
     "articulo": "Ciabatta Multicereal + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8850,
     "volumen_x_unidad": "Un",
     "precio_neto": 7289.24,
     "impuestos": 30.02,
@@ -19461,7 +19461,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -19533,7 +19533,7 @@
     "precio_dolar": 10750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19545,7 +19545,7 @@
     "ean": "0",
     "cod_articulo": "3950",
     "articulo": "Ciabatta Jamon y Queso + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7537.18,
     "impuestos": 30.02,
@@ -19557,7 +19557,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -19581,7 +19581,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19605,7 +19605,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19617,7 +19617,7 @@
     "ean": "0",
     "cod_articulo": "4281",
     "articulo": "Combo Baguette Crudo y Queso + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8859.49,
     "impuestos": 30.02,
@@ -19629,7 +19629,7 @@
     "precio_dolar": 10750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -19641,7 +19641,7 @@
     "ean": "0",
     "cod_articulo": "4443",
     "articulo": "Panini + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9300,
     "volumen_x_unidad": "Un",
     "precio_neto": 7661.14,
     "impuestos": 30.02,
@@ -19653,7 +19653,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19689,7 +19689,7 @@
     "ean": "0",
     "cod_articulo": "4554",
     "articulo": "Triang Prem Poll/Ruc/Parm + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8300,
     "volumen_x_unidad": "Un",
     "precio_neto": 6834.7,
     "impuestos": 30.02,
@@ -19701,7 +19701,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -19725,7 +19725,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19749,7 +19749,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -19773,7 +19773,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19797,7 +19797,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19869,7 +19869,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19893,7 +19893,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19917,7 +19917,7 @@
     "precio_dolar": 10750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -19977,7 +19977,7 @@
     "ean": "0",
     "cod_articulo": "5714",
     "articulo": "Roll Frio Caesar + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6942.15,
     "impuestos": 0,
@@ -19989,7 +19989,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -20001,7 +20001,7 @@
     "ean": "0",
     "cod_articulo": "5715",
     "articulo": "Roll Frio Caesar + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6907.96,
     "impuestos": 41.37,
@@ -20013,7 +20013,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -20025,7 +20025,7 @@
     "ean": "0",
     "cod_articulo": "5740",
     "articulo": "Roll Frio Caesar + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6917.34,
     "impuestos": 30.02,
@@ -20037,7 +20037,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -20097,7 +20097,7 @@
     "ean": "0",
     "cod_articulo": "8431",
     "articulo": "Triple Blanco Jamon y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6400,
     "volumen_x_unidad": "Un",
     "precio_neto": 5264.45,
     "impuestos": 30.02,
@@ -20109,7 +20109,7 @@
     "precio_dolar": 6400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20145,7 +20145,7 @@
     "ean": "0",
     "cod_articulo": "8433",
     "articulo": "Triple Negro Crudo y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5750.94,
     "impuestos": 41.37,
@@ -20157,7 +20157,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20169,7 +20169,7 @@
     "ean": "0",
     "cod_articulo": "8434",
     "articulo": "Triple Negro Crudo y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5760.32,
     "impuestos": 30.02,
@@ -20181,7 +20181,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20241,7 +20241,7 @@
     "ean": "0",
     "cod_articulo": "8437",
     "articulo": "Triple Jamon/Hue/Morron/Aceitunas ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7250,
     "volumen_x_unidad": "Un",
     "precio_neto": 5966.93,
     "impuestos": 30.02,
@@ -20253,7 +20253,7 @@
     "precio_dolar": 7250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20409,7 +20409,7 @@
     "ean": "0",
     "cod_articulo": "8449",
     "articulo": "Triple Pollo/Ruc/Queso ESTADIO + Agua 1 UN",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7600,
     "volumen_x_unidad": "Un",
     "precio_neto": 6256.18,
     "impuestos": 30.02,
@@ -20421,7 +20421,7 @@
     "precio_dolar": 7600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20433,7 +20433,7 @@
     "ean": "0",
     "cod_articulo": "8450",
     "articulo": "Triple Pollo/Ruc/Queso ESTADIO + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7600,
     "volumen_x_unidad": "Un",
     "precio_neto": 6280.99,
     "impuestos": 0,
@@ -20445,7 +20445,7 @@
     "precio_dolar": 7600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20481,7 +20481,7 @@
     "ean": "0",
     "cod_articulo": "8452",
     "articulo": "Pebete Jamon y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5305.77,
     "impuestos": 30.02,
@@ -20493,7 +20493,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20529,7 +20529,7 @@
     "ean": "0",
     "cod_articulo": "8454",
     "articulo": "Pebete Salame y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5293.26,
     "impuestos": 45.16,
@@ -20541,7 +20541,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20553,7 +20553,7 @@
     "ean": "0",
     "cod_articulo": "8455",
     "articulo": "Pebete Salame y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5305.77,
     "impuestos": 30.02,
@@ -20565,7 +20565,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20577,7 +20577,7 @@
     "ean": "0",
     "cod_articulo": "8456",
     "articulo": "Pebete Salame y Queso ESTADIO + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5330.58,
     "impuestos": 0,
@@ -20589,7 +20589,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20793,7 +20793,7 @@
     "ean": "0",
     "cod_articulo": "8465",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5747.8,
     "impuestos": 45.16,
@@ -20805,7 +20805,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20817,7 +20817,7 @@
     "ean": "0",
     "cod_articulo": "8466",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5760.32,
     "impuestos": 30.02,
@@ -20829,7 +20829,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -20841,7 +20841,7 @@
     "ean": "0",
     "cod_articulo": "8467",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5785.12,
     "impuestos": 0,
@@ -20853,7 +20853,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -21225,7 +21225,7 @@
     "ean": "0",
     "cod_articulo": "11633",
     "articulo": "Combo Roll frio lomito horneado + Gaseosa",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6904.83,
     "impuestos": 45.16,
@@ -21237,7 +21237,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -21609,7 +21609,7 @@
     "ean": "0",
     "cod_articulo": "3579",
     "articulo": "Combo Sandwich Milanesa + Papas + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13100,
     "volumen_x_unidad": "Un",
     "precio_neto": 10826.45,
     "impuestos": 0,
@@ -21621,7 +21621,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21633,7 +21633,7 @@
     "ean": "0",
     "cod_articulo": "3694",
     "articulo": "Roll Crocante Jamon + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -21645,7 +21645,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -21717,7 +21717,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21741,7 +21741,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21765,7 +21765,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21777,7 +21777,7 @@
     "ean": "0",
     "cod_articulo": "3923",
     "articulo": "Combo Sandwich Milanesa + Papas + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13100,
     "volumen_x_unidad": "Un",
     "precio_neto": 10801.64,
     "impuestos": 30.02,
@@ -21789,7 +21789,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -21813,7 +21813,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21837,7 +21837,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21873,7 +21873,7 @@
     "ean": "0",
     "cod_articulo": "4024",
     "articulo": "Roll Crocante Peceto+Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -21885,7 +21885,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -21897,7 +21897,7 @@
     "ean": "0",
     "cod_articulo": "4087",
     "articulo": "Roll Crocante Peceto + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -21909,7 +21909,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -21981,7 +21981,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -22005,7 +22005,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:34"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -22017,7 +22017,7 @@
     "ean": "0",
     "cod_articulo": "4497",
     "articulo": "Roll Crocante Veggie + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -22029,7 +22029,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -22041,7 +22041,7 @@
     "ean": "0",
     "cod_articulo": "4699",
     "articulo": "Roll Crocante Pollo + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -22053,7 +22053,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -22077,7 +22077,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -22089,7 +22089,7 @@
     "ean": "0",
     "cod_articulo": "5345",
     "articulo": "Roll Crocante Lomito y BBQ + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10450,
     "volumen_x_unidad": "Un",
     "precio_neto": 8611.56,
     "impuestos": 30.02,
@@ -22101,7 +22101,7 @@
     "precio_dolar": 10450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:41"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22113,7 +22113,7 @@
     "ean": "0",
     "cod_articulo": "5349",
     "articulo": "Roll Crocante Lomito y BBQ + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10450,
     "volumen_x_unidad": "Un",
     "precio_neto": 8636.36,
     "impuestos": 0,
@@ -22125,7 +22125,7 @@
     "precio_dolar": 10450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:41"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22233,7 +22233,7 @@
     "ean": "0",
     "cod_articulo": "3873",
     "articulo": "Combo 3 Empanadas + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8900,
     "volumen_x_unidad": "Un",
     "precio_neto": 7330.56,
     "impuestos": 30.02,
@@ -22245,7 +22245,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -22269,7 +22269,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -22317,7 +22317,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -22329,7 +22329,7 @@
     "ean": "0",
     "cod_articulo": "10412",
     "articulo": "Tarta calabaza + Aquarius",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9450,
     "volumen_x_unidad": "Un",
     "precio_neto": 7809.92,
     "impuestos": 0,
@@ -22341,7 +22341,7 @@
     "precio_dolar": 9450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:42"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22353,7 +22353,7 @@
     "ean": "0",
     "cod_articulo": "10413",
     "articulo": "Tarta jamon y queso + Aquarius",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9450,
     "volumen_x_unidad": "Un",
     "precio_neto": 7809.92,
     "impuestos": 0,
@@ -22365,7 +22365,7 @@
     "precio_dolar": 9450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:42"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22449,7 +22449,7 @@
     "ean": "0",
     "cod_articulo": "10417",
     "articulo": "Tarta espinaca + Gaseosa",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9500,
     "volumen_x_unidad": "Un",
     "precio_neto": 7817.05,
     "impuestos": 41.37,
@@ -22461,7 +22461,7 @@
     "precio_dolar": 9500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:42"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22689,7 +22689,7 @@
     "ean": "0",
     "cod_articulo": "12390",
     "articulo": "Combo papas con cheddar + gaseosa 500ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5100,
     "volumen_x_unidad": "Un",
     "precio_neto": 4180.69,
     "impuestos": 41.37,
@@ -22701,7 +22701,7 @@
     "precio_dolar": 5100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22761,7 +22761,7 @@
     "ean": "0",
     "cod_articulo": "357",
     "articulo": "Hamb c/queso Grandw + Papas + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 12900,
     "volumen_x_unidad": "Un",
     "precio_neto": 10661.16,
     "impuestos": 0,
@@ -22773,7 +22773,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -22785,7 +22785,7 @@
     "ean": "0",
     "cod_articulo": "363",
     "articulo": "Hamb c/queso Grandw + Papas + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 12900,
     "volumen_x_unidad": "Un",
     "precio_neto": 10636.35,
     "impuestos": 30.02,
@@ -22797,7 +22797,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22821,7 +22821,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -22929,7 +22929,7 @@
     "ean": "0",
     "cod_articulo": "3089",
     "articulo": "Combo Hamb Doble Grandwich + Agua + Papas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13600,
     "volumen_x_unidad": "Un",
     "precio_neto": 11214.86,
     "impuestos": 30.02,
@@ -22941,7 +22941,7 @@
     "precio_dolar": 13600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:39"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30009,7 +30009,7 @@
     "ean": "77959140",
     "cod_articulo": "21",
     "articulo": "* Ciga Lucky C & R Convertible 12 Paq 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 504.5,
     "impuestos": 1739.56,
@@ -30021,7 +30021,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:55"
   },
   {
     "bandera": "YPF",
@@ -30033,7 +30033,7 @@
     "ean": "77959171",
     "cod_articulo": "24",
     "articulo": "* Ciga Lucky C & R Convertible Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -30045,7 +30045,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:55"
   },
   {
     "bandera": "YPF",
@@ -30057,7 +30057,7 @@
     "ean": "77946096",
     "cod_articulo": "36",
     "articulo": "* Ciga Lucky Double Click Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30069,7 +30069,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:55"
   },
   {
     "bandera": "YPF",
@@ -30081,7 +30081,7 @@
     "ean": "77901538",
     "cod_articulo": "47",
     "articulo": "* Ciga Lucky Blanco Box Picc 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2310,
     "volumen_x_unidad": "Un",
     "precio_neto": 495.75,
     "impuestos": 1710.14,
@@ -30093,7 +30093,7 @@
     "precio_dolar": 2310,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30249,7 +30249,7 @@
     "ean": "77910059",
     "cod_articulo": "160",
     "articulo": "* Ciga Lucky Blanco com�n Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3460,
     "volumen_x_unidad": "Un",
     "precio_neto": 740.93,
     "impuestos": 2563.47,
@@ -30261,7 +30261,7 @@
     "precio_dolar": 3460,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30273,7 +30273,7 @@
     "ean": "77910974",
     "cod_articulo": "167",
     "articulo": "* Ciga Camel Comun Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4100,
     "volumen_x_unidad": "Un",
     "precio_neto": 880.94,
     "impuestos": 3034.06,
@@ -30285,7 +30285,7 @@
     "precio_dolar": 4100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30297,7 +30297,7 @@
     "ean": "77910981",
     "cod_articulo": "168",
     "articulo": "* Ciga Camel Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30309,7 +30309,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30321,7 +30321,7 @@
     "ean": "77963246",
     "cod_articulo": "354",
     "articulo": "* Ciga Lucky C & R Convertible 20 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30333,7 +30333,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:55"
   },
   {
     "bandera": "YPF",
@@ -30369,7 +30369,7 @@
     "ean": "77974198",
     "cod_articulo": "1371",
     "articulo": "Ciga Lucky Paris Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5000,
     "volumen_x_unidad": "Un",
     "precio_neto": 1077.83,
     "impuestos": 3695.83,
@@ -30381,7 +30381,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30393,7 +30393,7 @@
     "ean": "77974181",
     "cod_articulo": "1377",
     "articulo": "* Ciga Lucky Silver Comun 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30405,7 +30405,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30417,7 +30417,7 @@
     "ean": "77974099",
     "cod_articulo": "1442",
     "articulo": "Ciga ROTH Cigarritos SC 20",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1890,
     "volumen_x_unidad": "Un",
     "precio_neto": 455.6,
     "impuestos": 1338.72,
@@ -30429,7 +30429,7 @@
     "precio_dolar": 1890,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30441,7 +30441,7 @@
     "ean": "77976505",
     "cod_articulo": "1935",
     "articulo": "Ciga Lucky Blanco Box Picc 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2310,
     "volumen_x_unidad": "Un",
     "precio_neto": 495.75,
     "impuestos": 1710.14,
@@ -30453,7 +30453,7 @@
     "precio_dolar": 2310,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30465,7 +30465,7 @@
     "ean": "77976512",
     "cod_articulo": "1936",
     "articulo": "Ciga Lucky Blanco com�n Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3460,
     "volumen_x_unidad": "Un",
     "precio_neto": 740.93,
     "impuestos": 2563.47,
@@ -30477,7 +30477,7 @@
     "precio_dolar": 3460,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30489,7 +30489,7 @@
     "ean": "77976956",
     "cod_articulo": "1937",
     "articulo": "Ciga Lucky C & R Convertible 20 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30501,7 +30501,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30513,7 +30513,7 @@
     "ean": "77976994",
     "cod_articulo": "1939",
     "articulo": "Ciga Lucky C & R Convertible 12 Paq 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 504.5,
     "impuestos": 1739.56,
@@ -30525,7 +30525,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30537,7 +30537,7 @@
     "ean": "77977229",
     "cod_articulo": "1944",
     "articulo": "Ciga Camel Box 11 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.93,
     "impuestos": 1959.18,
@@ -30549,7 +30549,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30561,7 +30561,7 @@
     "ean": "77976970",
     "cod_articulo": "1946",
     "articulo": "Ciga Lucky Silver Comun 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30573,7 +30573,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30585,7 +30585,7 @@
     "ean": "77977038",
     "cod_articulo": "1947",
     "articulo": "Ciga Lucky C & R Convertible Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -30597,7 +30597,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30609,7 +30609,7 @@
     "ean": "77977212",
     "cod_articulo": "1949",
     "articulo": "Ciga Camel Comun Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4100,
     "volumen_x_unidad": "Un",
     "precio_neto": 880.94,
     "impuestos": 3034.06,
@@ -30621,7 +30621,7 @@
     "precio_dolar": 4100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30633,7 +30633,7 @@
     "ean": "77976529",
     "cod_articulo": "1950",
     "articulo": "Ciga Lucky Blanco Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -30645,7 +30645,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30657,7 +30657,7 @@
     "ean": "77976536",
     "cod_articulo": "1951",
     "articulo": "Ciga Lucky Double Click Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30669,7 +30669,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30681,7 +30681,7 @@
     "ean": "77976949",
     "cod_articulo": "1952",
     "articulo": "Ciga Lucky Strike Purple Mix 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30693,7 +30693,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30705,7 +30705,7 @@
     "ean": "77977090",
     "cod_articulo": "1953",
     "articulo": "* Ciga Lucky Paris Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5000,
     "volumen_x_unidad": "Un",
     "precio_neto": 1077.83,
     "impuestos": 3695.83,
@@ -30717,7 +30717,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30729,7 +30729,7 @@
     "ean": "77977113",
     "cod_articulo": "1954",
     "articulo": "* Ciga ROTH Cigarritos SC 20",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1890,
     "volumen_x_unidad": "Un",
     "precio_neto": 455.6,
     "impuestos": 1338.72,
@@ -30741,7 +30741,7 @@
     "precio_dolar": 1890,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30753,7 +30753,7 @@
     "ean": "77977205",
     "cod_articulo": "1955",
     "articulo": "Ciga Camel Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30765,7 +30765,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30777,7 +30777,7 @@
     "ean": "77977236",
     "cod_articulo": "1957",
     "articulo": "Ciga Camel Activate Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4250,
     "volumen_x_unidad": "Un",
     "precio_neto": 913.76,
     "impuestos": 3144.36,
@@ -30789,7 +30789,7 @@
     "precio_dolar": 4250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30801,7 +30801,7 @@
     "ean": "77977243",
     "cod_articulo": "1958",
     "articulo": "Ciga Camel Blue Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30813,7 +30813,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30825,7 +30825,7 @@
     "ean": "77985910",
     "cod_articulo": "3222",
     "articulo": "Ciga Lucky Double Plus Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30837,7 +30837,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30849,7 +30849,7 @@
     "ean": "77985927",
     "cod_articulo": "3223",
     "articulo": "Ciga Lucky Double Plus Box 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.13,
     "impuestos": 1960.14,
@@ -30861,7 +30861,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30873,7 +30873,7 @@
     "ean": "77980892",
     "cod_articulo": "3226",
     "articulo": "Ciga Lucky Origen Red Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2280,
     "volumen_x_unidad": "Un",
     "precio_neto": 482.79,
     "impuestos": 1695.83,
@@ -30885,7 +30885,7 @@
     "precio_dolar": 2280,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30897,7 +30897,7 @@
     "ean": "77980908",
     "cod_articulo": "3227",
     "articulo": "Ciga Lucky Origen Convertible Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2450,
     "volumen_x_unidad": "Un",
     "precio_neto": 519.98,
     "impuestos": 1820.83,
@@ -30909,7 +30909,7 @@
     "precio_dolar": 2450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -30969,7 +30969,7 @@
     "ean": "77958198",
     "cod_articulo": "3562",
     "articulo": "* Ciga Lucky Wild 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30981,7 +30981,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:55"
   },
   {
     "bandera": "YPF",
@@ -31041,7 +31041,7 @@
     "ean": "77900494",
     "cod_articulo": "4128",
     "articulo": "* Ciga Camel Box 11 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.93,
     "impuestos": 1959.18,
@@ -31053,7 +31053,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31065,7 +31065,7 @@
     "ean": "77910936",
     "cod_articulo": "4282",
     "articulo": "* Ciga Camel Blue Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -31077,7 +31077,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:29"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31137,7 +31137,7 @@
     "ean": "77987587",
     "cod_articulo": "5341",
     "articulo": "Ciga Lucky Strike Double Plus XL Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -31149,7 +31149,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31161,7 +31161,7 @@
     "ean": "77987594",
     "cod_articulo": "5342",
     "articulo": "Ciga Lucky Strike Red Mix Box XL 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -31173,7 +31173,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31185,7 +31185,7 @@
     "ean": "77987600",
     "cod_articulo": "5343",
     "articulo": "Ciga Lucky Strike Purple Mix XL Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -31197,7 +31197,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31233,7 +31233,7 @@
     "ean": "77988041",
     "cod_articulo": "9849",
     "articulo": "Ciga Camel Box 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.13,
     "impuestos": 1960.14,
@@ -31245,7 +31245,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31257,7 +31257,7 @@
     "ean": "77988379",
     "cod_articulo": "9989",
     "articulo": "Ciga Lucky Convertible XL Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -31269,7 +31269,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31281,7 +31281,7 @@
     "ean": "77989871",
     "cod_articulo": "10817",
     "articulo": "Ciga Lucky Strike Origen Core 10 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1200,
     "volumen_x_unidad": "Un",
     "precio_neto": 254.52,
     "impuestos": 892.03,
@@ -31293,7 +31293,7 @@
     "precio_dolar": 1200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31305,7 +31305,7 @@
     "ean": "77990945",
     "cod_articulo": "10818",
     "articulo": "Ciga Lucky Strike Origen Caps 10",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1400,
     "volumen_x_unidad": "Un",
     "precio_neto": 298.27,
     "impuestos": 1039.09,
@@ -31317,7 +31317,7 @@
     "precio_dolar": 1400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31329,7 +31329,7 @@
     "ean": "77990921",
     "cod_articulo": "10819",
     "articulo": "Ciga Lucky Origen Core SC 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1950,
     "volumen_x_unidad": "Un",
     "precio_neto": 410.6,
     "impuestos": 1453.18,
@@ -31341,7 +31341,7 @@
     "precio_dolar": 1950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31353,7 +31353,7 @@
     "ean": "77990938",
     "cod_articulo": "10820",
     "articulo": "Ciga Lucky Origen Caps SC 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2110,
     "volumen_x_unidad": "Un",
     "precio_neto": 445.6,
     "impuestos": 1570.83,
@@ -31365,7 +31365,7 @@
     "precio_dolar": 2110,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31449,7 +31449,7 @@
     "ean": "77990914",
     "cod_articulo": "11725",
     "articulo": "Ciga Camel Legend Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 498.1,
     "impuestos": 1747.3,
@@ -31461,7 +31461,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -31593,7 +31593,7 @@
     "ean": "77977106",
     "cod_articulo": "1948",
     "articulo": "* Ciga Rothmans 43/70 Comun Ks 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -31605,7 +31605,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31761,7 +31761,7 @@
     "ean": "77977267",
     "cod_articulo": "2199",
     "articulo": "* Ciga Lucky Caps Charged Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -31773,7 +31773,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31785,7 +31785,7 @@
     "ean": "77977274",
     "cod_articulo": "2200",
     "articulo": "* Ciga Lucky Caps Charged Box 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 504.5,
     "impuestos": 1739.56,
@@ -31797,7 +31797,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31881,7 +31881,7 @@
     "ean": "77985897",
     "cod_articulo": "3127",
     "articulo": "Ciga Lucky Strike Red Mix Box 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.13,
     "impuestos": 1960.14,
@@ -31893,7 +31893,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -31905,7 +31905,7 @@
     "ean": "77985903",
     "cod_articulo": "3128",
     "articulo": "Ciga Lucky Strike Red Mix Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -31917,7 +31917,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -32445,7 +32445,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -32541,7 +32541,7 @@
     "precio_dolar": 5250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -35529,7 +35529,7 @@
     "ean": "0",
     "cod_articulo": "11839",
     "articulo": "Promo Coca Zero/Light /Sprite/Zero + Alfajor Full Blanco/Negro 20% dto",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3630,
     "volumen_x_unidad": "Un",
     "precio_neto": 2962.68,
     "impuestos": 45.16,
@@ -35541,7 +35541,7 @@
     "precio_dolar": 3630,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -35553,7 +35553,7 @@
     "ean": "0",
     "cod_articulo": "12321",
     "articulo": "Promo Coca Zero/Ligth y Fanta Regular/Zero/Pomelo 2da al 50% dto MAJU 25",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3600,
     "volumen_x_unidad": "Un",
     "precio_neto": 2862.42,
     "impuestos": 136.47,
@@ -35565,7 +35565,7 @@
     "precio_dolar": 3600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -35577,7 +35577,7 @@
     "ean": "0",
     "cod_articulo": "12322",
     "articulo": "Promo Coca Zero/Ligth y Fanta Regular/Zero/Pomelo 15% dto MAJU 25",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2040,
     "volumen_x_unidad": "Un",
     "precio_neto": 1634.29,
     "impuestos": 62.51,
@@ -35589,7 +35589,7 @@
     "precio_dolar": 2040,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -35601,7 +35601,7 @@
     "ean": "0",
     "cod_articulo": "12385",
     "articulo": "Promo 2 Coca Cola 500 ml +1000$ = Vaso Coca Cola",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5800,
     "volumen_x_unidad": "Un",
     "precio_neto": 4725.01,
     "impuestos": 82.73,
@@ -35613,7 +35613,7 @@
     "precio_dolar": 5800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -35649,7 +35649,7 @@
     "ean": "0",
     "cod_articulo": "12351",
     "articulo": "Promo Powerade 2da al 50% dto MAJU 25",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3705,
     "volumen_x_unidad": "Un",
     "precio_neto": 3061.98,
     "impuestos": 0,
@@ -35661,7 +35661,7 @@
     "precio_dolar": 3705,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -36609,19 +36609,19 @@
     "ean": "9002490284152",
     "cod_articulo": "12422",
     "articulo": "Energizante Red Bull Winter IcedGuBe",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 15120,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 3017.51,
     "impuestos": 128.81,
     "iva": 633.68,
     "precio": 3780,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 250,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 3780,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -37485,7 +37485,7 @@
     "precio_dolar": 5100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37557,7 +37557,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37581,7 +37581,7 @@
     "precio_dolar": 5050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -37605,7 +37605,7 @@
     "precio_dolar": 6000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -37629,7 +37629,7 @@
     "precio_dolar": 5500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37677,7 +37677,7 @@
     "precio_dolar": 6050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -37701,7 +37701,7 @@
     "precio_dolar": 6000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -37725,7 +37725,7 @@
     "precio_dolar": 6050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37845,7 +37845,7 @@
     "precio_dolar": 9750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37869,7 +37869,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37893,7 +37893,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -37917,7 +37917,7 @@
     "precio_dolar": 9750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38013,7 +38013,7 @@
     "precio_dolar": 9400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38061,7 +38061,7 @@
     "precio_dolar": 5950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38085,7 +38085,7 @@
     "precio_dolar": 10050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38109,7 +38109,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38133,7 +38133,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38157,7 +38157,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38181,7 +38181,7 @@
     "precio_dolar": 9550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38205,7 +38205,7 @@
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38229,7 +38229,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38253,7 +38253,7 @@
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38301,7 +38301,7 @@
     "precio_dolar": 9550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38325,7 +38325,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38373,7 +38373,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38397,7 +38397,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38421,7 +38421,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38445,7 +38445,7 @@
     "precio_dolar": 5950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38469,7 +38469,7 @@
     "precio_dolar": 5950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38493,7 +38493,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38541,7 +38541,7 @@
     "precio_dolar": 5200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38565,7 +38565,7 @@
     "precio_dolar": 9400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38589,7 +38589,7 @@
     "precio_dolar": 10050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38637,7 +38637,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38661,7 +38661,7 @@
     "precio_dolar": 5950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38685,7 +38685,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38709,7 +38709,7 @@
     "precio_dolar": 9350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38733,7 +38733,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38757,7 +38757,7 @@
     "precio_dolar": 9350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38781,7 +38781,7 @@
     "precio_dolar": 8750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38805,7 +38805,7 @@
     "precio_dolar": 8750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38829,7 +38829,7 @@
     "precio_dolar": 4900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38853,7 +38853,7 @@
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -38877,7 +38877,7 @@
     "precio_dolar": 5200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -39381,7 +39381,7 @@
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -39909,7 +39909,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -39933,7 +39933,7 @@
     "precio_dolar": 5950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -39957,7 +39957,7 @@
     "precio_dolar": 6600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -39981,7 +39981,7 @@
     "precio_dolar": 8700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40077,7 +40077,7 @@
     "precio_dolar": 6600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40101,7 +40101,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40125,7 +40125,7 @@
     "precio_dolar": 5700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40149,7 +40149,7 @@
     "precio_dolar": 5200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40197,7 +40197,7 @@
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40221,7 +40221,7 @@
     "precio_dolar": 4300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40293,7 +40293,7 @@
     "precio_dolar": 5400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40317,7 +40317,7 @@
     "precio_dolar": 5400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40365,7 +40365,7 @@
     "precio_dolar": 5900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40389,7 +40389,7 @@
     "precio_dolar": 3950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40413,7 +40413,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40437,7 +40437,7 @@
     "precio_dolar": 5400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40461,7 +40461,7 @@
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40485,7 +40485,7 @@
     "precio_dolar": 5400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40533,7 +40533,7 @@
     "precio_dolar": 5400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40629,7 +40629,7 @@
     "precio_dolar": 8800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40701,7 +40701,7 @@
     "precio_dolar": 6200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40725,7 +40725,7 @@
     "precio_dolar": 5650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40749,7 +40749,7 @@
     "precio_dolar": 6050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40773,7 +40773,7 @@
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40797,7 +40797,7 @@
     "precio_dolar": 5650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40821,7 +40821,7 @@
     "precio_dolar": 4950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40845,7 +40845,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40869,7 +40869,7 @@
     "precio_dolar": 5250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40893,7 +40893,7 @@
     "precio_dolar": 5900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -40917,7 +40917,7 @@
     "precio_dolar": 5700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -40965,7 +40965,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41013,7 +41013,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41037,7 +41037,7 @@
     "precio_dolar": 5700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41061,7 +41061,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41085,7 +41085,7 @@
     "precio_dolar": 6050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41277,7 +41277,7 @@
     "precio_dolar": 3300.1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41301,7 +41301,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41325,7 +41325,7 @@
     "precio_dolar": 6050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -41349,7 +41349,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44493,7 +44493,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44541,7 +44541,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44589,7 +44589,7 @@
     "precio_dolar": 4850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44613,7 +44613,7 @@
     "precio_dolar": 4850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44757,7 +44757,7 @@
     "precio_dolar": 6150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -44805,7 +44805,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44829,7 +44829,7 @@
     "precio_dolar": 5200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -44853,7 +44853,7 @@
     "precio_dolar": 6150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:31"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -44877,7 +44877,7 @@
     "precio_dolar": 5700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -44925,7 +44925,7 @@
     "precio_dolar": 6200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -44997,7 +44997,7 @@
     "precio_dolar": 5150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -45213,7 +45213,7 @@
     "precio_dolar": 4200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -46581,7 +46581,7 @@
     "precio_dolar": 824.24,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -46629,7 +46629,7 @@
     "precio_dolar": 429.75,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -46797,7 +46797,7 @@
     "precio_dolar": 4482.91,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -46869,7 +46869,7 @@
     "precio_dolar": 1338.09,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -46893,7 +46893,7 @@
     "precio_dolar": 0.1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:30"
+    "fecha_ult_act": "2025-06-04 16:14:57"
   },
   {
     "bandera": "YPF",
@@ -46917,7 +46917,7 @@
     "precio_dolar": 0.1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:32"
+    "fecha_ult_act": "2025-06-04 16:14:58"
   },
   {
     "bandera": "YPF",
@@ -46941,7 +46941,7 @@
     "precio_dolar": 0.1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -46965,7 +46965,7 @@
     "precio_dolar": 1353.52,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -46977,7 +46977,7 @@
     "ean": "0",
     "cod_articulo": "8425",
     "articulo": "Agua mineral PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 821.52,
     "volumen_x_unidad": "Un",
     "precio_neto": 654.14,
     "impuestos": 30.02,
@@ -46989,7 +46989,7 @@
     "precio_dolar": 821.52,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:37"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -47001,7 +47001,7 @@
     "ean": "0",
     "cod_articulo": "8483",
     "articulo": "2 Empanadas + Pet Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3087.58,
     "volumen_x_unidad": "Un",
     "precio_neto": 2495.33,
     "impuestos": 68.24,
@@ -47013,7 +47013,7 @@
     "precio_dolar": 3087.58,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:33"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -47145,7 +47145,7 @@
     "ean": "0",
     "cod_articulo": "10401",
     "articulo": "Jugo Tutti Personal 200 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 401.86,
     "volumen_x_unidad": "Un",
     "precio_neto": 332.12,
     "impuestos": 0,
@@ -47157,7 +47157,7 @@
     "precio_dolar": 401.86,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:38"
+    "fecha_ult_act": "2025-06-04 16:14:56"
   },
   {
     "bandera": "YPF",
@@ -47853,7 +47853,7 @@
     "precio_dolar": 132140.21,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -47877,7 +47877,7 @@
     "precio_dolar": 9857.57,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -47901,7 +47901,7 @@
     "precio_dolar": 9857.57,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -48957,7 +48957,7 @@
     "precio_dolar": 9404.79,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -48981,7 +48981,7 @@
     "precio_dolar": 9967.2,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -49197,7 +49197,7 @@
     "precio_dolar": 5240.08,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -49509,7 +49509,7 @@
     "precio_dolar": 11123.71,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -49533,7 +49533,7 @@
     "precio_dolar": 22293.22,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -49557,7 +49557,7 @@
     "precio_dolar": 12696.36,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -49581,7 +49581,7 @@
     "precio_dolar": 6647.23,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -49605,7 +49605,7 @@
     "precio_dolar": 104354.76,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -49629,7 +49629,7 @@
     "precio_dolar": 6320.9,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -50133,7 +50133,7 @@
     "precio_dolar": 134656.63,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -50157,7 +50157,7 @@
     "precio_dolar": 53160.99,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -50181,7 +50181,7 @@
     "precio_dolar": 117228.89,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -50205,7 +50205,7 @@
     "precio_dolar": 13592.22,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -50229,7 +50229,7 @@
     "precio_dolar": 38886.4,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -50805,7 +50805,7 @@
     "precio_dolar": 170843.75,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:14:59"
   },
   {
     "bandera": "YPF",
@@ -50829,7 +50829,7 @@
     "precio_dolar": 27896.93,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -51501,7 +51501,7 @@
     "precio_dolar": 19858.4,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -51525,7 +51525,7 @@
     "precio_dolar": 8886.79,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -51549,7 +51549,7 @@
     "precio_dolar": 25868.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -51573,7 +51573,7 @@
     "precio_dolar": 9136.01,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -51597,7 +51597,7 @@
     "precio_dolar": 8886.79,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -51621,7 +51621,7 @@
     "precio_dolar": 22340.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53157,7 +53157,7 @@
     "precio_dolar": 5675.4,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53181,7 +53181,7 @@
     "precio_dolar": 20999.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53205,7 +53205,7 @@
     "precio_dolar": 18666.4,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53229,7 +53229,7 @@
     "precio_dolar": 20999.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53253,7 +53253,7 @@
     "precio_dolar": 22026.6,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53277,7 +53277,7 @@
     "precio_dolar": 5850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53301,7 +53301,7 @@
     "precio_dolar": 20999.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53325,7 +53325,7 @@
     "precio_dolar": 5675.4,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53349,7 +53349,7 @@
     "precio_dolar": 28244.8,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53373,7 +53373,7 @@
     "precio_dolar": 8736.3,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -53397,7 +53397,7 @@
     "precio_dolar": 80138.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:36"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62421,7 +62421,7 @@
     "precio_dolar": 106993.61,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62445,7 +62445,7 @@
     "precio_dolar": 26648,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62469,7 +62469,7 @@
     "precio_dolar": 9056.38,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62493,7 +62493,7 @@
     "precio_dolar": 9525.4,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62517,7 +62517,7 @@
     "precio_dolar": 1035121.33,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62541,7 +62541,7 @@
     "precio_dolar": 29979,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
@@ -62565,7 +62565,7 @@
     "precio_dolar": 9056.38,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-04 12:25:35"
+    "fecha_ult_act": "2025-06-04 16:15:00"
   },
   {
     "bandera": "YPF",
