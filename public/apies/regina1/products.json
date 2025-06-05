@@ -13665,19 +13665,19 @@
     "ean": "7790411001606",
     "cod_articulo": "4694",
     "articulo": "Yerba Rosamonte Paq 250 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 12200,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 2520.66,
     "impuestos": 0,
     "iva": 529.34,
     "precio": 3050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 250,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 3050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -14649,19 +14649,19 @@
     "ean": "7795735000342",
     "cod_articulo": "11695",
     "articulo": "Bizc Don Satur Negritos 200 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 7200,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1190.08,
     "impuestos": 0,
     "iva": 249.92,
     "precio": 1440,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 200,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1440,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -15177,19 +15177,19 @@
     "ean": "7791672002005",
     "cod_articulo": "309",
     "articulo": "Mini Alf Fantoche 6 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 22903.23,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 2933.88,
     "impuestos": 0,
     "iva": 616.12,
     "precio": 3550,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 155,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 3550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -15249,19 +15249,19 @@
     "ean": "7791672002012",
     "cod_articulo": "3914",
     "articulo": "Mini Alf Fantoche Choco 6 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 22903.23,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 2933.88,
     "impuestos": 0,
     "iva": 616.12,
     "precio": 3550,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 155,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 3550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -15993,19 +15993,19 @@
     "ean": "7795735000328",
     "cod_articulo": "11696",
     "articulo": "Bizc Don Satur Salado 200 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 7350,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1214.88,
     "impuestos": 0,
     "iva": 255.12,
     "precio": 1470,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 200,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1470,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -16617,19 +16617,19 @@
     "ean": "7798024760392",
     "cod_articulo": "988",
     "articulo": "Ensalada Premium Grandwich Chef 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 30500,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7561.98,
     "impuestos": 0,
     "iva": 1588.02,
     "precio": 9150,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 300,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -16641,7 +16641,7 @@
     "ean": "0",
     "cod_articulo": "2561",
     "articulo": "Combo Ensalada Caesar + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -16653,7 +16653,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -16665,7 +16665,7 @@
     "ean": "0",
     "cod_articulo": "2565",
     "articulo": "Combo Ensalada Chef Prem + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -16677,7 +16677,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -16689,7 +16689,7 @@
     "ean": "0",
     "cod_articulo": "2589",
     "articulo": "Combo Ensalada Caesar + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -16701,7 +16701,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -16713,7 +16713,7 @@
     "ean": "0",
     "cod_articulo": "2590",
     "articulo": "Combo Ensalada Caesar + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -16725,7 +16725,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -16737,7 +16737,7 @@
     "ean": "0",
     "cod_articulo": "2598",
     "articulo": "Combo Ensalada Chef Prem + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -16749,7 +16749,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -16761,7 +16761,7 @@
     "ean": "0",
     "cod_articulo": "2599",
     "articulo": "Combo Ensalada Chef Prem + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -16773,7 +16773,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -16785,7 +16785,7 @@
     "ean": "0",
     "cod_articulo": "2631",
     "articulo": "Ensalada Pollo Semi + Gaseosa 500 ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10500,
     "volumen_x_unidad": "Un",
     "precio_neto": 8640.37,
     "impuestos": 45.16,
@@ -16797,7 +16797,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -16809,7 +16809,7 @@
     "ean": "0",
     "cod_articulo": "2632",
     "articulo": "Ensalada Pollo Semi + Aquarius 500 ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10500,
     "volumen_x_unidad": "Un",
     "precio_neto": 8677.69,
     "impuestos": 0,
@@ -16821,7 +16821,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -16833,7 +16833,7 @@
     "ean": "0",
     "cod_articulo": "2633",
     "articulo": "Ensalada Pollo Semi + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10500,
     "volumen_x_unidad": "Un",
     "precio_neto": 8652.88,
     "impuestos": 30.02,
@@ -16845,7 +16845,7 @@
     "precio_dolar": 10500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17337,19 +17337,19 @@
     "ean": "7798024760569",
     "cod_articulo": "97007",
     "articulo": "Ensalada Premium Grandwich Caesar 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 35192.31,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7561.98,
     "impuestos": 0,
     "iva": 1588.02,
     "precio": 9150,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 260,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17361,19 +17361,19 @@
     "ean": "7798024766417",
     "cod_articulo": "97025",
     "articulo": "Ensalada Grandwich Pechuga semillado c/ mix de vegetales 1 U",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 30833.33,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7644.63,
     "impuestos": 0,
     "iva": 1605.37,
     "precio": 9250,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 300,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17433,7 +17433,7 @@
     "ean": "0",
     "cod_articulo": "348",
     "articulo": "Plato Lasagna + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9107.42,
     "impuestos": 30.02,
@@ -17445,7 +17445,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17481,7 +17481,7 @@
     "ean": "0",
     "cod_articulo": "1589",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 8983.46,
     "impuestos": 30.02,
@@ -17493,7 +17493,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17505,7 +17505,7 @@
     "ean": "0",
     "cod_articulo": "1595",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 9008.26,
     "impuestos": 0,
@@ -17517,7 +17517,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17529,7 +17529,7 @@
     "ean": "0",
     "cod_articulo": "1597",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10900,
     "volumen_x_unidad": "Un",
     "precio_neto": 8970.95,
     "impuestos": 45.16,
@@ -17541,7 +17541,7 @@
     "precio_dolar": 10900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17553,7 +17553,7 @@
     "ean": "0",
     "cod_articulo": "1617",
     "articulo": "Combo Empanadas Carne STACC 2 Un + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7123.95,
     "impuestos": 30.02,
@@ -17565,7 +17565,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17577,7 +17577,7 @@
     "ean": "0",
     "cod_articulo": "1619",
     "articulo": "Combo Empanadas Carne STACC 2 Un + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7148.76,
     "impuestos": 0,
@@ -17589,7 +17589,7 @@
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17649,19 +17649,19 @@
     "ean": "7798131130897",
     "cod_articulo": "1640",
     "articulo": "Wok de vegetales (veggie) S/Tacc",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 24000,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7933.88,
     "impuestos": 0,
     "iva": 1666.12,
     "precio": 9600,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 400,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 9600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17673,7 +17673,7 @@
     "ean": "0",
     "cod_articulo": "2125",
     "articulo": "Plato de Risotto Calabaza + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -17685,7 +17685,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17697,7 +17697,7 @@
     "ean": "0",
     "cod_articulo": "2127",
     "articulo": "Plato de Risotto Calabaza + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -17709,7 +17709,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17721,7 +17721,7 @@
     "ean": "0",
     "cod_articulo": "2128",
     "articulo": "Plato de Risotto Calabaza + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -17733,7 +17733,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17745,19 +17745,19 @@
     "ean": "7798024766806",
     "cod_articulo": "2130",
     "articulo": "Plato Elaborado Risotto Calabaza 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 28593.75,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7561.98,
     "impuestos": 0,
     "iva": 1588.02,
     "precio": 9150,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 320,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17769,7 +17769,7 @@
     "ean": "0",
     "cod_articulo": "3691",
     "articulo": "Plato Milanesa napolitana c papas rusticas + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9107.42,
     "impuestos": 30.02,
@@ -17781,7 +17781,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17817,19 +17817,19 @@
     "ean": "7798131130651",
     "cod_articulo": "4354",
     "articulo": "Crepe La Delfina Verdura 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 32000,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7933.88,
     "impuestos": 0,
     "iva": 1666.12,
     "precio": 9600,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 300,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 9600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17841,7 +17841,7 @@
     "ean": "0",
     "cod_articulo": "4435",
     "articulo": "Plato Milanesa napolitana c papas rustica + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9132.23,
     "impuestos": 0,
@@ -17853,7 +17853,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -17865,7 +17865,7 @@
     "ean": "0",
     "cod_articulo": "4456",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8842.98,
     "impuestos": 0,
@@ -17877,7 +17877,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17889,19 +17889,19 @@
     "ean": "0",
     "cod_articulo": "4464",
     "articulo": "Plato Elaborado Pollo con Arroz 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 28787.88,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7851.24,
     "impuestos": 0,
     "iva": 1648.76,
     "precio": 9500,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 330,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 9500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17913,7 +17913,7 @@
     "ean": "0",
     "cod_articulo": "4721",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8818.17,
     "impuestos": 30.02,
@@ -17925,7 +17925,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17937,7 +17937,7 @@
     "ean": "0",
     "cod_articulo": "4868",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8805.66,
     "impuestos": 45.16,
@@ -17949,7 +17949,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -17961,7 +17961,7 @@
     "ean": "7798131130811",
     "cod_articulo": "5313",
     "articulo": "Empanada La Delfina Verdura 2 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7100,
     "volumen_x_unidad": "Un",
     "precio_neto": 5867.77,
     "impuestos": 0,
@@ -17973,7 +17973,7 @@
     "precio_dolar": 7100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -18873,7 +18873,7 @@
     "ean": "0",
     "cod_articulo": "2555",
     "articulo": "Combo Croque Monsieur Blanco + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6504.12,
     "impuestos": 30.02,
@@ -18885,7 +18885,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -18897,7 +18897,7 @@
     "ean": "0",
     "cod_articulo": "2558",
     "articulo": "Combo Croque Monsieur Negro + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6504.12,
     "impuestos": 30.02,
@@ -18909,7 +18909,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -18921,7 +18921,7 @@
     "ean": "0",
     "cod_articulo": "2567",
     "articulo": "Combo Pebete Jamon y Queso + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6800,
     "volumen_x_unidad": "Un",
     "precio_neto": 5595.03,
     "impuestos": 30.02,
@@ -18933,7 +18933,7 @@
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -18945,7 +18945,7 @@
     "ean": "0",
     "cod_articulo": "2569",
     "articulo": "Combo Pebete Top Crudo + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8500,
     "volumen_x_unidad": "Un",
     "precio_neto": 6999.99,
     "impuestos": 30.02,
@@ -18957,7 +18957,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -18969,7 +18969,7 @@
     "ean": "0",
     "cod_articulo": "2571",
     "articulo": "Combo Pebete Top J y Q + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6090.9,
     "impuestos": 30.02,
@@ -18981,7 +18981,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -18993,7 +18993,7 @@
     "ean": "0",
     "cod_articulo": "2574",
     "articulo": "Combo Triple Blanco J y Q + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6132.22,
     "impuestos": 30.02,
@@ -19005,7 +19005,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19017,7 +19017,7 @@
     "ean": "0",
     "cod_articulo": "2576",
     "articulo": "Combo Triple C y Q + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7950,
     "volumen_x_unidad": "Un",
     "precio_neto": 6545.44,
     "impuestos": 30.02,
@@ -19029,7 +19029,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19041,7 +19041,7 @@
     "ean": "0",
     "cod_articulo": "2578",
     "articulo": "Combo Triple Negro J y Q + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6132.22,
     "impuestos": 30.02,
@@ -19053,7 +19053,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19065,7 +19065,7 @@
     "ean": "0",
     "cod_articulo": "2583",
     "articulo": "Combo Croque Monsieur Blanco + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6491.61,
     "impuestos": 45.16,
@@ -19077,7 +19077,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19089,7 +19089,7 @@
     "ean": "0",
     "cod_articulo": "2584",
     "articulo": "Combo Croque Monsieur Blanco + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6528.93,
     "impuestos": 0,
@@ -19101,7 +19101,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19113,7 +19113,7 @@
     "ean": "0",
     "cod_articulo": "2586",
     "articulo": "Combo Croque Monsieur Negro + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6491.61,
     "impuestos": 45.16,
@@ -19125,7 +19125,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19137,7 +19137,7 @@
     "ean": "0",
     "cod_articulo": "2587",
     "articulo": "Combo Croque Monsieur Negro + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6528.93,
     "impuestos": 0,
@@ -19149,7 +19149,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19161,7 +19161,7 @@
     "ean": "0",
     "cod_articulo": "2603",
     "articulo": "Combo Pebete Jamon y Queso + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6800,
     "volumen_x_unidad": "Un",
     "precio_neto": 5582.52,
     "impuestos": 45.16,
@@ -19173,7 +19173,7 @@
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19185,7 +19185,7 @@
     "ean": "0",
     "cod_articulo": "2604",
     "articulo": "Combo Pebete Jamon y Queso + Aquarius 500 Ml GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6800,
     "volumen_x_unidad": "Un",
     "precio_neto": 5619.84,
     "impuestos": 0,
@@ -19197,7 +19197,7 @@
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19209,7 +19209,7 @@
     "ean": "0",
     "cod_articulo": "2606",
     "articulo": "Combo Pebete Top Crudo + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8500,
     "volumen_x_unidad": "Un",
     "precio_neto": 6987.47,
     "impuestos": 45.16,
@@ -19221,7 +19221,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19233,7 +19233,7 @@
     "ean": "0",
     "cod_articulo": "2612",
     "articulo": "Combo Pebete Top Crudo + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8500,
     "volumen_x_unidad": "Un",
     "precio_neto": 7024.79,
     "impuestos": 0,
@@ -19245,7 +19245,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19257,7 +19257,7 @@
     "ean": "0",
     "cod_articulo": "2614",
     "articulo": "Combo Pebete Top J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6078.38,
     "impuestos": 45.16,
@@ -19269,7 +19269,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19281,7 +19281,7 @@
     "ean": "0",
     "cod_articulo": "2615",
     "articulo": "Combo Pebete Top J y Q + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6115.7,
     "impuestos": 0,
@@ -19293,7 +19293,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19305,7 +19305,7 @@
     "ean": "0",
     "cod_articulo": "2619",
     "articulo": "Combo Triple Blanco J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6119.71,
     "impuestos": 45.16,
@@ -19317,7 +19317,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19329,7 +19329,7 @@
     "ean": "0",
     "cod_articulo": "2620",
     "articulo": "Combo Triple Blanco J y Q + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6157.03,
     "impuestos": 0,
@@ -19341,7 +19341,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19401,7 +19401,7 @@
     "ean": "0",
     "cod_articulo": "2626",
     "articulo": "Combo Triple Negro J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6119.71,
     "impuestos": 45.16,
@@ -19413,7 +19413,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19425,7 +19425,7 @@
     "ean": "0",
     "cod_articulo": "2627",
     "articulo": "Combo Triple Negro J y Q + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6157.03,
     "impuestos": 0,
@@ -19437,7 +19437,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19449,7 +19449,7 @@
     "ean": "0",
     "cod_articulo": "3599",
     "articulo": "Ciabatta Multicereal + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8850,
     "volumen_x_unidad": "Un",
     "precio_neto": 7289.24,
     "impuestos": 30.02,
@@ -19461,7 +19461,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19473,19 +19473,19 @@
     "ean": "7798024760002",
     "cod_articulo": "3720",
     "articulo": "Pebete Grandwich Jam y Que 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 46818.18,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 4256.2,
     "impuestos": 0,
     "iva": 893.8,
     "precio": 5150,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 110,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 5150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19497,7 +19497,7 @@
     "ean": "0",
     "cod_articulo": "3857",
     "articulo": "Ciabatta Jamon y Queso 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7750,
     "volumen_x_unidad": "Un",
     "precio_neto": 6404.96,
     "impuestos": 0,
@@ -19509,7 +19509,7 @@
     "precio_dolar": 7750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19545,7 +19545,7 @@
     "ean": "0",
     "cod_articulo": "3950",
     "articulo": "Ciabatta Jamon y Queso + Agua GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7537.18,
     "impuestos": 30.02,
@@ -19557,7 +19557,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19569,7 +19569,7 @@
     "ean": "0",
     "cod_articulo": "4111",
     "articulo": "Triang Prem Poll/Ruc/Parm + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8300,
     "volumen_x_unidad": "Un",
     "precio_neto": 6859.5,
     "impuestos": 0,
@@ -19581,7 +19581,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19593,7 +19593,7 @@
     "ean": "0",
     "cod_articulo": "4270",
     "articulo": "Panini + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9300,
     "volumen_x_unidad": "Un",
     "precio_neto": 7648.63,
     "impuestos": 45.16,
@@ -19605,7 +19605,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19617,7 +19617,7 @@
     "ean": "0",
     "cod_articulo": "4281",
     "articulo": "Combo Baguette Crudo y Queso + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8859.49,
     "impuestos": 30.02,
@@ -19629,7 +19629,7 @@
     "precio_dolar": 10750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19641,7 +19641,7 @@
     "ean": "0",
     "cod_articulo": "4443",
     "articulo": "Panini + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9300,
     "volumen_x_unidad": "Un",
     "precio_neto": 7661.14,
     "impuestos": 30.02,
@@ -19653,7 +19653,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19689,7 +19689,7 @@
     "ean": "0",
     "cod_articulo": "4554",
     "articulo": "Triang Prem Poll/Ruc/Parm + Agua GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8300,
     "volumen_x_unidad": "Un",
     "precio_neto": 6834.7,
     "impuestos": 30.02,
@@ -19701,7 +19701,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19713,7 +19713,7 @@
     "ean": "0",
     "cod_articulo": "4628",
     "articulo": "Ciabatta Jamon y Queso + Aquarius 500 Ml GRANDWICH 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7561.98,
     "impuestos": 0,
@@ -19725,7 +19725,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19737,7 +19737,7 @@
     "ean": "0",
     "cod_articulo": "4684",
     "articulo": "Triang Prem Poll/Ruc/Parm + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8300,
     "volumen_x_unidad": "Un",
     "precio_neto": 6822.18,
     "impuestos": 45.16,
@@ -19749,7 +19749,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19761,7 +19761,7 @@
     "ean": "0",
     "cod_articulo": "4708",
     "articulo": "Panini + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9300,
     "volumen_x_unidad": "Un",
     "precio_neto": 7685.95,
     "impuestos": 0,
@@ -19773,7 +19773,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19785,7 +19785,7 @@
     "ean": "0",
     "cod_articulo": "4729",
     "articulo": "Ciabatta Multicereal + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8850,
     "volumen_x_unidad": "Un",
     "precio_neto": 7276.73,
     "impuestos": 45.16,
@@ -19797,7 +19797,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19809,19 +19809,19 @@
     "ean": "7798024760507",
     "cod_articulo": "4750",
     "articulo": "Roll Frio Chicken Caesar 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 31363.64,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5702.48,
     "impuestos": 0,
     "iva": 1197.52,
     "precio": 6900,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 220,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 6900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19833,19 +19833,19 @@
     "ean": "7798024766103",
     "cod_articulo": "4777",
     "articulo": "Panini Grandwich Jam/Que/Tom/Hue 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 37857.14,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 6570.25,
     "impuestos": 0,
     "iva": 1379.75,
     "precio": 7950,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 210,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19857,7 +19857,7 @@
     "ean": "0",
     "cod_articulo": "4813",
     "articulo": "Ciabatta Jamon y Queso + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7524.66,
     "impuestos": 45.16,
@@ -19869,7 +19869,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19881,7 +19881,7 @@
     "ean": "0",
     "cod_articulo": "4816",
     "articulo": "Ciabatta Multicereal + Aquarius 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8850,
     "volumen_x_unidad": "Un",
     "precio_neto": 7314.05,
     "impuestos": 0,
@@ -19893,7 +19893,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:46"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -19929,7 +19929,7 @@
     "ean": "0",
     "cod_articulo": "4935",
     "articulo": "Ciabatta Multicereal vegetales 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6157.03,
     "impuestos": 0,
@@ -19941,7 +19941,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19953,19 +19953,19 @@
     "ean": "7798024760781",
     "cod_articulo": "5325",
     "articulo": "Pebete Pechuga Crispy 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 33000,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5454.55,
     "impuestos": 0,
     "iva": 1145.46,
     "precio": 6600,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 200,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 6600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -19977,7 +19977,7 @@
     "ean": "0",
     "cod_articulo": "5714",
     "articulo": "Roll Frio Caesar + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6942.15,
     "impuestos": 0,
@@ -19989,7 +19989,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -20001,7 +20001,7 @@
     "ean": "0",
     "cod_articulo": "5715",
     "articulo": "Roll Frio Caesar + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6904.83,
     "impuestos": 45.16,
@@ -20013,7 +20013,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -20025,7 +20025,7 @@
     "ean": "0",
     "cod_articulo": "5740",
     "articulo": "Roll Frio Caesar + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6917.34,
     "impuestos": 30.02,
@@ -20037,7 +20037,7 @@
     "precio_dolar": 8400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -20097,7 +20097,7 @@
     "ean": "0",
     "cod_articulo": "8431",
     "articulo": "Triple Blanco Jamon y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6400,
     "volumen_x_unidad": "Un",
     "precio_neto": 5264.45,
     "impuestos": 30.02,
@@ -20109,7 +20109,7 @@
     "precio_dolar": 6400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20145,7 +20145,7 @@
     "ean": "0",
     "cod_articulo": "8433",
     "articulo": "Triple Negro Crudo y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5750.94,
     "impuestos": 41.37,
@@ -20157,7 +20157,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20169,7 +20169,7 @@
     "ean": "0",
     "cod_articulo": "8434",
     "articulo": "Triple Negro Crudo y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5760.32,
     "impuestos": 30.02,
@@ -20181,7 +20181,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20241,7 +20241,7 @@
     "ean": "0",
     "cod_articulo": "8437",
     "articulo": "Triple Jamon/Hue/Morron/Aceitunas ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7250,
     "volumen_x_unidad": "Un",
     "precio_neto": 5966.93,
     "impuestos": 30.02,
@@ -20253,7 +20253,7 @@
     "precio_dolar": 7250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20409,7 +20409,7 @@
     "ean": "0",
     "cod_articulo": "8449",
     "articulo": "Triple Pollo/Ruc/Queso ESTADIO + Agua 1 UN",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7600,
     "volumen_x_unidad": "Un",
     "precio_neto": 6256.18,
     "impuestos": 30.02,
@@ -20421,7 +20421,7 @@
     "precio_dolar": 7600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20433,7 +20433,7 @@
     "ean": "0",
     "cod_articulo": "8450",
     "articulo": "Triple Pollo/Ruc/Queso ESTADIO + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7600,
     "volumen_x_unidad": "Un",
     "precio_neto": 6280.99,
     "impuestos": 0,
@@ -20445,7 +20445,7 @@
     "precio_dolar": 7600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20481,7 +20481,7 @@
     "ean": "0",
     "cod_articulo": "8452",
     "articulo": "Pebete Jamon y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5305.77,
     "impuestos": 30.02,
@@ -20493,7 +20493,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20529,7 +20529,7 @@
     "ean": "0",
     "cod_articulo": "8454",
     "articulo": "Pebete Salame y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5293.26,
     "impuestos": 45.16,
@@ -20541,7 +20541,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20553,7 +20553,7 @@
     "ean": "0",
     "cod_articulo": "8455",
     "articulo": "Pebete Salame y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5305.77,
     "impuestos": 30.02,
@@ -20565,7 +20565,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20577,7 +20577,7 @@
     "ean": "0",
     "cod_articulo": "8456",
     "articulo": "Pebete Salame y Queso ESTADIO + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5330.58,
     "impuestos": 0,
@@ -20589,7 +20589,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20793,7 +20793,7 @@
     "ean": "0",
     "cod_articulo": "8465",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5747.8,
     "impuestos": 45.16,
@@ -20805,7 +20805,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20817,7 +20817,7 @@
     "ean": "0",
     "cod_articulo": "8466",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5760.32,
     "impuestos": 30.02,
@@ -20829,7 +20829,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -20841,7 +20841,7 @@
     "ean": "0",
     "cod_articulo": "8467",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5785.12,
     "impuestos": 0,
@@ -20853,7 +20853,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21369,19 +21369,19 @@
     "ean": "7798024760255",
     "cod_articulo": "91007",
     "articulo": "Figazza Grandwich Salame 2 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 47083.33,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 4669.42,
     "impuestos": 0,
     "iva": 980.58,
     "precio": 5650,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 120,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 5650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21393,19 +21393,19 @@
     "ean": "7798024760460",
     "cod_articulo": "92005",
     "articulo": "Triple Miga Grandwich Bco J y Q 3 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 48750,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 4834.71,
     "impuestos": 0,
     "iva": 1015.29,
     "precio": 5850,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 120,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 5850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21417,19 +21417,19 @@
     "ean": "7798024760477",
     "cod_articulo": "92006",
     "articulo": "Triple Miga Grandwich Neg J y Q 3 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 48750,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 4834.71,
     "impuestos": 0,
     "iva": 1015.29,
     "precio": 5850,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 120,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 5850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21441,19 +21441,19 @@
     "ean": "7798024760798",
     "cod_articulo": "92017",
     "articulo": "Sand Croque Monsieur Blanco 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 35277.78,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5247.93,
     "impuestos": 0,
     "iva": 1102.07,
     "precio": 6350,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 180,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21465,19 +21465,19 @@
     "ean": "7798024766172",
     "cod_articulo": "94031",
     "articulo": "Triang Premium Grandwich Poll/Ruc/Parm 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 37777.78,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5619.84,
     "impuestos": 0,
     "iva": 1180.17,
     "precio": 6800,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 180,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21489,19 +21489,19 @@
     "ean": "7798024760125",
     "cod_articulo": "94034",
     "articulo": "Triang Max Grandwich Tom.Jam.Queso y Huevo 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 34000,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5619.84,
     "impuestos": 0,
     "iva": 1180.17,
     "precio": 6800,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 200,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 6800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21513,19 +21513,19 @@
     "ean": "7798024760354",
     "cod_articulo": "95023",
     "articulo": "Pebete Grandwich Top Jam y Que 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 53181.82,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 4834.71,
     "impuestos": 0,
     "iva": 1015.29,
     "precio": 5850,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 110,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 5850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21537,19 +21537,19 @@
     "ean": "7798024760378",
     "cod_articulo": "95025",
     "articulo": "Pebete Grandwich Top Crudo y Que 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 53846.15,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5785.12,
     "impuestos": 0,
     "iva": 1214.88,
     "precio": 7000,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 130,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21561,19 +21561,19 @@
     "ean": "7798024766110",
     "cod_articulo": "95262",
     "articulo": "Panini Grig. Grandwich Peceto",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 39523.81,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 6859.5,
     "impuestos": 0,
     "iva": 1440.5,
     "precio": 8300,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 210,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21585,19 +21585,19 @@
     "ean": "7798024760804",
     "cod_articulo": "95295",
     "articulo": "Sand Croque Monsieur Negro 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 35277.78,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 5247.93,
     "impuestos": 0,
     "iva": 1102.07,
     "precio": 6350,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 180,
+    "unidad_medida": "Gr",
     "ubicacion": "",
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21609,7 +21609,7 @@
     "ean": "0",
     "cod_articulo": "3579",
     "articulo": "Combo Sandwich Milanesa + Papas + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13100,
     "volumen_x_unidad": "Un",
     "precio_neto": 10826.45,
     "impuestos": 0,
@@ -21621,7 +21621,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21633,7 +21633,7 @@
     "ean": "0",
     "cod_articulo": "3694",
     "articulo": "Roll Crocante Jamon + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -21645,7 +21645,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:50"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21657,7 +21657,7 @@
     "ean": "0",
     "cod_articulo": "3749",
     "articulo": "Sandwich Milanesa 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9450,
     "volumen_x_unidad": "Un",
     "precio_neto": 7809.92,
     "impuestos": 0,
@@ -21669,7 +21669,7 @@
     "precio_dolar": 9450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21681,7 +21681,7 @@
     "ean": "0",
     "cod_articulo": "3812",
     "articulo": "Roll Crocante de Jamon 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9200,
     "volumen_x_unidad": "Un",
     "precio_neto": 7603.31,
     "impuestos": 0,
@@ -21693,7 +21693,7 @@
     "precio_dolar": 9200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21705,7 +21705,7 @@
     "ean": "0",
     "cod_articulo": "3840",
     "articulo": "Roll Crocante Jamon + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -21717,7 +21717,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21729,7 +21729,7 @@
     "ean": "0",
     "cod_articulo": "3894",
     "articulo": "Roll Crocante Peceto + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -21741,7 +21741,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21753,7 +21753,7 @@
     "ean": "0",
     "cod_articulo": "3895",
     "articulo": "Roll Crocante Jamon + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -21765,7 +21765,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21777,7 +21777,7 @@
     "ean": "0",
     "cod_articulo": "3923",
     "articulo": "Combo Sandwich Milanesa + Papas + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13100,
     "volumen_x_unidad": "Un",
     "precio_neto": 10801.64,
     "impuestos": 30.02,
@@ -21789,7 +21789,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:50"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21801,7 +21801,7 @@
     "ean": "0",
     "cod_articulo": "3978",
     "articulo": "Roll Crocante Pollo + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -21813,7 +21813,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21825,7 +21825,7 @@
     "ean": "0",
     "cod_articulo": "3995",
     "articulo": "Roll Crocante Pollo + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -21837,7 +21837,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21849,7 +21849,7 @@
     "ean": "0",
     "cod_articulo": "4008",
     "articulo": "Roll Crocante de Pollo 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9200,
     "volumen_x_unidad": "Un",
     "precio_neto": 7603.31,
     "impuestos": 0,
@@ -21861,7 +21861,7 @@
     "precio_dolar": 9200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21873,7 +21873,7 @@
     "ean": "0",
     "cod_articulo": "4024",
     "articulo": "Roll Crocante Peceto+Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -21885,7 +21885,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21897,7 +21897,7 @@
     "ean": "0",
     "cod_articulo": "4087",
     "articulo": "Roll Crocante Peceto + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -21909,7 +21909,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:50"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21921,7 +21921,7 @@
     "ean": "0",
     "cod_articulo": "4105",
     "articulo": "Roll Crocante de Peceto",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9200,
     "volumen_x_unidad": "Un",
     "precio_neto": 7603.31,
     "impuestos": 0,
@@ -21933,7 +21933,7 @@
     "precio_dolar": 9200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21945,7 +21945,7 @@
     "ean": "0",
     "cod_articulo": "4227",
     "articulo": "Roll Crocante Veggie 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9200,
     "volumen_x_unidad": "Un",
     "precio_neto": 7603.31,
     "impuestos": 0,
@@ -21957,7 +21957,7 @@
     "precio_dolar": 9200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -21969,7 +21969,7 @@
     "ean": "0",
     "cod_articulo": "4293",
     "articulo": "Roll Crocante Veggie + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -21981,7 +21981,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -21993,7 +21993,7 @@
     "ean": "0",
     "cod_articulo": "4310",
     "articulo": "Combo Sandwich Milanesa + Papas + Gaseosa 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13100,
     "volumen_x_unidad": "Un",
     "precio_neto": 10789.13,
     "impuestos": 45.16,
@@ -22005,7 +22005,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -22017,7 +22017,7 @@
     "ean": "0",
     "cod_articulo": "4497",
     "articulo": "Roll Crocante Veggie + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -22029,7 +22029,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -22041,7 +22041,7 @@
     "ean": "0",
     "cod_articulo": "4699",
     "articulo": "Roll Crocante Pollo + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8570.23,
     "impuestos": 30.02,
@@ -22053,7 +22053,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:50"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -22065,7 +22065,7 @@
     "ean": "0",
     "cod_articulo": "4717",
     "articulo": "Roll Crocante Veggie + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8595.04,
     "impuestos": 0,
@@ -22077,7 +22077,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -22185,7 +22185,7 @@
     "ean": "0",
     "cod_articulo": "3598",
     "articulo": "Empanada El Noble Integral 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2500,
     "volumen_x_unidad": "Un",
     "precio_neto": 2066.12,
     "impuestos": 0,
@@ -22197,7 +22197,7 @@
     "precio_dolar": 2500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22209,7 +22209,7 @@
     "ean": "0",
     "cod_articulo": "3677",
     "articulo": "Empanadas Especiales El Noble 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2500,
     "volumen_x_unidad": "Un",
     "precio_neto": 2066.12,
     "impuestos": 0,
@@ -22221,7 +22221,7 @@
     "precio_dolar": 2500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22233,7 +22233,7 @@
     "ean": "0",
     "cod_articulo": "3873",
     "articulo": "Combo 3 Empanadas + Agua",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8900,
     "volumen_x_unidad": "Un",
     "precio_neto": 7330.56,
     "impuestos": 30.02,
@@ -22245,7 +22245,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -22257,7 +22257,7 @@
     "ean": "0",
     "cod_articulo": "4092",
     "articulo": "Combo 3 Empanadas + Aquarius 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8900,
     "volumen_x_unidad": "Un",
     "precio_neto": 7355.37,
     "impuestos": 0,
@@ -22269,7 +22269,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22305,7 +22305,7 @@
     "ean": "0",
     "cod_articulo": "4515",
     "articulo": "Combo 3 Empanadas + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8900,
     "volumen_x_unidad": "Un",
     "precio_neto": 7318.05,
     "impuestos": 45.16,
@@ -22317,7 +22317,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22617,7 +22617,7 @@
     "ean": "7798131130798",
     "cod_articulo": "10905",
     "articulo": "Empanada La Delfina Pollo 2 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7100,
     "volumen_x_unidad": "Un",
     "precio_neto": 5867.77,
     "impuestos": 0,
@@ -22629,7 +22629,7 @@
     "precio_dolar": 7100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22761,7 +22761,7 @@
     "ean": "0",
     "cod_articulo": "357",
     "articulo": "Hamb c/queso Grandw + Papas + Aquarius 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 12900,
     "volumen_x_unidad": "Un",
     "precio_neto": 10661.16,
     "impuestos": 0,
@@ -22773,7 +22773,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:45"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22785,7 +22785,7 @@
     "ean": "0",
     "cod_articulo": "363",
     "articulo": "Hamb c/queso Grandw + Papas + Agua 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 12900,
     "volumen_x_unidad": "Un",
     "precio_neto": 10636.35,
     "impuestos": 30.02,
@@ -22797,7 +22797,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22809,7 +22809,7 @@
     "ean": "0",
     "cod_articulo": "365",
     "articulo": "Hamb c/queso Grandw + Papas + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 12900,
     "volumen_x_unidad": "Un",
     "precio_neto": 10623.84,
     "impuestos": 45.16,
@@ -22821,7 +22821,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -22833,7 +22833,7 @@
     "ean": "0",
     "cod_articulo": "467",
     "articulo": "Hamb c/queso Grandwich 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9400,
     "volumen_x_unidad": "Un",
     "precio_neto": 7768.6,
     "impuestos": 0,
@@ -22845,7 +22845,7 @@
     "precio_dolar": 9400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -23409,19 +23409,19 @@
     "ean": "77965233",
     "cod_articulo": "775",
     "articulo": "Pipas Pipas Paq 18 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 327.78,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 487.6,
     "impuestos": 0,
     "iva": 102.4,
     "precio": 590,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 18,
+    "unidad_medida": "Gr",
     "ubicacion": "G2",
     "precio_dolar": 590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -23553,19 +23553,19 @@
     "ean": "7622300990732",
     "cod_articulo": "3983",
     "articulo": "Gall Club Social Original 24 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 287.5,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 570.25,
     "impuestos": 0,
     "iva": 119.75,
     "precio": 690,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 24,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 690,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -23577,19 +23577,19 @@
     "ean": "7798044150777",
     "cod_articulo": "3986",
     "articulo": "Pipas peladas Pipas 25 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 335,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 553.72,
     "impuestos": 0,
     "iva": 116.28,
     "precio": 670,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 20,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 670,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -24441,19 +24441,19 @@
     "ean": "77939234",
     "cod_articulo": "512",
     "articulo": "Alf Terrabusi Sple Neg 50 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 266,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 1099.17,
     "impuestos": 0,
     "iva": 230.83,
     "precio": 1330,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 50,
+    "unidad_medida": "Gr",
     "ubicacion": "G2",
     "precio_dolar": 1330,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -24465,19 +24465,19 @@
     "ean": "77903785",
     "cod_articulo": "515",
     "articulo": "Alf Milka Triple Mousse 55 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 37272.73,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1694.22,
     "impuestos": 0,
     "iva": 355.79,
     "precio": 2050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 55,
+    "unidad_medida": "Gr",
     "ubicacion": "G2",
     "precio_dolar": 2050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -24561,19 +24561,19 @@
     "ean": "77903778",
     "cod_articulo": "1675",
     "articulo": "Alf Milka Triple DDL 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 29285.71,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1694.22,
     "impuestos": 0,
     "iva": 355.79,
     "precio": 2050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 70,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 2050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -24585,19 +24585,19 @@
     "ean": "77915481",
     "cod_articulo": "1676",
     "articulo": "Alf Pepitos Triple Choc 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 35964.91,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1694.22,
     "impuestos": 0,
     "iva": 355.79,
     "precio": 2050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 57,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 2050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -24609,19 +24609,19 @@
     "ean": "77956699",
     "cod_articulo": "1677",
     "articulo": "Alf Shot Triple 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 34166.67,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1694.22,
     "impuestos": 0,
     "iva": 355.79,
     "precio": 2050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 60,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 2050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -24705,19 +24705,19 @@
     "ean": "7622300202859",
     "cod_articulo": "2251",
     "articulo": "Alf Terrabusi Glaseado 38 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 350,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 1099.17,
     "impuestos": 0,
     "iva": 230.83,
     "precio": 1330,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 38,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1330,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -24849,19 +24849,19 @@
     "ean": "77903792",
     "cod_articulo": "3545",
     "articulo": "Alf Terrabusi Triple Choc 70 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 29285.71,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 1694.22,
     "impuestos": 0,
     "iva": 355.79,
     "precio": 2050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 70,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 2050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -24945,19 +24945,19 @@
     "ean": "7622300759506",
     "cod_articulo": "4490",
     "articulo": "Alf Milka Mousse Negro 42 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 328.57,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 1140.5,
     "impuestos": 0,
     "iva": 239.5,
     "precio": 1380,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 42,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1380,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -25785,19 +25785,19 @@
     "ean": "77918543",
     "cod_articulo": "3999",
     "articulo": "Past Halls Free Menta",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 680,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 1123.97,
     "impuestos": 0,
     "iva": 236.03,
     "precio": 1360,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 20,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1360,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -25881,19 +25881,19 @@
     "ean": "77933928",
     "cod_articulo": "4253",
     "articulo": "Past Halls Menta 27 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 418.52,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 933.88,
     "impuestos": 0,
     "iva": 196.12,
     "precio": 1130,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 27,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1130,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -26409,19 +26409,19 @@
     "ean": "77969118",
     "cod_articulo": "1976",
     "articulo": "Chic Beldent Poseidon Frutilla 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 1060,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 876.03,
     "impuestos": 0,
     "iva": 183.97,
     "precio": 1060,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 10,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1060,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -26433,19 +26433,19 @@
     "ean": "77969071",
     "cod_articulo": "1985",
     "articulo": "Chic Beldent Poseidon Menta 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 1060,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 876.03,
     "impuestos": 0,
     "iva": 183.97,
     "precio": 1060,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 10,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1060,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -26457,19 +26457,19 @@
     "ean": "77969088",
     "cod_articulo": "1986",
     "articulo": "Chic Beldent Poseidon Menta Fuerte 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 1060,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 876.03,
     "impuestos": 0,
     "iva": 183.97,
     "precio": 1060,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 10,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1060,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -26481,19 +26481,19 @@
     "ean": "77969095",
     "cod_articulo": "1987",
     "articulo": "Chic Beldent Poseidon Mentol 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 1060,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 876.03,
     "impuestos": 0,
     "iva": 183.97,
     "precio": 1060,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 10,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1060,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -26505,19 +26505,19 @@
     "ean": "77969101",
     "cod_articulo": "1988",
     "articulo": "Chic Beldent Poseidon Globo 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 1060,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 876.03,
     "impuestos": 0,
     "iva": 183.97,
     "precio": 1060,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 10,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1060,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -27105,19 +27105,19 @@
     "ean": "7791249451656",
     "cod_articulo": "305",
     "articulo": "Choc Shot 90 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 52555.56,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 3909.09,
     "impuestos": 0,
     "iva": 820.91,
     "precio": 4730,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 90,
+    "unidad_medida": "Gr",
     "ubicacion": "G3",
     "precio_dolar": 4730,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -27177,19 +27177,19 @@
     "ean": "77914217",
     "cod_articulo": "503",
     "articulo": "Choc Shot Bloq c/Mani 35 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 600,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 1735.54,
     "impuestos": 0,
     "iva": 364.46,
     "precio": 2100,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 35,
+    "unidad_medida": "Gr",
     "ubicacion": "G3",
     "precio_dolar": 2100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -27201,19 +27201,19 @@
     "ean": "77995681",
     "cod_articulo": "585",
     "articulo": "Oblea Rhodesia 22 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 500,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 909.09,
     "impuestos": 0,
     "iva": 190.91,
     "precio": 1100,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 22,
+    "unidad_medida": "Gr",
     "ubicacion": "G2",
     "precio_dolar": 1100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -27393,19 +27393,19 @@
     "ean": "7622210745620",
     "cod_articulo": "1332",
     "articulo": "Choc Milka Almendras 55 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 73636.36,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 3347.11,
     "impuestos": 0,
     "iva": 702.89,
     "precio": 4050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 55,
+    "unidad_medida": "Gr",
     "ubicacion": "c3",
     "precio_dolar": 4050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -27609,19 +27609,19 @@
     "ean": "7622300424084",
     "cod_articulo": "2188",
     "articulo": "Choc Shot 170 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 50882.35,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 7148.76,
     "impuestos": 0,
     "iva": 1501.24,
     "precio": 8650,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 170,
+    "unidad_medida": "Gr",
     "ubicacion": "G3",
     "precio_dolar": 8650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -27633,19 +27633,19 @@
     "ean": "7622210745293",
     "cod_articulo": "2205",
     "articulo": "Choc Milka Casta�as 55 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 73636.36,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 3347.11,
     "impuestos": 0,
     "iva": 702.89,
     "precio": 4050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 55,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 4050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -27729,19 +27729,19 @@
     "ean": "77976291",
     "cod_articulo": "2244",
     "articulo": "Gall Banada Tita 19 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 557.89,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 876.03,
     "impuestos": 0,
     "iva": 183.97,
     "precio": 1060,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 19,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1060,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -28545,19 +28545,19 @@
     "ean": "77991430",
     "cod_articulo": "4091",
     "articulo": "Choc Biznike Bloq Nevado 28 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 575,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 1330.58,
     "impuestos": 0,
     "iva": 279.42,
     "precio": 1610,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 28,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 1610,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -28737,19 +28737,19 @@
     "ean": "7792730020559",
     "cod_articulo": "4514",
     "articulo": "Choc Biznike 120 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 50000,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 4958.68,
     "impuestos": 0,
     "iva": 1041.32,
     "precio": 6000,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 120,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 6000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -28881,19 +28881,19 @@
     "ean": "7622210745224",
     "cod_articulo": "4986",
     "articulo": "Choc Milka Leche 55 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 73636.36,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 3347.11,
     "impuestos": 0,
     "iva": 702.89,
     "precio": 4050,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 55,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 4050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -30009,7 +30009,7 @@
     "ean": "77959140",
     "cod_articulo": "21",
     "articulo": "* Ciga Lucky C & R Convertible 12 Paq 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 504.5,
     "impuestos": 1739.56,
@@ -30021,7 +30021,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -30033,7 +30033,7 @@
     "ean": "77959171",
     "cod_articulo": "24",
     "articulo": "* Ciga Lucky C & R Convertible Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -30045,7 +30045,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -30057,7 +30057,7 @@
     "ean": "77946096",
     "cod_articulo": "36",
     "articulo": "* Ciga Lucky Double Click Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30069,7 +30069,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -30081,7 +30081,7 @@
     "ean": "77901538",
     "cod_articulo": "47",
     "articulo": "* Ciga Lucky Blanco Box Picc 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2310,
     "volumen_x_unidad": "Un",
     "precio_neto": 495.75,
     "impuestos": 1710.14,
@@ -30093,7 +30093,7 @@
     "precio_dolar": 2310,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30249,7 +30249,7 @@
     "ean": "77910059",
     "cod_articulo": "160",
     "articulo": "* Ciga Lucky Blanco com�n Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3460,
     "volumen_x_unidad": "Un",
     "precio_neto": 740.93,
     "impuestos": 2563.47,
@@ -30261,7 +30261,7 @@
     "precio_dolar": 3460,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30273,7 +30273,7 @@
     "ean": "77910974",
     "cod_articulo": "167",
     "articulo": "* Ciga Camel Comun Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4100,
     "volumen_x_unidad": "Un",
     "precio_neto": 880.94,
     "impuestos": 3034.06,
@@ -30285,7 +30285,7 @@
     "precio_dolar": 4100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30297,7 +30297,7 @@
     "ean": "77910981",
     "cod_articulo": "168",
     "articulo": "* Ciga Camel Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30309,7 +30309,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30321,7 +30321,7 @@
     "ean": "77963246",
     "cod_articulo": "354",
     "articulo": "* Ciga Lucky C & R Convertible 20 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30333,7 +30333,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -30369,7 +30369,7 @@
     "ean": "77974198",
     "cod_articulo": "1371",
     "articulo": "Ciga Lucky Paris Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5000,
     "volumen_x_unidad": "Un",
     "precio_neto": 1077.83,
     "impuestos": 3695.83,
@@ -30381,7 +30381,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30393,7 +30393,7 @@
     "ean": "77974181",
     "cod_articulo": "1377",
     "articulo": "* Ciga Lucky Silver Comun 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30405,7 +30405,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30417,7 +30417,7 @@
     "ean": "77974099",
     "cod_articulo": "1442",
     "articulo": "Ciga ROTH Cigarritos SC 20",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1890,
     "volumen_x_unidad": "Un",
     "precio_neto": 455.6,
     "impuestos": 1338.72,
@@ -30429,7 +30429,7 @@
     "precio_dolar": 1890,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30441,7 +30441,7 @@
     "ean": "77976505",
     "cod_articulo": "1935",
     "articulo": "Ciga Lucky Blanco Box Picc 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2310,
     "volumen_x_unidad": "Un",
     "precio_neto": 495.75,
     "impuestos": 1710.14,
@@ -30453,7 +30453,7 @@
     "precio_dolar": 2310,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30465,7 +30465,7 @@
     "ean": "77976512",
     "cod_articulo": "1936",
     "articulo": "Ciga Lucky Blanco com�n Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3460,
     "volumen_x_unidad": "Un",
     "precio_neto": 740.93,
     "impuestos": 2563.47,
@@ -30477,7 +30477,7 @@
     "precio_dolar": 3460,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30489,7 +30489,7 @@
     "ean": "77976956",
     "cod_articulo": "1937",
     "articulo": "Ciga Lucky C & R Convertible 20 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30501,7 +30501,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30513,7 +30513,7 @@
     "ean": "77976994",
     "cod_articulo": "1939",
     "articulo": "Ciga Lucky C & R Convertible 12 Paq 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 504.5,
     "impuestos": 1739.56,
@@ -30525,7 +30525,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30537,7 +30537,7 @@
     "ean": "77977229",
     "cod_articulo": "1944",
     "articulo": "Ciga Camel Box 11 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.93,
     "impuestos": 1959.18,
@@ -30549,7 +30549,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30561,7 +30561,7 @@
     "ean": "77976970",
     "cod_articulo": "1946",
     "articulo": "Ciga Lucky Silver Comun 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -30573,7 +30573,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30585,7 +30585,7 @@
     "ean": "77977038",
     "cod_articulo": "1947",
     "articulo": "Ciga Lucky C & R Convertible Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -30597,7 +30597,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30609,7 +30609,7 @@
     "ean": "77977212",
     "cod_articulo": "1949",
     "articulo": "Ciga Camel Comun Ks Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4100,
     "volumen_x_unidad": "Un",
     "precio_neto": 880.94,
     "impuestos": 3034.06,
@@ -30621,7 +30621,7 @@
     "precio_dolar": 4100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30633,7 +30633,7 @@
     "ean": "77976529",
     "cod_articulo": "1950",
     "articulo": "Ciga Lucky Blanco Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -30645,7 +30645,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30657,7 +30657,7 @@
     "ean": "77976536",
     "cod_articulo": "1951",
     "articulo": "Ciga Lucky Double Click Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30669,7 +30669,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30681,7 +30681,7 @@
     "ean": "77976949",
     "cod_articulo": "1952",
     "articulo": "Ciga Lucky Strike Purple Mix 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30693,7 +30693,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30705,7 +30705,7 @@
     "ean": "77977090",
     "cod_articulo": "1953",
     "articulo": "* Ciga Lucky Paris Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5000,
     "volumen_x_unidad": "Un",
     "precio_neto": 1077.83,
     "impuestos": 3695.83,
@@ -30717,7 +30717,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30729,7 +30729,7 @@
     "ean": "77977113",
     "cod_articulo": "1954",
     "articulo": "* Ciga ROTH Cigarritos SC 20",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1890,
     "volumen_x_unidad": "Un",
     "precio_neto": 455.6,
     "impuestos": 1338.72,
@@ -30741,7 +30741,7 @@
     "precio_dolar": 1890,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30753,7 +30753,7 @@
     "ean": "77977205",
     "cod_articulo": "1955",
     "articulo": "Ciga Camel Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30765,7 +30765,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30777,7 +30777,7 @@
     "ean": "77977236",
     "cod_articulo": "1957",
     "articulo": "Ciga Camel Activate Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4250,
     "volumen_x_unidad": "Un",
     "precio_neto": 913.76,
     "impuestos": 3144.36,
@@ -30789,7 +30789,7 @@
     "precio_dolar": 4250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30801,7 +30801,7 @@
     "ean": "77977243",
     "cod_articulo": "1958",
     "articulo": "Ciga Camel Blue Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30813,7 +30813,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -30969,7 +30969,7 @@
     "ean": "77958198",
     "cod_articulo": "3562",
     "articulo": "* Ciga Lucky Wild 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -30981,7 +30981,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -31041,7 +31041,7 @@
     "ean": "77900494",
     "cod_articulo": "4128",
     "articulo": "* Ciga Camel Box 11 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2650,
     "volumen_x_unidad": "Un",
     "precio_neto": 570.93,
     "impuestos": 1959.18,
@@ -31053,7 +31053,7 @@
     "precio_dolar": 2650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -31065,7 +31065,7 @@
     "ean": "77910936",
     "cod_articulo": "4282",
     "articulo": "* Ciga Camel Blue Box Picc 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
     "precio_neto": 957.51,
     "impuestos": 3291.42,
@@ -31077,7 +31077,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -31593,7 +31593,7 @@
     "ean": "77977106",
     "cod_articulo": "1948",
     "articulo": "* Ciga Rothmans 43/70 Comun Ks 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
     "precio_neto": 749.68,
     "impuestos": 2592.89,
@@ -31605,7 +31605,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -31761,7 +31761,7 @@
     "ean": "77977267",
     "cod_articulo": "2199",
     "articulo": "* Ciga Lucky Caps Charged Box 20 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
     "precio_neto": 837.19,
     "impuestos": 2887,
@@ -31773,7 +31773,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -31785,7 +31785,7 @@
     "ean": "77977274",
     "cod_articulo": "2200",
     "articulo": "* Ciga Lucky Caps Charged Box 12 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
     "precio_neto": 504.5,
     "impuestos": 1739.56,
@@ -31797,7 +31797,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -32145,19 +32145,19 @@
     "ean": "7798131130415",
     "cod_articulo": "1841",
     "articulo": "Cuadradito Dulce Coco con Dulce de Leche S/Tacc La Delfina",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 44500,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 3677.69,
     "impuestos": 0,
     "iva": 772.31,
     "precio": 4450,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 100,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -32169,19 +32169,19 @@
     "ean": "7798131130408",
     "cod_articulo": "1945",
     "articulo": "Cuadradito Dulce Frolita de Membrillo S/Tacc La Delfina",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 44500,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 3677.69,
     "impuestos": 0,
     "iva": 772.31,
     "precio": 4450,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 100,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:33"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -32865,7 +32865,7 @@
     "ean": "0",
     "cod_articulo": "4363",
     "articulo": "Tostado Jamon y Queso 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6250,
     "volumen_x_unidad": "Un",
     "precio_neto": 5165.29,
     "impuestos": 0,
@@ -32877,7 +32877,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -32889,7 +32889,7 @@
     "ean": "0",
     "cod_articulo": "4601",
     "articulo": "Croissant Jamon y Queso 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6400,
     "volumen_x_unidad": "Un",
     "precio_neto": 5289.26,
     "impuestos": 0,
@@ -32901,7 +32901,7 @@
     "precio_dolar": 6400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -32913,7 +32913,7 @@
     "ean": "0",
     "cod_articulo": "4945",
     "articulo": "Trenzado Lomito y queso 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6950,
     "volumen_x_unidad": "Un",
     "precio_neto": 5743.8,
     "impuestos": 0,
@@ -32925,7 +32925,7 @@
     "precio_dolar": 6950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -33609,19 +33609,19 @@
     "ean": "7790895641183",
     "cod_articulo": "4713",
     "articulo": "Isot Powerade Pet Frutas Tropicales 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4940,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 2041.32,
     "impuestos": 0,
     "iva": 428.68,
     "precio": 2470,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 2470,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -33657,19 +33657,19 @@
     "ean": "7790895640025",
     "cod_articulo": "4892",
     "articulo": "Isot Powerade Pet Mountain 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4940,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 2041.32,
     "impuestos": 0,
     "iva": 428.68,
     "precio": 2470,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 2470,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -33681,19 +33681,19 @@
     "ean": "7790895006029",
     "cod_articulo": "5201",
     "articulo": "Isot Powerade Pet Mountain 995 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 3798.99,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 3123.97,
     "impuestos": 0,
     "iva": 656.03,
     "precio": 3780,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 995,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 3780,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -33897,19 +33897,19 @@
     "ean": "7790895009815",
     "cod_articulo": "3434",
     "articulo": "Jugo Cepita Bot Naranja 1 Lt",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 2750,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 2272.73,
     "impuestos": 0,
     "iva": 477.27,
     "precio": 2750,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 1000,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 2750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -33969,19 +33969,19 @@
     "ean": "7790895641541",
     "cod_articulo": "4838",
     "articulo": "Jugo Cepita Bot Durazno 300 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4900,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1214.88,
     "impuestos": 0,
     "iva": 255.12,
     "precio": 1470,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 300,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 1470,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -34401,19 +34401,19 @@
     "ean": "7790895003868",
     "cod_articulo": "487",
     "articulo": "Agua Bonaqua S/Gas Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 3560,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1446.27,
     "impuestos": 30.02,
     "iva": 303.72,
     "precio": 1780,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "",
     "precio_dolar": 1780,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -34617,19 +34617,19 @@
     "ean": "7790895003943",
     "cod_articulo": "4392",
     "articulo": "Agua Bonaqua C/Gas Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 3560,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1446.27,
     "impuestos": 30.02,
     "iva": 303.72,
     "precio": 1780,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 1780,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -34905,19 +34905,19 @@
     "ean": "7790895000430",
     "cod_articulo": "1601",
     "articulo": "Gase Coca Cola Pet 1.50 Lt",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 3133.33,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 3721.19,
     "impuestos": 197.37,
     "iva": 781.45,
     "precio": 4700,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 1500,
+    "unidad_medida": "Ml",
     "ubicacion": "H3",
     "precio_dolar": 4700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -34929,19 +34929,19 @@
     "ean": "7790895067556",
     "cod_articulo": "1603",
     "articulo": "Gase Coca Cola Sin Azucar Pet 1.50 Lt",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 3133.33,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 3721.19,
     "impuestos": 197.37,
     "iva": 781.45,
     "precio": 4700,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 1500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 4700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -34953,19 +34953,19 @@
     "ean": "7790895000447",
     "cod_articulo": "1605",
     "articulo": "Gase Sprite Pet 1.50 Lt",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 3133.33,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 3803.33,
     "impuestos": 97.97,
     "iva": 798.7,
     "precio": 4700,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 1500,
+    "unidad_medida": "Ml",
     "ubicacion": "H3",
     "precio_dolar": 4700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -34977,19 +34977,19 @@
     "ean": "7790895000782",
     "cod_articulo": "1606",
     "articulo": "Gaseosa Coca Cola Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1908.26,
     "impuestos": 91.01,
     "iva": 400.74,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "h4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35001,19 +35001,19 @@
     "ean": "7790895001482",
     "cod_articulo": "1607",
     "articulo": "Gase Coca Cola Light Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1927.08,
     "impuestos": 68.24,
     "iva": 404.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35025,19 +35025,19 @@
     "ean": "7790895064142",
     "cod_articulo": "1608",
     "articulo": "Gase Sprite Zero Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1946.15,
     "impuestos": 45.16,
     "iva": 408.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35049,19 +35049,19 @@
     "ean": "7790895000836",
     "cod_articulo": "1609",
     "articulo": "Gase Fanta Naranja Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1927.08,
     "impuestos": 68.24,
     "iva": 404.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35073,19 +35073,19 @@
     "ean": "7790895000829",
     "cod_articulo": "1610",
     "articulo": "Gase Sprite Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1946.15,
     "impuestos": 45.16,
     "iva": 408.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35097,19 +35097,19 @@
     "ean": "7790895067532",
     "cod_articulo": "1630",
     "articulo": "Gaseosa Coca Cola Sin Azucar Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1927.08,
     "impuestos": 68.24,
     "iva": 404.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35145,19 +35145,19 @@
     "ean": "7790895002335",
     "cod_articulo": "2100",
     "articulo": "Gase Fanta Naranja Sin Az�car Pet 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1927.08,
     "impuestos": 68.24,
     "iva": 404.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "H4",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35217,19 +35217,19 @@
     "ean": "7790895010064",
     "cod_articulo": "3929",
     "articulo": "Gase Schweppes Pomelo Pet Zero 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4800,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1946.15,
     "impuestos": 45.16,
     "iva": 408.69,
     "precio": 2400,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 2400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35721,19 +35721,19 @@
     "ean": "7790895640452",
     "cod_articulo": "1101",
     "articulo": "Agua Aquarius Pet Manzana 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4440,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1834.71,
     "impuestos": 0,
     "iva": 385.29,
     "precio": 2220,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 2220,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -35745,19 +35745,19 @@
     "ean": "7790895640445",
     "cod_articulo": "1119",
     "articulo": "Agua Aquarius Pet Pera 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4440,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1834.71,
     "impuestos": 0,
     "iva": 385.29,
     "precio": 2220,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "",
     "precio_dolar": 2220,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -35793,19 +35793,19 @@
     "ean": "7790895640476",
     "cod_articulo": "1886",
     "articulo": "Agua Aquarius Pet Pera 1.50 Lt",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 2106.67,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 2611.57,
     "impuestos": 0,
     "iva": 548.43,
     "precio": 3160,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 1500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 3160,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -35889,19 +35889,19 @@
     "ean": "7790895640469",
     "cod_articulo": "4327",
     "articulo": "Agua Aquarius Pet Pomelo 500 Ml",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 4440,
+    "volumen_x_unidad": "1000 Ml",
     "precio_neto": 1834.71,
     "impuestos": 0,
     "iva": 385.29,
     "precio": 2220,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 500,
+    "unidad_medida": "Ml",
     "ubicacion": "\u0000",
     "precio_dolar": 2220,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:34"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -37233,7 +37233,7 @@
     "ean": "0",
     "cod_articulo": "1583",
     "articulo": "Mousse de yogur c/ granola",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5550,
     "volumen_x_unidad": "Un",
     "precio_neto": 4586.78,
     "impuestos": 0,
@@ -37245,7 +37245,7 @@
     "precio_dolar": 5550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -37857,7 +37857,7 @@
     "ean": "0",
     "cod_articulo": "366",
     "articulo": "Cafe c/leche p/ llevar 355cc + Trenzado lomito y queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8057.85,
     "impuestos": 0,
@@ -37869,7 +37869,7 @@
     "precio_dolar": 9750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -37881,7 +37881,7 @@
     "ean": "0",
     "cod_articulo": "376",
     "articulo": "Latte 355 + Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7561.98,
     "impuestos": 0,
@@ -37893,7 +37893,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -37905,7 +37905,7 @@
     "ean": "0",
     "cod_articulo": "378",
     "articulo": "Refill Latte Avellana 355 cc +3 Facturas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6250,
     "volumen_x_unidad": "Un",
     "precio_neto": 5165.29,
     "impuestos": 0,
@@ -37917,7 +37917,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -37929,7 +37929,7 @@
     "ean": "0",
     "cod_articulo": "382",
     "articulo": "Latte 355 cc + Trenzado Lomito y Queso 355 cc",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8057.85,
     "impuestos": 0,
@@ -37941,7 +37941,7 @@
     "precio_dolar": 9750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38025,7 +38025,7 @@
     "ean": "0",
     "cod_articulo": "391",
     "articulo": "Cafe c/ leche p/ llevar 415 + Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9400,
     "volumen_x_unidad": "Un",
     "precio_neto": 7768.6,
     "impuestos": 0,
@@ -38037,7 +38037,7 @@
     "precio_dolar": 9400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38049,7 +38049,7 @@
     "ean": "0",
     "cod_articulo": "393",
     "articulo": "Refill Latte Avellana",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3850,
     "volumen_x_unidad": "Un",
     "precio_neto": 3181.82,
     "impuestos": 0,
@@ -38061,7 +38061,7 @@
     "precio_dolar": 3850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -38097,7 +38097,7 @@
     "ean": "0",
     "cod_articulo": "402",
     "articulo": "Latte 415 +Trenzado Lomito y Queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10050,
     "volumen_x_unidad": "Un",
     "precio_neto": 8305.79,
     "impuestos": 0,
@@ -38109,7 +38109,7 @@
     "precio_dolar": 10050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38145,7 +38145,7 @@
     "ean": "0",
     "cod_articulo": "406",
     "articulo": "Refill Latte Avellana + 2 Facturas 355 cc",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5300,
     "volumen_x_unidad": "Un",
     "precio_neto": 4380.17,
     "impuestos": 0,
@@ -38157,7 +38157,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38193,7 +38193,7 @@
     "ean": "0",
     "cod_articulo": "408",
     "articulo": "Cafe c/ leche p/ llevar 415 + Croissant JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9550,
     "volumen_x_unidad": "Un",
     "precio_neto": 7892.56,
     "impuestos": 0,
@@ -38205,7 +38205,7 @@
     "precio_dolar": 9550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38217,7 +38217,7 @@
     "ean": "0",
     "cod_articulo": "409",
     "articulo": "Latte 355 + Croissant JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9250,
     "volumen_x_unidad": "Un",
     "precio_neto": 7644.63,
     "impuestos": 0,
@@ -38229,7 +38229,7 @@
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38265,7 +38265,7 @@
     "ean": "0",
     "cod_articulo": "413",
     "articulo": "Cafe c/ leche p/ llevar 355cc + Croissant",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9250,
     "volumen_x_unidad": "Un",
     "precio_neto": 7644.63,
     "impuestos": 0,
@@ -38277,7 +38277,7 @@
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38313,7 +38313,7 @@
     "ean": "0",
     "cod_articulo": "418",
     "articulo": "Latte 415 + Croissant JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9550,
     "volumen_x_unidad": "Un",
     "precio_neto": 7892.56,
     "impuestos": 0,
@@ -38325,7 +38325,7 @@
     "precio_dolar": 9550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38337,7 +38337,7 @@
     "ean": "0",
     "cod_articulo": "419",
     "articulo": "Cafe c/leche p/ Llevar 355 + Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7561.98,
     "impuestos": 0,
@@ -38349,7 +38349,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38577,7 +38577,7 @@
     "ean": "0",
     "cod_articulo": "451",
     "articulo": "Latte 415 + Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9400,
     "volumen_x_unidad": "Un",
     "precio_neto": 7768.6,
     "impuestos": 0,
@@ -38589,7 +38589,7 @@
     "precio_dolar": 9400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38601,7 +38601,7 @@
     "ean": "0",
     "cod_articulo": "459",
     "articulo": "Cafe c/ leche p/ llevar 415 + Trenzado Lomito y Queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10050,
     "volumen_x_unidad": "Un",
     "precio_neto": 8305.79,
     "impuestos": 0,
@@ -38613,7 +38613,7 @@
     "precio_dolar": 10050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38697,7 +38697,7 @@
     "ean": "0",
     "cod_articulo": "586",
     "articulo": "Refill Cafe c/leche + Croissant JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8850,
     "volumen_x_unidad": "Un",
     "precio_neto": 7314.05,
     "impuestos": 0,
@@ -38709,7 +38709,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38721,7 +38721,7 @@
     "ean": "0",
     "cod_articulo": "587",
     "articulo": "Refill Cafe c/leche  + Trenzado Lomito y Queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9350,
     "volumen_x_unidad": "Un",
     "precio_neto": 7727.27,
     "impuestos": 0,
@@ -38733,7 +38733,7 @@
     "precio_dolar": 9350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38745,7 +38745,7 @@
     "ean": "0",
     "cod_articulo": "589",
     "articulo": "Refill Latte + Croissant JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8850,
     "volumen_x_unidad": "Un",
     "precio_neto": 7314.05,
     "impuestos": 0,
@@ -38757,7 +38757,7 @@
     "precio_dolar": 8850,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38769,7 +38769,7 @@
     "ean": "0",
     "cod_articulo": "590",
     "articulo": "Refill Latte + Trenzado Lomito y Queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9350,
     "volumen_x_unidad": "Un",
     "precio_neto": 7727.27,
     "impuestos": 0,
@@ -38781,7 +38781,7 @@
     "precio_dolar": 9350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38793,7 +38793,7 @@
     "ean": "0",
     "cod_articulo": "591",
     "articulo": "Refill Latte + Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8750,
     "volumen_x_unidad": "Un",
     "precio_neto": 7231.41,
     "impuestos": 0,
@@ -38805,7 +38805,7 @@
     "precio_dolar": 8750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -38817,7 +38817,7 @@
     "ean": "0",
     "cod_articulo": "592",
     "articulo": "Refill Cafe c/leche + Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8750,
     "volumen_x_unidad": "Un",
     "precio_neto": 7231.41,
     "impuestos": 0,
@@ -38829,7 +38829,7 @@
     "precio_dolar": 8750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39057,7 +39057,7 @@
     "ean": "0",
     "cod_articulo": "1275",
     "articulo": "Cafe c/Leche p/Llevar 240cc + Tostado JyQ 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9000,
     "volumen_x_unidad": "Un",
     "precio_neto": 7438.02,
     "impuestos": 0,
@@ -39069,7 +39069,7 @@
     "precio_dolar": 9000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39081,7 +39081,7 @@
     "ean": "0",
     "cod_articulo": "1276",
     "articulo": "Cafe c/leche p/Llevar 240cc + Trenzado Lomito y queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9650,
     "volumen_x_unidad": "Un",
     "precio_neto": 7975.21,
     "impuestos": 0,
@@ -39093,7 +39093,7 @@
     "precio_dolar": 9650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39105,7 +39105,7 @@
     "ean": "0",
     "cod_articulo": "1277",
     "articulo": "Cafe c/Leche p/Llevar 240cc + Croissant JyQ 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7561.98,
     "impuestos": 0,
@@ -39117,7 +39117,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:36"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39177,7 +39177,7 @@
     "ean": "0",
     "cod_articulo": "1642",
     "articulo": "Cafe con Leche Loza + Mousse de yogur c/ granola 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8050,
     "volumen_x_unidad": "Un",
     "precio_neto": 6652.89,
     "impuestos": 0,
@@ -39189,7 +39189,7 @@
     "precio_dolar": 8050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39201,7 +39201,7 @@
     "ean": "0",
     "cod_articulo": "1643",
     "articulo": "Cafe c/ Leche p/Llevar 240cc + Mousse de yogur c/ granola",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8450,
     "volumen_x_unidad": "Un",
     "precio_neto": 6983.47,
     "impuestos": 0,
@@ -39213,7 +39213,7 @@
     "precio_dolar": 8450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39537,7 +39537,7 @@
     "ean": "0",
     "cod_articulo": "2352",
     "articulo": "Tazon Cafe c/ leche + Trenzado Lomito y Queso",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8057.85,
     "impuestos": 0,
@@ -39549,7 +39549,7 @@
     "precio_dolar": 9750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39561,7 +39561,7 @@
     "ean": "0",
     "cod_articulo": "2353",
     "articulo": "Tazon Cafe c/leche +Tostado JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7561.98,
     "impuestos": 0,
@@ -39573,7 +39573,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39585,7 +39585,7 @@
     "ean": "0",
     "cod_articulo": "2354",
     "articulo": "Tazon Cafe c/ leche +Croissant JyQ",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9250,
     "volumen_x_unidad": "Un",
     "precio_neto": 7644.63,
     "impuestos": 0,
@@ -39597,7 +39597,7 @@
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:38"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39921,7 +39921,7 @@
     "ean": "0",
     "cod_articulo": "3613",
     "articulo": "Latte Avellana 415 cc+ 3 facturas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5785.12,
     "impuestos": 0,
@@ -39933,7 +39933,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -39993,7 +39993,7 @@
     "ean": "0",
     "cod_articulo": "3646",
     "articulo": "Cafe c/Leche + Tostado JyQ 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8700,
     "volumen_x_unidad": "Un",
     "precio_neto": 7190.08,
     "impuestos": 0,
@@ -40005,7 +40005,7 @@
     "precio_dolar": 8700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -40137,7 +40137,7 @@
     "ean": "0",
     "cod_articulo": "3962",
     "articulo": "Latte Avellana 355 cc + 2 facturas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 5700,
     "volumen_x_unidad": "Un",
     "precio_neto": 4710.74,
     "impuestos": 0,
@@ -40149,7 +40149,7 @@
     "precio_dolar": 5700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -40521,7 +40521,7 @@
     "ean": "0",
     "cod_articulo": "4258",
     "articulo": "Latte Avellana 355 cc",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4250,
     "volumen_x_unidad": "Un",
     "precio_neto": 3512.4,
     "impuestos": 0,
@@ -40533,7 +40533,7 @@
     "precio_dolar": 4250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -40641,7 +40641,7 @@
     "ean": "0",
     "cod_articulo": "4494",
     "articulo": "Cafe c/Leche + Croissant JyQ 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8800,
     "volumen_x_unidad": "Un",
     "precio_neto": 7272.73,
     "impuestos": 0,
@@ -40653,7 +40653,7 @@
     "precio_dolar": 8800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:43"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -40857,7 +40857,7 @@
     "ean": "0",
     "cod_articulo": "4847",
     "articulo": "Latte 355 cc Avelllana + 3 facturas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6650,
     "volumen_x_unidad": "Un",
     "precio_neto": 5495.87,
     "impuestos": 0,
@@ -40869,7 +40869,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -40953,7 +40953,7 @@
     "ean": "0",
     "cod_articulo": "4939",
     "articulo": "Latte Avellana 415 cc",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4600,
     "volumen_x_unidad": "Un",
     "precio_neto": 3801.65,
     "impuestos": 0,
@@ -40965,7 +40965,7 @@
     "precio_dolar": 4600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -40977,7 +40977,7 @@
     "ean": "0",
     "cod_articulo": "4996",
     "articulo": "Cafe c/leche + Trenzado Lomito y queso 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9300,
     "volumen_x_unidad": "Un",
     "precio_neto": 7685.95,
     "impuestos": 0,
@@ -40989,7 +40989,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:48"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -41337,7 +41337,7 @@
     "ean": "0",
     "cod_articulo": "5767",
     "articulo": "Latte Avellana 415 cc+ 2 facturas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6050,
     "volumen_x_unidad": "Un",
     "precio_neto": 5000,
     "impuestos": 0,
@@ -41349,7 +41349,7 @@
     "precio_dolar": 6050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46449,7 +46449,7 @@
     "ean": "0",
     "cod_articulo": "140",
     "articulo": "Pebete JyQ grand personal",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3479.36,
     "volumen_x_unidad": "Un",
     "precio_neto": 2875.5,
     "impuestos": 0,
@@ -46461,7 +46461,7 @@
     "precio_dolar": 3479.36,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46497,7 +46497,7 @@
     "ean": "0",
     "cod_articulo": "164",
     "articulo": "Empanadas varias PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1042.02,
     "volumen_x_unidad": "Un",
     "precio_neto": 861.17,
     "impuestos": 0,
@@ -46509,7 +46509,7 @@
     "precio_dolar": 1042.02,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46569,7 +46569,7 @@
     "ean": "0",
     "cod_articulo": "176",
     "articulo": "Hamburguesa c/ queso PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 1513.42,
     "volumen_x_unidad": "Un",
     "precio_neto": 1250.76,
     "impuestos": 0,
@@ -46581,7 +46581,7 @@
     "precio_dolar": 1513.42,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46689,7 +46689,7 @@
     "ean": "0",
     "cod_articulo": "189",
     "articulo": "Ciabatta J y Q PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4043.36,
     "volumen_x_unidad": "Un",
     "precio_neto": 3341.62,
     "impuestos": 0,
@@ -46701,7 +46701,7 @@
     "precio_dolar": 4043.36,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46737,7 +46737,7 @@
     "ean": "0",
     "cod_articulo": "191",
     "articulo": "Ensalada Premiun Grandwich Caesar PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6333.65,
     "volumen_x_unidad": "Un",
     "precio_neto": 5234.42,
     "impuestos": 0,
@@ -46749,7 +46749,7 @@
     "precio_dolar": 6333.65,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46761,7 +46761,7 @@
     "ean": "0",
     "cod_articulo": "193",
     "articulo": "Roll crocante PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4352.7,
     "volumen_x_unidad": "Un",
     "precio_neto": 3597.27,
     "impuestos": 0,
@@ -46773,7 +46773,7 @@
     "precio_dolar": 4352.7,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46809,7 +46809,7 @@
     "ean": "0",
     "cod_articulo": "208",
     "articulo": "Pebete JyQ Grand+Pet 500 ml Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4482.91,
     "volumen_x_unidad": "Un",
     "precio_neto": 3648.49,
     "impuestos": 68.24,
@@ -46821,7 +46821,7 @@
     "precio_dolar": 4482.91,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:49"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46857,7 +46857,7 @@
     "ean": "0",
     "cod_articulo": "976",
     "articulo": "Ensalada premiun cheff PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6071.64,
     "volumen_x_unidad": "Un",
     "precio_neto": 5017.88,
     "impuestos": 0,
@@ -46869,7 +46869,7 @@
     "precio_dolar": 6071.64,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -46929,7 +46929,7 @@
     "ean": "0",
     "cod_articulo": "5734",
     "articulo": "Combo Hamb con Queso Cortesia (500 ml) 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 0.1,
     "volumen_x_unidad": "Un",
     "precio_neto": 0.08,
     "impuestos": 0,
@@ -46941,7 +46941,7 @@
     "precio_dolar": 0.1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:44"
+    "fecha_ult_act": "2025-06-05 04:14:59"
   },
   {
     "bandera": "YPF",
@@ -47001,7 +47001,7 @@
     "ean": "0",
     "cod_articulo": "8425",
     "articulo": "Agua mineral PERSONAL",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 821.52,
     "volumen_x_unidad": "Un",
     "precio_neto": 654.14,
     "impuestos": 30.02,
@@ -47013,7 +47013,7 @@
     "precio_dolar": 821.52,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -47025,7 +47025,7 @@
     "ean": "0",
     "cod_articulo": "8483",
     "articulo": "2 Empanadas + Pet Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3087.58,
     "volumen_x_unidad": "Un",
     "precio_neto": 2495.33,
     "impuestos": 68.24,
@@ -47037,7 +47037,7 @@
     "precio_dolar": 3087.58,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:47"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -47049,7 +47049,7 @@
     "ean": "0",
     "cod_articulo": "8484",
     "articulo": "Pebete JyQ Grand+Pet Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4482.91,
     "volumen_x_unidad": "Un",
     "precio_neto": 3648.49,
     "impuestos": 68.24,
@@ -47061,7 +47061,7 @@
     "precio_dolar": 4482.91,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
@@ -47169,7 +47169,7 @@
     "ean": "0",
     "cod_articulo": "10401",
     "articulo": "Jugo Tutti Personal 200 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 401.86,
     "volumen_x_unidad": "Un",
     "precio_neto": 332.12,
     "impuestos": 0,
@@ -47181,7 +47181,7 @@
     "precio_dolar": 401.86,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-04",
-    "fecha_ult_act": "2025-06-05 00:15:37"
+    "fecha_ult_act": "2025-06-05 04:15:00"
   },
   {
     "bandera": "YPF",
