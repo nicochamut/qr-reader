@@ -11985,7 +11985,7 @@
     "ean": "0",
     "cod_articulo": "4456",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Aquarius 500 Ml",
-    "precio_x_unidad": 10700,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 8842.98,
     "impuestos": 0,
@@ -11997,7 +11997,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -14145,19 +14145,19 @@
     "ean": "7798046440241",
     "cod_articulo": "8276",
     "articulo": "Triple Negro Crudo y Queso ESTADIO 1 Un",
-    "precio_x_unidad": 29722.22,
-    "volumen_x_unidad": "1000 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 4421.49,
     "impuestos": 0,
     "iva": 928.51,
     "precio": 5350,
-    "unidad": 180,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 5350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -14385,19 +14385,19 @@
     "ean": "7798046440012",
     "cod_articulo": "8439",
     "articulo": "Pebete Jamon y Queso ESTADIO 1 Un",
-    "precio_x_unidad": 19000,
-    "volumen_x_unidad": "1000 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 3925.62,
     "impuestos": 0,
     "iva": 824.38,
     "precio": 4750,
-    "unidad": 250,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 4750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -25929,7 +25929,7 @@
     "ean": "0",
     "cod_articulo": "4313",
     "articulo": "Tostadas  + queso + mermelada 1 Un",
-    "precio_x_unidad": 3450,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2851.24,
     "impuestos": 0,
@@ -25941,7 +25941,7 @@
     "precio_dolar": 3450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -36465,7 +36465,7 @@
     "ean": "0",
     "cod_articulo": "12441",
     "articulo": "Cafe c/leche 355cc  + Tostadas con mermelada",
-    "precio_x_unidad": 6650,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 5495.87,
     "impuestos": 0,
@@ -36477,7 +36477,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -36489,7 +36489,7 @@
     "ean": "0",
     "cod_articulo": "12442",
     "articulo": "Cafe Jarrito  + Tostadas con mermelada",
-    "precio_x_unidad": 5550,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4586.78,
     "impuestos": 0,
@@ -36501,7 +36501,7 @@
     "precio_dolar": 5550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -36513,7 +36513,7 @@
     "ean": "0",
     "cod_articulo": "12443",
     "articulo": "Tazon Cafe c/leche  + Tostadas con mermelada",
-    "precio_x_unidad": 6650,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 5495.87,
     "impuestos": 0,
@@ -36525,7 +36525,7 @@
     "precio_dolar": 6650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -38457,7 +38457,7 @@
     "ean": "0",
     "cod_articulo": "12444",
     "articulo": "Te  + Tostadas con mermelada",
-    "precio_x_unidad": 5450,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4504.13,
     "impuestos": 0,
@@ -38469,7 +38469,7 @@
     "precio_dolar": 5450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -38481,7 +38481,7 @@
     "ean": "0",
     "cod_articulo": "12445",
     "articulo": "Te p/llevar 240 cc  + Tostadas con mermelada",
-    "precio_x_unidad": 5650,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4669.42,
     "impuestos": 0,
@@ -38493,7 +38493,7 @@
     "precio_dolar": 5650,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -44433,19 +44433,19 @@
     "ean": "0",
     "cod_articulo": "2651",
     "articulo": "ELAION AURO PLUS 540 4/4",
-    "precio_x_unidad": 26982.35,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 89197.86,
     "impuestos": 0,
     "iva": 18731.55,
     "precio": 107929.41,
-    "unidad": 4,
-    "unidad_medida": "Lt",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 107929.41,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -44457,19 +44457,19 @@
     "ean": "0",
     "cod_articulo": "2652",
     "articulo": "ELAION AURO PLUS 540 12/1",
-    "precio_x_unidad": 29109.1,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 24057.11,
     "impuestos": 0,
     "iva": 5051.99,
     "precio": 29109.1,
     "unidad": 1,
-    "unidad_medida": "Lt",
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 29109.1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -44529,19 +44529,19 @@
     "ean": "0",
     "cod_articulo": "2655",
     "articulo": "ELAION AURO FR 540 12/1",
-    "precio_x_unidad": 28972.98,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 23944.61,
     "impuestos": 0,
     "iva": 5028.37,
     "precio": 28972.98,
     "unidad": 1,
-    "unidad_medida": "Lt",
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 28972.98,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -44889,19 +44889,19 @@
     "ean": "0",
     "cod_articulo": "3423",
     "articulo": "ELAION MI 1540 12/1",
-    "precio_x_unidad": 13945.67,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 11525.35,
     "impuestos": 0,
     "iva": 2420.32,
     "precio": 13945.67,
     "unidad": 1,
-    "unidad_medida": "Lt",
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 13945.67,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -45081,19 +45081,19 @@
     "ean": "0",
     "cod_articulo": "3437",
     "articulo": "ELAION FS 540 12/1",
-    "precio_x_unidad": 26624.23,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 22003.5,
     "impuestos": 0,
     "iva": 4620.73,
     "precio": 26624.23,
     "unidad": 1,
-    "unidad_medida": "Lt",
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 26624.23,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
@@ -45153,19 +45153,19 @@
     "ean": "0",
     "cod_articulo": "3441",
     "articulo": "ELAION TS 1040 12/1",
-    "precio_x_unidad": 16318.83,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 13486.64,
     "impuestos": 0,
     "iva": 2832.19,
     "precio": 16318.83,
     "unidad": 1,
-    "unidad_medida": "Lt",
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 16318.83,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-11",
-    "fecha_ult_act": "2025-06-11 12:24:39"
+    "fecha_ult_act": "2025-06-11 12:25:22"
   },
   {
     "bandera": "YPF",
