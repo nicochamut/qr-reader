@@ -141,7 +141,7 @@ const ListManager = () => {
       p.articulo,
       `$${p.precio_neto}`,
       `$${p.impuestos}`,
-      `${p.unidad || ""}${p.unidad_medida || ""} $${p.precio_x_unidad || "0"}`,
+      `${p.volumen_x_unidad || ""} $${p.precio_x_unidad || "0"}`,
       `$${p.precio}`,
     ]);
     autoTable(doc, {
@@ -183,7 +183,7 @@ const ListManager = () => {
         precio_neto: `$${parseFloat(p.precio_neto).toFixed(2)}`,
         impuestos: `$${parseFloat(p.impuestos).toFixed(2)}`,
         precio_unidad: `${p.precio_x_unidad || "1"}${
-          p.unidad_medida || "un"
+          p.volumen_x_unidad || "un"
         } $${parseFloat(p.precio_x_unidad || 0).toFixed(2)}`,
         precio_final: `$${parseFloat(p.precio).toFixed(2)}`,
       });

@@ -278,14 +278,14 @@ const QRManager = () => {
   const [toastVisible, setToastVisible] = useState(false);
   const [busquedaRubro, setBusquedaRubro] = useState("");
 
-  useEffect(() => {
-    const auth = getAuth();
-    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-      if (!currentUser) navigate("/login");
-      else setUser(currentUser);
-    });
-    return () => unsubscribe();
-  }, [navigate]);
+  // useEffect(() => {
+  //   const auth = getAuth();
+  //   const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+  //     if (!currentUser) navigate("/login");
+  //     else setUser(currentUser);
+  //   });
+  //   return () => unsubscribe();
+  // }, [navigate]);
 
   useEffect(() => {
     const fetchProductos = async () => {
@@ -304,7 +304,7 @@ const QRManager = () => {
 
   const descargarQRRubroPDF = async () => {
     try {
-      const url = `https://www.oleumprecios.com/apies/${cliente}/rubros/${encodeURIComponent(
+      const url = `https://www.precios.soportegrupooleum.com.ar/apies/${cliente}/rubros/${encodeURIComponent(
         rubroSeleccionado
       )}`;
       const dataUrl = await QRGenerator.toDataURL(url, {
@@ -564,7 +564,7 @@ const QRManager = () => {
               }}
             >
               <QRCode
-                value={`https://oleumprecios.com/apies/${cliente}/rubros/${encodeURIComponent(
+                value={`https://precios.soportegrupooleum.com.ar/apies/${cliente}/rubros/${encodeURIComponent(
                   rubroSeleccionado
                 )}`}
                 size={160}
@@ -626,7 +626,7 @@ const QRManager = () => {
 
                 <h3>{producto.articulo}</h3>
                 <QRCode
-                  value={`https://oleumprecios.com/apies/${cliente}/${producto.cod_articulo}`}
+                  value={`https://precios.soportegrupooleum.com.ar/apies/${cliente}/${producto.cod_articulo}`}
                   size={170}
                   bgColor="#ffffff"
                   fgColor="#000000"

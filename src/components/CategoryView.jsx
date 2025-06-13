@@ -160,8 +160,7 @@ const CategoryView = () => {
                   <div>
                     <span>Precio por unidad:</span>
                     <span>
-                      {p.unidad}
-                      {p.unidad_medida} ${p.precio_x_unidad}
+                      {p.volumen_x_unidad} ${p.precio_x_unidad}
                     </span>
                   </div>
                   <div className="final-price">

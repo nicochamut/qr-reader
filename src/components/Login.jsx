@@ -102,44 +102,18 @@ const Error = styled.p`
 
 const Login = () => {
   const navigate = useNavigate();
-  const [email, setEmail] = useState("");
+  const [usuario, setUsuario] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
 
-  const handleLogin = async (e) => {
+  const handleLogin = (e) => {
     e.preventDefault();
     setError("");
 
-    try {
-      console.log("Iniciando login...");
-      const userCredential = await signInWithEmailAndPassword(
-        auth,
-        email,
-        password
-      );
-      const uid = userCredential.user.uid;
-
-      const docRef = doc(db, "usuarios", uid);
-
-      const docSnap = await getDoc(docRef);
-
-      if (docSnap.exists()) {
-        const data = docSnap.data();
-
-        const estacion = data.estacion;
-        if (estacion) {
-          navigate(`/admin/${estacion}`);
-        } else {
-          console.warn("El documento no contiene el campo 'estacion'");
-          setError("El documento no contiene la estación.");
-        }
-      } else {
-        console.warn("No se encontró el documento del usuario en Firestore.");
-        setError("No se encontró estación asociada al usuario.");
-      }
-    } catch (err) {
-      console.error("Error en login:", err);
-      setError(err.message || "Error inesperado.");
+    if (password === `${usuario}_1234`) {
+      navigate(`/admin/${usuario}`);
+    } else {
+      setError("Credenciales inválidas");
     }
   };
 
@@ -152,14 +126,13 @@ const Login = () => {
 
       <Card>
         <Title>Ingresar </Title>
-
         {error && <Error>{error}</Error>}
         <form onSubmit={handleLogin}>
           <Input
-            type="email"
-            placeholder="Correo electrónico"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
+            type="text"
+            placeholder="Estación"
+            value={usuario}
+            onChange={(e) => setUsuario(e.target.value)}
             required
           />
           <Input

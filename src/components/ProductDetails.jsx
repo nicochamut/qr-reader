@@ -133,8 +133,7 @@ const ProductDetails = ({ producto }) => {
             <div>
               <span>Precio por unidad:</span>
               <span>
-                {unidad}
-                {unidad_medida} ${precio_x_unidad}
+                {volumen_x_unidad} ${precio_x_unidad}
               </span>
             </div>
           </Transparencia>
