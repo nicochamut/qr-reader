@@ -8853,7 +8853,7 @@
     "precio_dolar": 3050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -8877,7 +8877,7 @@
     "precio_dolar": 4250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15117,7 +15117,7 @@
     "precio_dolar": 7800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15141,7 +15141,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15165,7 +15165,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15189,7 +15189,7 @@
     "precio_dolar": 7800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15213,7 +15213,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15237,7 +15237,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15261,7 +15261,7 @@
     "precio_dolar": 7800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15285,7 +15285,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -15309,7 +15309,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -16629,7 +16629,7 @@
     "precio_dolar": 1,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -18405,7 +18405,7 @@
     "precio_dolar": 410,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -18429,7 +18429,7 @@
     "precio_dolar": 410,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -19496,20 +19496,20 @@
     "rubro": "Estacionales y Novedades",
     "ean": "7792981001109",
     "cod_articulo": "3145",
-    "articulo": "Barra Proteica ENA Chocolate 46 Gr",
-    "precio_x_unidad": 1966.67,
+    "articulo": "* Barra Proteica ENA Chocolate 46 Gr",
+    "precio_x_unidad": 641.3,
     "volumen_x_unidad": "10 Gr",
     "precio_neto": 2438.02,
     "impuestos": 0,
     "iva": 511.98,
     "precio": 2950,
-    "unidad": 15,
+    "unidad": 46,
     "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 2950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-14 10:20:41"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -26469,7 +26469,7 @@
     "precio_dolar": 4300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -29085,7 +29085,7 @@
     "precio_dolar": 2320,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -29181,7 +29181,7 @@
     "precio_dolar": 2320,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -29205,7 +29205,7 @@
     "precio_dolar": 2320,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -29277,7 +29277,7 @@
     "precio_dolar": 2320,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -33045,7 +33045,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -36933,7 +36933,7 @@
     "precio_dolar": 6000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -36957,7 +36957,7 @@
     "precio_dolar": 6350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -36981,7 +36981,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -37005,7 +37005,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -37029,7 +37029,7 @@
     "precio_dolar": 7350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -37053,7 +37053,7 @@
     "precio_dolar": 7450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -37077,7 +37077,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -37101,7 +37101,7 @@
     "precio_dolar": 7750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -37125,7 +37125,7 @@
     "precio_dolar": 6600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:31"
   },
   {
     "bandera": "YPF",
@@ -37149,7 +37149,7 @@
     "precio_dolar": 10150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -37173,7 +37173,7 @@
     "precio_dolar": 10600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -37197,7 +37197,7 @@
     "precio_dolar": 10750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -37221,7 +37221,7 @@
     "precio_dolar": 10300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
@@ -47925,7 +47925,7 @@
     "precio_dolar": 6685,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-19",
-    "fecha_ult_act": "2025-06-19 08:15:30"
+    "fecha_ult_act": "2025-06-19 12:15:30"
   },
   {
     "bandera": "YPF",
