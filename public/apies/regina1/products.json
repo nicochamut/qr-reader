@@ -10101,7 +10101,7 @@
     "precio_dolar": 11200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -10233,19 +10233,19 @@
     "ean": "38000846755",
     "cod_articulo": "9968",
     "articulo": "Papas Pringles Queso 40 Gr",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 837.5,
+    "volumen_x_unidad": "10 Gr",
     "precio_neto": 2768.6,
     "impuestos": 0,
     "iva": 581.41,
     "precio": 3350,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 40,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 3350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11241,7 +11241,7 @@
     "ean": "0",
     "cod_articulo": "2590",
     "articulo": "Combo Ensalada Caesar + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8805.66,
     "impuestos": 45.16,
@@ -11253,7 +11253,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11265,7 +11265,7 @@
     "ean": "0",
     "cod_articulo": "2598",
     "articulo": "Combo Ensalada Chef Prem + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10700,
     "volumen_x_unidad": "Un",
     "precio_neto": 8805.66,
     "impuestos": 45.16,
@@ -11277,7 +11277,7 @@
     "precio_dolar": 10700,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11313,7 +11313,7 @@
     "ean": "0",
     "cod_articulo": "2631",
     "articulo": "Ensalada Pollo Semi + Gaseosa 500 ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10800,
     "volumen_x_unidad": "Un",
     "precio_neto": 8888.3,
     "impuestos": 45.16,
@@ -11325,7 +11325,7 @@
     "precio_dolar": 10800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11421,7 +11421,7 @@
     "precio_dolar": 10800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -11601,7 +11601,7 @@
     "ean": "0",
     "cod_articulo": "350",
     "articulo": "Plato Lasagna + Gaseosa 500 ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9094.91,
     "impuestos": 45.16,
@@ -11613,7 +11613,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11673,7 +11673,7 @@
     "ean": "0",
     "cod_articulo": "1597",
     "articulo": "Combo Plato Wok Vegetales STACC 1 Un + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11150,
     "volumen_x_unidad": "Un",
     "precio_neto": 9177.56,
     "impuestos": 45.16,
@@ -11685,7 +11685,7 @@
     "precio_dolar": 11150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11745,7 +11745,7 @@
     "ean": "0",
     "cod_articulo": "1621",
     "articulo": "Combo Empanadas Carne STACC 2 Un + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9150,
     "volumen_x_unidad": "Un",
     "precio_neto": 7505.59,
     "impuestos": 68.24,
@@ -11757,7 +11757,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11841,7 +11841,7 @@
     "ean": "0",
     "cod_articulo": "2127",
     "articulo": "Plato de Risotto Calabaza + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -11853,7 +11853,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11937,7 +11937,7 @@
     "ean": "0",
     "cod_articulo": "4199",
     "articulo": "Plato Milanesa napolitana c papas rusticas + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9094.91,
     "impuestos": 45.16,
@@ -11949,7 +11949,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -11961,19 +11961,19 @@
     "ean": "7798131130651",
     "cod_articulo": "4354",
     "articulo": "Crepe La Delfina Verdura 1 Un",
-    "precio_x_unidad": 1,
-    "volumen_x_unidad": "Un",
+    "precio_x_unidad": 33833.33,
+    "volumen_x_unidad": "1000 Gr",
     "precio_neto": 8388.43,
     "impuestos": 0,
     "iva": 1761.57,
     "precio": 10150,
-    "unidad": 1,
-    "unidad_medida": "Un",
+    "unidad": 300,
+    "unidad_medida": "Gr",
     "ubicacion": "\u0000",
     "precio_dolar": 10150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -12081,7 +12081,7 @@
     "ean": "0",
     "cod_articulo": "4868",
     "articulo": "Plato de Pechuga de Pollo con Arroz + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 11050,
     "volumen_x_unidad": "Un",
     "precio_neto": 9094.91,
     "impuestos": 45.16,
@@ -12093,7 +12093,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -12141,7 +12141,7 @@
     "precio_dolar": 11400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -12237,7 +12237,7 @@
     "precio_dolar": 9150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -12357,7 +12357,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -12381,7 +12381,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -12549,7 +12549,7 @@
     "precio_dolar": 11500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -12621,7 +12621,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -12717,7 +12717,7 @@
     "precio_dolar": 11050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -13185,7 +13185,7 @@
     "ean": "0",
     "cod_articulo": "2583",
     "articulo": "Combo Croque Monsieur Blanco + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6491.61,
     "impuestos": 45.16,
@@ -13197,7 +13197,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13233,7 +13233,7 @@
     "ean": "0",
     "cod_articulo": "2586",
     "articulo": "Combo Croque Monsieur Negro + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7900,
     "volumen_x_unidad": "Un",
     "precio_neto": 6491.61,
     "impuestos": 45.16,
@@ -13245,7 +13245,7 @@
     "precio_dolar": 7900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13281,7 +13281,7 @@
     "ean": "0",
     "cod_articulo": "2603",
     "articulo": "Combo Pebete Jamon y Queso + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7000,
     "volumen_x_unidad": "Un",
     "precio_neto": 5747.8,
     "impuestos": 45.16,
@@ -13293,7 +13293,7 @@
     "precio_dolar": 7000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13329,7 +13329,7 @@
     "ean": "0",
     "cod_articulo": "2606",
     "articulo": "Combo Pebete Top Crudo + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8500,
     "volumen_x_unidad": "Un",
     "precio_neto": 6987.47,
     "impuestos": 45.16,
@@ -13341,7 +13341,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13377,7 +13377,7 @@
     "ean": "0",
     "cod_articulo": "2614",
     "articulo": "Combo Pebete Top J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7400,
     "volumen_x_unidad": "Un",
     "precio_neto": 6078.38,
     "impuestos": 45.16,
@@ -13389,7 +13389,7 @@
     "precio_dolar": 7400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13425,7 +13425,7 @@
     "ean": "0",
     "cod_articulo": "2619",
     "articulo": "Combo Triple Blanco J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7800,
     "volumen_x_unidad": "Un",
     "precio_neto": 6408.96,
     "impuestos": 45.16,
@@ -13437,7 +13437,7 @@
     "precio_dolar": 7800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13473,7 +13473,7 @@
     "ean": "0",
     "cod_articulo": "2624",
     "articulo": "Combo Triple C y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8350,
     "volumen_x_unidad": "Un",
     "precio_neto": 6863.51,
     "impuestos": 45.16,
@@ -13485,7 +13485,7 @@
     "precio_dolar": 8350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13521,7 +13521,7 @@
     "ean": "0",
     "cod_articulo": "2626",
     "articulo": "Combo Triple Negro J y Q + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7800,
     "volumen_x_unidad": "Un",
     "precio_neto": 6408.96,
     "impuestos": 45.16,
@@ -13533,7 +13533,7 @@
     "precio_dolar": 7800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13713,7 +13713,7 @@
     "ean": "0",
     "cod_articulo": "4270",
     "articulo": "Panini + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8020.53,
     "impuestos": 45.16,
@@ -13725,7 +13725,7 @@
     "precio_dolar": 9750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13857,7 +13857,7 @@
     "ean": "0",
     "cod_articulo": "4684",
     "articulo": "Triang Prem Poll/Ruc/Parm + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8300,
     "volumen_x_unidad": "Un",
     "precio_neto": 6822.18,
     "impuestos": 45.16,
@@ -13869,7 +13869,7 @@
     "precio_dolar": 8300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13905,7 +13905,7 @@
     "ean": "0",
     "cod_articulo": "4729",
     "articulo": "Ciabatta Multicereal + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9250,
     "volumen_x_unidad": "Un",
     "precio_neto": 7607.31,
     "impuestos": 45.16,
@@ -13917,7 +13917,7 @@
     "precio_dolar": 9250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -13977,7 +13977,7 @@
     "ean": "0",
     "cod_articulo": "4813",
     "articulo": "Ciabatta Jamon y Queso + Gaseosa 500 Ml GRANDWICH",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 9500,
     "volumen_x_unidad": "Un",
     "precio_neto": 7813.92,
     "impuestos": 45.16,
@@ -13989,7 +13989,7 @@
     "precio_dolar": 9500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14025,7 +14025,7 @@
     "ean": "0",
     "cod_articulo": "4894",
     "articulo": "Combo Baguette Crudo y Queso + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10750,
     "volumen_x_unidad": "Un",
     "precio_neto": 8846.98,
     "impuestos": 45.16,
@@ -14037,7 +14037,7 @@
     "precio_dolar": 10750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14121,7 +14121,7 @@
     "ean": "0",
     "cod_articulo": "5715",
     "articulo": "Roll Frio Caesar + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8600,
     "volumen_x_unidad": "Un",
     "precio_neto": 7070.12,
     "impuestos": 45.16,
@@ -14133,7 +14133,7 @@
     "precio_dolar": 8600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14193,7 +14193,7 @@
     "ean": "0",
     "cod_articulo": "8430",
     "articulo": "Triple Blanco Jamon y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6550,
     "volumen_x_unidad": "Un",
     "precio_neto": 5375.9,
     "impuestos": 45.16,
@@ -14205,7 +14205,7 @@
     "precio_dolar": 6550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14265,7 +14265,7 @@
     "ean": "0",
     "cod_articulo": "8433",
     "articulo": "Triple Negro Crudo y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7150,
     "volumen_x_unidad": "Un",
     "precio_neto": 5871.77,
     "impuestos": 45.16,
@@ -14277,7 +14277,7 @@
     "precio_dolar": 7150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14337,7 +14337,7 @@
     "ean": "0",
     "cod_articulo": "8436",
     "articulo": "Triple Jamon/Hue/Morron/Aceitunas ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7250,
     "volumen_x_unidad": "Un",
     "precio_neto": 5954.42,
     "impuestos": 45.16,
@@ -14349,7 +14349,7 @@
     "precio_dolar": 7250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14457,7 +14457,7 @@
     "ean": "0",
     "cod_articulo": "8448",
     "articulo": "Triple Pollo/Ruc/Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7600,
     "volumen_x_unidad": "Un",
     "precio_neto": 6243.67,
     "impuestos": 45.16,
@@ -14469,7 +14469,7 @@
     "precio_dolar": 7600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14529,7 +14529,7 @@
     "ean": "0",
     "cod_articulo": "8451",
     "articulo": "Pebete Jamon y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5293.26,
     "impuestos": 45.16,
@@ -14541,7 +14541,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14601,7 +14601,7 @@
     "ean": "0",
     "cod_articulo": "8454",
     "articulo": "Pebete Salame y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6450,
     "volumen_x_unidad": "Un",
     "precio_neto": 5293.26,
     "impuestos": 45.16,
@@ -14613,7 +14613,7 @@
     "precio_dolar": 6450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14673,7 +14673,7 @@
     "ean": "0",
     "cod_articulo": "8462",
     "articulo": "Triple Negro Jamon y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 6550,
     "volumen_x_unidad": "Un",
     "precio_neto": 5375.9,
     "impuestos": 45.16,
@@ -14685,7 +14685,7 @@
     "precio_dolar": 6550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14745,7 +14745,7 @@
     "ean": "0",
     "cod_articulo": "8465",
     "articulo": "Triple Blanco Crudo y Queso ESTADIO + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 7150,
     "volumen_x_unidad": "Un",
     "precio_neto": 5871.77,
     "impuestos": 45.16,
@@ -14757,7 +14757,7 @@
     "precio_dolar": 7150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -14901,7 +14901,7 @@
     "precio_dolar": 8200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -14973,7 +14973,7 @@
     "precio_dolar": 8600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -15045,7 +15045,7 @@
     "precio_dolar": 9300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -15117,7 +15117,7 @@
     "precio_dolar": 7800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -15141,7 +15141,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -15165,7 +15165,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -15681,7 +15681,7 @@
     "ean": "0",
     "cod_articulo": "3894",
     "articulo": "Roll Crocante Peceto + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8519.83,
     "impuestos": 91.01,
@@ -15693,7 +15693,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -15705,7 +15705,7 @@
     "ean": "0",
     "cod_articulo": "3895",
     "articulo": "Roll Crocante Jamon + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -15717,7 +15717,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -15753,7 +15753,7 @@
     "ean": "0",
     "cod_articulo": "3978",
     "articulo": "Roll Crocante Pollo + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -15765,7 +15765,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -15921,7 +15921,7 @@
     "ean": "0",
     "cod_articulo": "4293",
     "articulo": "Roll Crocante Veggie + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 10400,
     "volumen_x_unidad": "Un",
     "precio_neto": 8557.72,
     "impuestos": 45.16,
@@ -15933,7 +15933,7 @@
     "precio_dolar": 10400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -15945,7 +15945,7 @@
     "ean": "0",
     "cod_articulo": "4310",
     "articulo": "Combo Sandwich Milanesa + Papas + Gaseosa 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13100,
     "volumen_x_unidad": "Un",
     "precio_neto": 10789.13,
     "impuestos": 45.16,
@@ -15957,7 +15957,7 @@
     "precio_dolar": 13100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -16101,7 +16101,7 @@
     "precio_dolar": 10450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -16257,7 +16257,7 @@
     "ean": "0",
     "cod_articulo": "4515",
     "articulo": "Combo 3 Empanadas + Gaseosa 500 Ml",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 8900,
     "volumen_x_unidad": "Un",
     "precio_neto": 7318.05,
     "impuestos": 45.16,
@@ -16269,7 +16269,7 @@
     "precio_dolar": 8900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -16365,7 +16365,7 @@
     "precio_dolar": 9500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -16389,7 +16389,7 @@
     "precio_dolar": 9500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -16413,7 +16413,7 @@
     "precio_dolar": 9500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -16677,7 +16677,7 @@
     "precio_dolar": 5100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -16785,7 +16785,7 @@
     "ean": "0",
     "cod_articulo": "365",
     "articulo": "Hamb c/queso Grandw + Papas + Gase 500 Ml 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 12900,
     "volumen_x_unidad": "Un",
     "precio_neto": 10623.84,
     "impuestos": 45.16,
@@ -16797,7 +16797,7 @@
     "precio_dolar": 12900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:59"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -16857,7 +16857,7 @@
     "ean": "0",
     "cod_articulo": "3087",
     "articulo": "Combo Hamb Doble Grandwich + Gaseosa 500 Ml + Papas",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 13600,
     "volumen_x_unidad": "Un",
     "precio_neto": 11202.35,
     "impuestos": 45.16,
@@ -16869,7 +16869,7 @@
     "precio_dolar": 13600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -27597,7 +27597,7 @@
     "precio_dolar": 3405,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -27645,7 +27645,7 @@
     "precio_dolar": 2955,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -27717,7 +27717,7 @@
     "precio_dolar": 2895,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -27765,7 +27765,7 @@
     "precio_dolar": 5800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28797,7 +28797,7 @@
     "precio_dolar": 3630,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28821,7 +28821,7 @@
     "precio_dolar": 3600,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28845,7 +28845,7 @@
     "precio_dolar": 2040,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28869,7 +28869,7 @@
     "precio_dolar": 5800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28893,7 +28893,7 @@
     "precio_dolar": 6425,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28917,7 +28917,7 @@
     "precio_dolar": 3705,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28941,7 +28941,7 @@
     "precio_dolar": 2095,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -28965,7 +28965,7 @@
     "precio_dolar": 8500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -29877,7 +29877,7 @@
     "precio_dolar": 390,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -36789,7 +36789,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:14:49"
+    "fecha_ult_act": "2025-06-24 00:14:45"
   },
   {
     "bandera": "YPF",
@@ -39585,7 +39585,7 @@
     "ean": "0",
     "cod_articulo": "208",
     "articulo": "Pebete JyQ Grand+Pet 500 ml Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4482.91,
     "volumen_x_unidad": "Un",
     "precio_neto": 3648.49,
     "impuestos": 68.24,
@@ -39597,7 +39597,7 @@
     "precio_dolar": 4482.91,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -39777,7 +39777,7 @@
     "ean": "0",
     "cod_articulo": "8483",
     "articulo": "2 Empanadas + Pet Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 3087.58,
     "volumen_x_unidad": "Un",
     "precio_neto": 2495.33,
     "impuestos": 68.24,
@@ -39789,7 +39789,7 @@
     "precio_dolar": 3087.58,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
@@ -39801,7 +39801,7 @@
     "ean": "0",
     "cod_articulo": "8484",
     "articulo": "Pebete JyQ Grand+Pet Personal 1 Un",
-    "precio_x_unidad": 1,
+    "precio_x_unidad": 4482.91,
     "volumen_x_unidad": "Un",
     "precio_neto": 3648.49,
     "impuestos": 68.24,
@@ -39813,7 +39813,7 @@
     "precio_dolar": 4482.91,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-23",
-    "fecha_ult_act": "2025-06-23 20:15:00"
+    "fecha_ult_act": "2025-06-24 00:14:44"
   },
   {
     "bandera": "YPF",
