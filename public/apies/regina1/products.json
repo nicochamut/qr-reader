@@ -9849,7 +9849,7 @@
     "ean": "0",
     "cod_articulo": "12555",
     "articulo": "Promo Gall Pepitos 119 Gr 20% dto JUAG 25",
-    "precio_x_unidad": 2170,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1793.39,
     "impuestos": 0,
@@ -9861,7 +9861,7 @@
     "precio_dolar": 2170,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -9873,7 +9873,7 @@
     "ean": "0",
     "cod_articulo": "12556",
     "articulo": "Promo Takis 49 Gr 2da al 20% dto JUAG 25",
-    "precio_x_unidad": 3510,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2900.83,
     "impuestos": 0,
@@ -9885,7 +9885,7 @@
     "precio_dolar": 3510,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -9897,7 +9897,7 @@
     "ean": "0",
     "cod_articulo": "12557",
     "articulo": "Promo Snack Gallo 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 2320,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1917.36,
     "impuestos": 0,
@@ -9909,7 +9909,7 @@
     "precio_dolar": 2320,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -9993,19 +9993,19 @@
     "ean": "7790580259402",
     "cod_articulo": "10672",
     "articulo": "Gomitas Mogul Moras 150 Gr",
-    "precio_x_unidad": 21000,
-    "volumen_x_unidad": "1000 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 2603.31,
     "impuestos": 0,
     "iva": 546.69,
     "precio": 3150,
-    "unidad": 150,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 3150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -10497,7 +10497,7 @@
     "ean": "0",
     "cod_articulo": "12558",
     "articulo": "Promo Papas Pringles 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 5100,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4214.88,
     "impuestos": 0,
@@ -10509,7 +10509,7 @@
     "precio_dolar": 5100,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -11241,7 +11241,7 @@
     "ean": "0",
     "cod_articulo": "12559",
     "articulo": "Promo Gall Twistos Jam�n 95 Gr 20% dto JUAG 25",
-    "precio_x_unidad": 2590,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2140.5,
     "impuestos": 0,
@@ -11253,7 +11253,7 @@
     "precio_dolar": 2590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -15225,7 +15225,7 @@
     "ean": "0",
     "cod_articulo": "12506",
     "articulo": "Combo Croque Caliente + Gaseosa",
-    "precio_x_unidad": 7950,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 6532.93,
     "impuestos": 45.16,
@@ -15237,7 +15237,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -15369,7 +15369,7 @@
     "ean": "0",
     "cod_articulo": "12512",
     "articulo": "Combo Croque Caliente + Aquarius",
-    "precio_x_unidad": 7950,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 6570.25,
     "impuestos": 0,
@@ -15381,7 +15381,7 @@
     "precio_dolar": 7950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -16737,7 +16737,7 @@
     "ean": "0",
     "cod_articulo": "11773",
     "articulo": "Extra Palta",
-    "precio_x_unidad": 1200,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 991.74,
     "impuestos": 0,
@@ -16749,7 +16749,7 @@
     "precio_dolar": 1200,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -17385,7 +17385,7 @@
     "ean": "0",
     "cod_articulo": "12575",
     "articulo": "Promo Prime 15% dto en la unidad JUAG 25",
-    "precio_x_unidad": 3575,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2954.55,
     "impuestos": 0,
@@ -17397,7 +17397,7 @@
     "precio_dolar": 3575,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -18537,19 +18537,19 @@
     "ean": "7622202216589",
     "cod_articulo": "12493",
     "articulo": "Gomitas Bubba Frutilla 15 Gr",
-    "precio_x_unidad": 393.33,
-    "volumen_x_unidad": "10 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 487.6,
     "impuestos": 0,
     "iva": 102.4,
     "precio": 590,
-    "unidad": 15,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -18561,19 +18561,19 @@
     "ean": "7622202217296",
     "cod_articulo": "12494",
     "articulo": "Gomitas Bubba Frutilla Cit 16,5 Gr",
-    "precio_x_unidad": 368.75,
-    "volumen_x_unidad": "10 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 487.6,
     "impuestos": 0,
     "iva": 102.4,
     "precio": 590,
-    "unidad": 16,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -19281,7 +19281,7 @@
     "ean": "0",
     "cod_articulo": "12565",
     "articulo": "Promo Alf Toddy 20% dto en la unidad JUAG 25",
-    "precio_x_unidad": 1320,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1090.91,
     "impuestos": 0,
@@ -19293,7 +19293,7 @@
     "precio_dolar": 1320,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -19737,19 +19737,19 @@
     "ean": "7792981071263",
     "cod_articulo": "12577",
     "articulo": "Barra Proteica ENA Frutilla 46 Gr",
-    "precio_x_unidad": 652.17,
-    "volumen_x_unidad": "10 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 2479.34,
     "impuestos": 0,
     "iva": 520.66,
     "precio": 3000,
-    "unidad": 46,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 3000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -19977,19 +19977,19 @@
     "ean": "78600010",
     "cod_articulo": "4277",
     "articulo": "Caram Tic Tac Menta 16 Gr",
-    "precio_x_unidad": 631.25,
-    "volumen_x_unidad": "10 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 834.71,
     "impuestos": 0,
     "iva": 175.29,
     "precio": 1010,
-    "unidad": 16,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 1010,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -20481,7 +20481,7 @@
     "ean": "0",
     "cod_articulo": "12566",
     "articulo": "Promo Mantecol 2do al 50% dto JUAG 25",
-    "precio_x_unidad": 2550,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2107.44,
     "impuestos": 0,
@@ -20493,7 +20493,7 @@
     "precio_dolar": 2550,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -21177,7 +21177,7 @@
     "ean": "0",
     "cod_articulo": "12561",
     "articulo": "Promo Chic Wrigleys 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 2970,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2454.55,
     "impuestos": 0,
@@ -21189,7 +21189,7 @@
     "precio_dolar": 2970,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -21201,7 +21201,7 @@
     "ean": "0",
     "cod_articulo": "12573",
     "articulo": "Promo Chic Beldent Poseidon 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 1635,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1351.24,
     "impuestos": 0,
@@ -21213,7 +21213,7 @@
     "precio_dolar": 1635,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -21225,7 +21225,7 @@
     "ean": "0",
     "cod_articulo": "12574",
     "articulo": "Promo Choc Kinder Bueno 2do al 50% dto JUAG 25",
-    "precio_x_unidad": 5400,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4462.81,
     "impuestos": 0,
@@ -21237,7 +21237,7 @@
     "precio_dolar": 5400,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23841,7 +23841,7 @@
     "ean": "0",
     "cod_articulo": "12560",
     "articulo": "Promo Snickers y M&M 2da al 40% dto JUAG 25",
-    "precio_x_unidad": 5855,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4838.84,
     "impuestos": 0,
@@ -23853,7 +23853,7 @@
     "precio_dolar": 5855,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23865,7 +23865,7 @@
     "ean": "0",
     "cod_articulo": "12562",
     "articulo": "Promo Nugaton 3x2 JUAG 25",
-    "precio_x_unidad": 2840,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2347.11,
     "impuestos": 0,
@@ -23877,7 +23877,7 @@
     "precio_dolar": 2840,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23889,7 +23889,7 @@
     "ean": "0",
     "cod_articulo": "12563",
     "articulo": "Promo Chocman 2do al 50% dto JUAG 25",
-    "precio_x_unidad": 1560,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1289.26,
     "impuestos": 0,
@@ -23901,7 +23901,7 @@
     "precio_dolar": 1560,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23913,7 +23913,7 @@
     "ean": "0",
     "cod_articulo": "12564",
     "articulo": "Promo KitKat 2do al 40% dto JUAG 25",
-    "precio_x_unidad": 3405,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2814.05,
     "impuestos": 0,
@@ -23925,7 +23925,7 @@
     "precio_dolar": 3405,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23937,7 +23937,7 @@
     "ean": "0",
     "cod_articulo": "12567",
     "articulo": "Promo Choc sin Az�car 30% dto en la unidad JUAG 25",
-    "precio_x_unidad": 2015,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1665.29,
     "impuestos": 0,
@@ -23949,7 +23949,7 @@
     "precio_dolar": 2015,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23961,7 +23961,7 @@
     "ean": "0",
     "cod_articulo": "12569",
     "articulo": "Promo Bomb Bon o Bon 2do al 50% dto JUAG 25",
-    "precio_x_unidad": 945,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 780.99,
     "impuestos": 0,
@@ -23973,7 +23973,7 @@
     "precio_dolar": 945,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -23985,7 +23985,7 @@
     "ean": "0",
     "cod_articulo": "12570",
     "articulo": "Promo Oblea Bon o Bon 30gr 2da al 40% dto JUAG 25",
-    "precio_x_unidad": 1805,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1491.74,
     "impuestos": 0,
@@ -23997,7 +23997,7 @@
     "precio_dolar": 1805,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -24009,7 +24009,7 @@
     "ean": "0",
     "cod_articulo": "12571",
     "articulo": "Promo Oblea Bon o Bon XL 2da al 40% dto JUAG 25",
-    "precio_x_unidad": 2750,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2272.73,
     "impuestos": 0,
@@ -24021,7 +24021,7 @@
     "precio_dolar": 2750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -24033,7 +24033,7 @@
     "ean": "0",
     "cod_articulo": "12572",
     "articulo": "Promo Choc Shot 25% dto en la unidad JUAG 25",
-    "precio_x_unidad": 1620,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1338.84,
     "impuestos": 0,
@@ -24045,7 +24045,7 @@
     "precio_dolar": 1620,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -24225,7 +24225,7 @@
     "ean": "0",
     "cod_articulo": "12568",
     "articulo": "Promo Pilas AA2Un � AAA2Un 15% dto en la unidad JUAG 25",
-    "precio_x_unidad": 4590,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 3793.39,
     "impuestos": 0,
@@ -24237,7 +24237,7 @@
     "precio_dolar": 4590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -26961,7 +26961,7 @@
     "ean": "0",
     "cod_articulo": "12534",
     "articulo": "Promo Donas 2da unidad al 40% dto JUAG 25",
-    "precio_x_unidad": 3900,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 3223.14,
     "impuestos": 0,
@@ -26973,7 +26973,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -26985,7 +26985,7 @@
     "ean": "0",
     "cod_articulo": "12535",
     "articulo": "Promo Donas Rellenas 2da unidad al 40% dto JUAG 25",
-    "precio_x_unidad": 4000,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 3305.79,
     "impuestos": 0,
@@ -26997,7 +26997,7 @@
     "precio_dolar": 4000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -27009,7 +27009,7 @@
     "ean": "0",
     "cod_articulo": "12536",
     "articulo": "Promo Muffins Rellenos 2do al 40% dto JUAG 2025",
-    "precio_x_unidad": 5350,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4421.49,
     "impuestos": 0,
@@ -27021,7 +27021,7 @@
     "precio_dolar": 5350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -27033,7 +27033,7 @@
     "ean": "0",
     "cod_articulo": "12537",
     "articulo": "Promo Muffins 2do al 40% dto JUAG 2025",
-    "precio_x_unidad": 5300,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4380.17,
     "impuestos": 0,
@@ -27045,7 +27045,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -27321,7 +27321,7 @@
     "ean": "0",
     "cod_articulo": "8673",
     "articulo": "Sand Americano c/panceta y huevo",
-    "precio_x_unidad": 5050,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4173.55,
     "impuestos": 0,
@@ -27333,7 +27333,7 @@
     "precio_dolar": 5050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -27345,7 +27345,7 @@
     "ean": "0",
     "cod_articulo": "8674",
     "articulo": "Sandwich Americano c/huevo 1 Un",
-    "precio_x_unidad": 5000,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4132.23,
     "impuestos": 0,
@@ -27357,7 +27357,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28233,7 +28233,7 @@
     "ean": "0",
     "cod_articulo": "12539",
     "articulo": "Promo Jugo Tutti 200ml 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 1695,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1400.83,
     "impuestos": 0,
@@ -28245,7 +28245,7 @@
     "precio_dolar": 1695,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28257,7 +28257,7 @@
     "ean": "0",
     "cod_articulo": "12543",
     "articulo": "Promo Cepita Naranja/Manzana/Durazno 2da al 30% dto JUAG 25",
-    "precio_x_unidad": 2515,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2078.51,
     "impuestos": 0,
@@ -28269,7 +28269,7 @@
     "precio_dolar": 2515,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28281,7 +28281,7 @@
     "ean": "0",
     "cod_articulo": "12544",
     "articulo": "Promo Cepita Naranja/Manzana/Durazno 10% dto JUAG 25",
-    "precio_x_unidad": 1330,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1099.17,
     "impuestos": 0,
@@ -28293,7 +28293,7 @@
     "precio_dolar": 1330,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28305,7 +28305,7 @@
     "ean": "0",
     "cod_articulo": "12545",
     "articulo": "Promo Ades Manzana/Frutas Tropicales 2da al 30% dto JUAG 25",
-    "precio_x_unidad": 3110,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2570.25,
     "impuestos": 0,
@@ -28317,7 +28317,7 @@
     "precio_dolar": 3110,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28329,7 +28329,7 @@
     "ean": "0",
     "cod_articulo": "12546",
     "articulo": "Promo Ades Manzana/Frutas Tropicales 10% dto JUAG 25",
-    "precio_x_unidad": 1645,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1359.5,
     "impuestos": 0,
@@ -28341,7 +28341,7 @@
     "precio_dolar": 1645,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28353,7 +28353,7 @@
     "ean": "0",
     "cod_articulo": "12549",
     "articulo": "Promo Citric Limonada/Pomelada 500 ml 2x1 JUAG 25",
-    "precio_x_unidad": 3380,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2793.39,
     "impuestos": 0,
@@ -28365,7 +28365,7 @@
     "precio_dolar": 3380,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28497,7 +28497,7 @@
     "ean": "0",
     "cod_articulo": "12540",
     "articulo": "Promo Suerox 20% JUAG 25",
-    "precio_x_unidad": 3095,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2557.85,
     "impuestos": 0,
@@ -28509,7 +28509,7 @@
     "precio_dolar": 3095,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -28929,7 +28929,7 @@
     "ean": "0",
     "cod_articulo": "12547",
     "articulo": "Promo Villavicencio 500 ml 20% dto JUAG 25",
-    "precio_x_unidad": 1615,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1313.18,
     "impuestos": 26.05,
@@ -28941,7 +28941,7 @@
     "precio_dolar": 1615,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -29649,7 +29649,7 @@
     "ean": "0",
     "cod_articulo": "12541",
     "articulo": "Promo Coca Zero/Ligth y Sprite Regular/Zero 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 3975,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 3229.15,
     "impuestos": 67.73,
@@ -29661,7 +29661,7 @@
     "precio_dolar": 3975,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -29673,7 +29673,7 @@
     "ean": "0",
     "cod_articulo": "12542",
     "articulo": "Promo Coca Zero/Ligth y Sprite Regular/Zero 15% dto JUAG 25",
-    "precio_x_unidad": 2250,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1831.52,
     "impuestos": 33.87,
@@ -29685,7 +29685,7 @@
     "precio_dolar": 2250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -29793,7 +29793,7 @@
     "ean": "0",
     "cod_articulo": "12538",
     "articulo": "Promo Speed 20% dto JUAG 25",
-    "precio_x_unidad": 2590,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2140.5,
     "impuestos": 0,
@@ -29805,7 +29805,7 @@
     "precio_dolar": 2590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -30297,7 +30297,7 @@
     "ean": "0",
     "cod_articulo": "12548",
     "articulo": "Promo Levit� 500 ml 25% dto JUAG 25",
-    "precio_x_unidad": 1745,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1420.02,
     "impuestos": 26.78,
@@ -30309,7 +30309,7 @@
     "precio_dolar": 1745,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -30729,19 +30729,19 @@
     "ean": "7798422620069",
     "cod_articulo": "12515",
     "articulo": "Monster Energy Watermelon Lata 473 Ml",
-    "precio_x_unidad": 8372.09,
-    "volumen_x_unidad": "1000 Ml",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 3123.84,
     "impuestos": 180.16,
     "iva": 656.01,
     "precio": 3960,
-    "unidad": 473,
-    "unidad_medida": "Ml",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 3960,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -31257,7 +31257,7 @@
     "ean": "0",
     "cod_articulo": "12553",
     "articulo": "Promo Helado Arcor Paleta Coraz�n Bon o Bon 15% dto JUAG 25",
-    "precio_x_unidad": 3270,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2702.48,
     "impuestos": 0,
@@ -31269,7 +31269,7 @@
     "precio_dolar": 3270,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -31281,7 +31281,7 @@
     "ean": "0",
     "cod_articulo": "12554",
     "articulo": "Promo Helado Arcor Cono Coraz�n Bon o Bon 15% dto JUAG 25",
-    "precio_x_unidad": 3270,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2702.48,
     "impuestos": 0,
@@ -31293,7 +31293,7 @@
     "precio_dolar": 3270,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -31497,7 +31497,7 @@
     "ean": "0",
     "cod_articulo": "12550",
     "articulo": "Promo Leche Cindor Brik 200 cc 25% dto JUAG 25",
-    "precio_x_unidad": 1950,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1611.57,
     "impuestos": 0,
@@ -31509,7 +31509,7 @@
     "precio_dolar": 1950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -38193,7 +38193,7 @@
     "ean": "0",
     "cod_articulo": "12516",
     "articulo": "Promo Messi 10% dto Cafe Exp Jarrito + 2 Facturas",
-    "precio_x_unidad": 3900,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 3223.14,
     "impuestos": 0,
@@ -38205,7 +38205,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -41025,19 +41025,19 @@
     "ean": "0",
     "cod_articulo": "8645",
     "articulo": "AZUL32  GR",
-    "precio_x_unidad": 10691.4,
-    "volumen_x_unidad": "10 Ml",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 1325.38,
     "impuestos": 0,
     "iva": 278.33,
     "precio": 1603.71,
-    "unidad": 1.5,
-    "unidad_medida": "Ml",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 1603.71,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -41073,7 +41073,7 @@
     "ean": "0",
     "cod_articulo": "11668",
     "articulo": "AZUL 32 GR YPF",
-    "precio_x_unidad": 1471,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1215.7,
     "impuestos": 0,
@@ -41085,7 +41085,7 @@
     "precio_dolar": 1471,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -41097,7 +41097,7 @@
     "ean": "0",
     "cod_articulo": "11672",
     "articulo": "Azul 32 granel (fuera de VOX) YPF litro.",
-    "precio_x_unidad": 1471,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1215.7,
     "impuestos": 0,
@@ -41109,7 +41109,7 @@
     "precio_dolar": 1471,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:45"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
@@ -44505,19 +44505,19 @@
     "ean": "0",
     "cod_articulo": "12458",
     "articulo": "VECTIS G540   TR",
-    "precio_x_unidad": 5177.12,
-    "volumen_x_unidad": "Lt",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 877114.88,
     "impuestos": 0,
     "iva": 184194.12,
     "precio": 1061309,
-    "unidad": 205,
-    "unidad_medida": "Lt",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 1061309,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-26",
-    "fecha_ult_act": "2025-06-27 00:14:46"
+    "fecha_ult_act": "2025-06-27 00:15:26"
   },
   {
     "bandera": "YPF",
