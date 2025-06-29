@@ -9921,7 +9921,7 @@
     "ean": "0",
     "cod_articulo": "12583",
     "articulo": "Promo Galletitas Arcor 15% dto JUAG 25",
-    "precio_x_unidad": 1580,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1305.79,
     "impuestos": 0,
@@ -9933,7 +9933,7 @@
     "precio_dolar": 1580,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -10017,19 +10017,19 @@
     "ean": "7790580259402",
     "cod_articulo": "10672",
     "articulo": "Gomitas Mogul Moras 150 Gr",
-    "precio_x_unidad": 21000,
-    "volumen_x_unidad": "1000 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 2603.31,
     "impuestos": 0,
     "iva": 546.69,
     "precio": 3150,
-    "unidad": 150,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 3150,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -10305,7 +10305,7 @@
     "ean": "0",
     "cod_articulo": "12581",
     "articulo": "Promo Donuts 78 gr 2da al 50% dto JUAG 25",
-    "precio_x_unidad": 4980,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 4115.7,
     "impuestos": 0,
@@ -10317,7 +10317,7 @@
     "precio_dolar": 4980,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -10569,7 +10569,7 @@
     "ean": "0",
     "cod_articulo": "12582",
     "articulo": "Promo Lays Clasicas 85 Gr 20% dto JUAG 25",
-    "precio_x_unidad": 2880,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 2380.17,
     "impuestos": 0,
@@ -10581,7 +10581,7 @@
     "precio_dolar": 2880,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -20049,19 +20049,19 @@
     "ean": "78600010",
     "cod_articulo": "4277",
     "articulo": "Caram Tic Tac Menta 16 Gr",
-    "precio_x_unidad": 631.25,
-    "volumen_x_unidad": "10 Gr",
+    "precio_x_unidad": 1,
+    "volumen_x_unidad": "Un",
     "precio_neto": 834.71,
     "impuestos": 0,
     "iva": 175.29,
     "precio": 1010,
-    "unidad": 16,
-    "unidad_medida": "Gr",
+    "unidad": 1,
+    "unidad_medida": "Un",
     "ubicacion": "\u0000",
     "precio_dolar": 1010,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -24105,7 +24105,7 @@
     "ean": "0",
     "cod_articulo": "12572",
     "articulo": "Promo Choc Shot 25% dto en la unidad JUAG 25",
-    "precio_x_unidad": 1620,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1338.84,
     "impuestos": 0,
@@ -24117,7 +24117,7 @@
     "precio_dolar": 1620,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -41145,7 +41145,7 @@
     "ean": "0",
     "cod_articulo": "11668",
     "articulo": "AZUL 32 GR YPF",
-    "precio_x_unidad": 1471,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1215.7,
     "impuestos": 0,
@@ -41157,7 +41157,7 @@
     "precio_dolar": 1471,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -41169,7 +41169,7 @@
     "ean": "0",
     "cod_articulo": "11672",
     "articulo": "Azul 32 granel (fuera de VOX) YPF litro.",
-    "precio_x_unidad": 1471,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 1215.7,
     "impuestos": 0,
@@ -41181,7 +41181,7 @@
     "precio_dolar": 1471,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
@@ -57153,7 +57153,7 @@
     "ean": "7798011660018",
     "cod_articulo": "5664",
     "articulo": "Botiquin Bolsito Gde 1 Un",
-    "precio_x_unidad": 0.01,
+    "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
     "precio_neto": 0.01,
     "impuestos": 0,
@@ -57165,7 +57165,7 @@
     "precio_dolar": 0.01,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-06-28",
-    "fecha_ult_act": "2025-06-29 08:15:13"
+    "fecha_ult_act": "2025-06-29 12:14:46"
   },
   {
     "bandera": "YPF",
