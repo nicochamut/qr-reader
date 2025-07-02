@@ -17445,7 +17445,7 @@
     "precio_dolar": 590,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -17613,7 +17613,7 @@
     "precio_dolar": 670,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -18477,7 +18477,7 @@
     "precio_dolar": 1730,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -19749,7 +19749,7 @@
     "precio_dolar": 1010,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -21285,7 +21285,7 @@
     "precio_dolar": 4050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -22461,7 +22461,7 @@
     "precio_dolar": 1610,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -22797,7 +22797,7 @@
     "precio_dolar": 4050,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -23963,9 +23963,9 @@
     "articulo": "* Ciga Lucky C & R Convertible 12 Paq 12 Un",
     "precio_x_unidad": 2350,
     "volumen_x_unidad": "Un",
-    "precio_neto": 504.5,
-    "impuestos": 1739.56,
-    "iva": 105.95,
+    "precio_neto": 502.69,
+    "impuestos": 1741.75,
+    "iva": 105.57,
     "precio": 2350,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -23973,7 +23973,7 @@
     "precio_dolar": 2350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-01 10:16:01"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -23987,9 +23987,9 @@
     "articulo": "* Ciga Lucky C & R Convertible Box Picc 20 Un",
     "precio_x_unidad": 3900,
     "volumen_x_unidad": "Un",
-    "precio_neto": 837.19,
-    "impuestos": 2887,
-    "iva": 175.81,
+    "precio_neto": 834.17,
+    "impuestos": 2890.66,
+    "iva": 175.18,
     "precio": 3900,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -23997,7 +23997,7 @@
     "precio_dolar": 3900,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-01 10:16:01"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -24011,9 +24011,9 @@
     "articulo": "* Ciga Lucky Double Click Box Picc 20 Un",
     "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
-    "precio_neto": 957.51,
-    "impuestos": 3291.42,
-    "iva": 201.08,
+    "precio_neto": 954.49,
+    "impuestos": 3295.07,
+    "iva": 200.44,
     "precio": 4450,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -24021,7 +24021,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-01 10:16:01"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -24059,9 +24059,9 @@
     "articulo": "Ciga Marlboro Vista Purple Fusion Box Mass 20 Un",
     "precio_x_unidad": 4450,
     "volumen_x_unidad": "Un",
-    "precio_neto": 957.51,
-    "impuestos": 3291.42,
-    "iva": 201.08,
+    "precio_neto": 954.49,
+    "impuestos": 3295.07,
+    "iva": 200.44,
     "precio": 4450,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -24069,7 +24069,7 @@
     "precio_dolar": 4450,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-01 10:16:01"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -24275,9 +24275,9 @@
     "articulo": "* Ciga Lucky C & R Convertible 20 20 Un",
     "precio_x_unidad": 3500,
     "volumen_x_unidad": "Un",
-    "precio_neto": 749.68,
-    "impuestos": 2592.89,
-    "iva": 157.43,
+    "precio_neto": 746.66,
+    "impuestos": 2596.54,
+    "iva": 156.8,
     "precio": 3500,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -24285,7 +24285,7 @@
     "precio_dolar": 3500,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-01 10:16:01"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -25067,9 +25067,9 @@
     "articulo": "Ciga Chesterfield SP Ks Clasico 20 Un",
     "precio_x_unidad": 2830,
     "volumen_x_unidad": "Un",
-    "precio_neto": 603.11,
-    "impuestos": 2100.24,
-    "iva": 126.65,
+    "precio_neto": 600.09,
+    "impuestos": 2103.89,
+    "iva": 126.02,
     "precio": 2830,
     "unidad": 1,
     "unidad_medida": "Un",
@@ -25077,7 +25077,7 @@
     "precio_dolar": 2830,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-01 10:16:01"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -29685,7 +29685,7 @@
     "precio_dolar": 5000,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -29757,7 +29757,7 @@
     "precio_dolar": 3780,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -29781,7 +29781,7 @@
     "precio_dolar": 3780,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:22"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -31245,7 +31245,7 @@
     "precio_dolar": 3950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:27"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -34269,7 +34269,7 @@
     "precio_dolar": 4350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:27"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -34389,7 +34389,7 @@
     "precio_dolar": 4750,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:27"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37557,7 +37557,7 @@
     "precio_dolar": 3950,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:27"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37797,7 +37797,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:23"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37821,7 +37821,7 @@
     "precio_dolar": 4350,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:27"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37869,7 +37869,7 @@
     "precio_dolar": 5300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:23"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37893,7 +37893,7 @@
     "precio_dolar": 6250,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:23"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37941,7 +37941,7 @@
     "precio_dolar": 3800,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:27"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
@@ -37965,7 +37965,7 @@
     "precio_dolar": 6300,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-02",
-    "fecha_ult_act": "2025-07-02 16:15:23"
+    "fecha_ult_act": "2025-07-02 20:15:00"
   },
   {
     "bandera": "YPF",
