@@ -131,17 +131,17 @@
     "articulo": "GNC",
     "precio_x_unidad": 1,
     "volumen_x_unidad": "Un",
-    "precio_neto": 811.39,
+    "precio_neto": 492.38,
     "impuestos": 18.22,
-    "iva": 170.39,
-    "precio": 1000,
+    "iva": 103.4,
+    "precio": 614,
     "unidad": 1,
     "unidad_medida": "Un",
     "ubicacion": "h4",
-    "precio_dolar": 1000,
+    "precio_dolar": 614,
     "cotiz_dolar": 1,
     "fecha_cotiz_dolar": "2025-07-15",
-    "fecha_ult_act": "2025-07-15 13:56:40"
+    "fecha_ult_act": "2025-07-15 22:52:05"
   },
   {
     "bandera": "YPF",
